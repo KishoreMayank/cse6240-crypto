@@ -1,0 +1,4617 @@
+{
+    "dsbdfgq": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbdfgq",
+            "Author": "BashCo",
+            "Date Created": "01-07-2018 05:41:54",
+            "Upvotes": 1,
+            "Text": "Don't miss the [Critical Electrum vulnerability](https://www.reddit.com/r/Bitcoin/comments/7ooack/critical_electrum_vulnerability/) thread. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": true
+        }
+    ],
+    "dsbdez3": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbdez3",
+            "Author": "Elum224",
+            "Date Created": "01-07-2018 05:41:18",
+            "Upvotes": 16,
+            "Text": "Wallets need a new transaction batching UI. \nI should be able to select \"new batch\" then \"add\" transactions to it.   \nFollowed by \"save and close\" or \"Save, close and send if fees are low\".  \nLater when I have a new transaction to add I'll open my batched tx, add the new recipient and amount and close it again.   \nThat way I can save up my (non time critical) tx's over the course of the month and then send when I have 5-10 together. \n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscdw0v": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscdw0v",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 19:27:21",
+            "Upvotes": 11,
+            "Text": "[deleted]",
+            "Edited?": "05-02-2018 22:48:40",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbiqvg": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbiqvg",
+            "Author": "DJBunnies",
+            "Date Created": "01-07-2018 09:22:19",
+            "Upvotes": 7,
+            "Text": "Can we talk about the new awful sticky font color choice? Can the mods get a designer to help?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc0fxz": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsc0fxz",
+            "Author": "aquahealer",
+            "Date Created": "01-07-2018 15:22:30",
+            "Upvotes": 6,
+            "Text": "It blows my mind every time I meet a person that never heard of the word Bitcoin...then again I guess it proves that there's still tens of millions of new buyers out there  ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbgcjp": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbgcjp",
+            "Author": "theYurtMaster",
+            "Date Created": "01-07-2018 07:59:46",
+            "Upvotes": 7,
+            "Text": "Invested \u20ac300 December, have more than doubled my money. HODL, or take back my initial investment and let the rest run?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbq6l7": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbq6l7",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 12:14:47",
+            "Upvotes": 19,
+            "Text": "A month ago a guy on an ask reddit thread said he would eat a sock if the price of bitcoin didn't crash in a week because his dad's a stock broker. A week later he changed it to a month. I think we should get a sock eating video /u/ialo00130",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc48p8": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsc48p8",
+            "Author": "wakeupalice",
+            "Date Created": "01-07-2018 16:28:03",
+            "Upvotes": 11,
+            "Text": "Can someone shill me on why Bitcoin will actually be used as a currency and not usurped by one of the new, more technically capable kids on the block? These high fees and high processing times are killing my optimism. I need to believe again. Disclaimer: I have my eggs in several baskets, including BTC and alts.",
+            "Edited?": "01-07-2018 16:36:15",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbenm7": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbenm7",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 06:40:55",
+            "Upvotes": 6,
+            "Text": "[deleted]",
+            "Edited?": "01-07-2018 06:44:30",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbxuj8": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbxuj8",
+            "Author": "TidyMosquito245",
+            "Date Created": "01-07-2018 14:35:19",
+            "Upvotes": 5,
+            "Text": "Just saw a fucking jack in the box commercial where the guy threw in the comment \"bitcoin about to go bust\" hate seeing dumb shit like that lead to FUD",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbm9wu": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbm9wu",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 10:53:25",
+            "Upvotes": 4,
+            "Text": "Does anyone know how to calculate average transaction fee and time?\n\nFees - bitinfocharts has an average fee chart:\n\nhttps://bitinfocharts.com/comparison/bitcoin-transactionfees.html#3m\n\nI guess they just monitor transactions and calculate satoshis to usd, then average over the day.\n\nTime - we can monitor block time, but transactions take much longer than blocktime due to unconfirmed transactions. How can we actively monitor tx time? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbndiq": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbndiq",
+            "Author": "NevilleLongbottom",
+            "Date Created": "01-07-2018 11:17:45",
+            "Upvotes": 6,
+            "Text": "What is a good and secure exchange to trade altcoins if you can't use binance?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc1mgi": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsc1mgi",
+            "Author": "marcsrx",
+            "Date Created": "01-07-2018 15:43:31",
+            "Upvotes": 4,
+            "Text": "What you guys think, is 16k a good buy price or wait for more of a drop?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbyukv": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbyukv",
+            "Author": "Coffeeupthebutt",
+            "Date Created": "01-07-2018 14:53:48",
+            "Upvotes": 8,
+            "Text": "Dips make me happy. I mean going through the dip sucks, seeing all the FUD is hard but afterwords when it goes back up I feel like I\u2019ve actually done something to earn the bitcoins. I\u2019ve sweated a little and it feels like an accomplishment. I plan on hodling til btc is widely accepted as payment so I\u2019m in it for the long haul. Looking at it this way helps me HODL just thought I\u2019d share for anyone else who needs a little encouragement and maybe a stronger grip",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscay02": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscay02",
+            "Author": "yourfaceson",
+            "Date Created": "01-07-2018 18:31:49",
+            "Upvotes": 9,
+            "Text": "Going to r/btc actually hurts me. It\u2019s like, r/bitcoin and r/btc are so close, but they hate each other. Both think the other is completely brainwashed, and they talk trash about each other like there\u2019s nothing redeemable in either subreddit.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbr5ju": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbr5ju",
+            "Author": "messiahsk8er",
+            "Date Created": "01-07-2018 12:33:53",
+            "Upvotes": 4,
+            "Text": "This has probably been discussed but is someone working on an iOS wallet for lighting or is it still too early? \u201cYeah... that would be great\u201d",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscmq8r": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscmq8r",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 22:24:42",
+            "Upvotes": 3,
+            "Text": "Bitmom",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbu813": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbu813",
+            "Author": "Asdn1220",
+            "Date Created": "01-07-2018 13:30:30",
+            "Upvotes": 7,
+            "Text": "Down almost 7% at 13k btc volume. Fuck the bots",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbmefp": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbmefp",
+            "Author": "OptiqueMarquis",
+            "Date Created": "01-07-2018 10:56:18",
+            "Upvotes": 3,
+            "Text": "what now? why is it going down again?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc011j": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsc011j",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 15:15:11",
+            "Upvotes": 3,
+            "Text": "Is there anyway to add more money to the fee after you made the transaction \nIt\u2019s been 3 days 2 inputs 2 outputs no confirmations tho \n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc0ujz": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsc0ujz",
+            "Author": "Hypebeastcorner",
+            "Date Created": "01-07-2018 15:29:46",
+            "Upvotes": 3,
+            "Text": "I saw someone said their coinbase got shut down because they engaged in prohibited activity, he said \"buying marijuana related items\" (not sure what exactly. He claimed he did not engage in this activity and he had sent money to users. But even then my issue is coming from how did coinbase assume/know he engaged in this activity? That basically means they tracked his spending what wallets he sent money to and that kind of defeats the purpose of bitcoin being decentralized if your money is tracked...is he bluffing or is coinbase actually aware of where your money is being sent within their guidlines and prohibitions? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc1xgq": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsc1xgq",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 15:48:55",
+            "Upvotes": 3,
+            "Text": "Weird how BCH stays a constant 2500 while the trading volume is high.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc9be5": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsc9be5",
+            "Author": "patchymoose",
+            "Date Created": "01-07-2018 18:01:14",
+            "Upvotes": 3,
+            "Text": "What is the deal with the disproportionate transaction fees?\n\nI am not interested in Bitcoin for investing reasons at all. Not looking to make money off of the price fluctuations. Just wanted to try it out on my phone to use at a local place that has started taking them. \n\nFor my first transaction I wanted to make sure I was doing it correctly, so I transferred the minimum amount of .0001 from the exchange to my wallet. So the equivalent of a little over 1 USD. But the fee was almost 20 dollars! \n\nSo what's the deal, is Bitcoin just not intended for small amounts? I don't really intend to spend thousands of dollars in Bitcoin. But it seems like that's the only way it could be economical. Am I doing something wrong?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscf1ij": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscf1ij",
+            "Author": "borgelorp72",
+            "Date Created": "01-07-2018 19:48:26",
+            "Upvotes": 3,
+            "Text": "Price action setup here. It's about to either shoot up pretty good here in the next 15-20 minutes or so or take a temporary plummet. If it breaks below 16100 watch out I think. If it breaks ~16350 should shoot up. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscmsgx": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscmsgx",
+            "Author": "larssonyoo",
+            "Date Created": "01-07-2018 22:25:58",
+            "Upvotes": 3,
+            "Text": "The thing I am most worried about is that ETH/BTC broke down of their 6month-long bear pattern. That ratio breaking 0.70ish was the biggest fear for me and now that it happened I am not sure about the short-term movements of  Bitcoin, still hodling strong tho",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscszm7": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscszm7",
+            "Author": "Cork7432",
+            "Date Created": "01-08-2018 01:00:33",
+            "Upvotes": 3,
+            "Text": "First thing which I am doing after wake up is opening Reddit...lol",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscxyph": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscxyph",
+            "Author": "Pipdotcom",
+            "Date Created": "01-08-2018 04:03:18",
+            "Upvotes": 3,
+            "Text": "the question for bitcoin is who will be right: institutions, who are short, or retail investors (especially those in Japan and South Korea) who remain fervently long. If the past 7 years - in which retail has consistently trounced \"smart money\" returns are any indication, bitcoin is about to soar as yet another major short squeeze develops in the coming weeks and months.\n\nexcerpt from zero hedge",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbgkmx": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbgkmx",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 08:08:38",
+            "Upvotes": 5,
+            "Text": "[removed]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbl4ph": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbl4ph",
+            "Author": "CrusaderOrange",
+            "Date Created": "01-07-2018 10:26:40",
+            "Upvotes": 4,
+            "Text": "Bitcoin the Mother of cryptocurrency",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbo2d5": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbo2d5",
+            "Author": "c55v8",
+            "Date Created": "01-07-2018 11:32:09",
+            "Upvotes": 5,
+            "Text": "So what's tanking the price today? Is it the Microsoft news?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbwq10": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbwq10",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 14:15:23",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc828n": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsc828n",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 17:38:28",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc8xl5": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsc8xl5",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 17:54:18",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": "12-18-2019 06:37:09",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscbwg7": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscbwg7",
+            "Author": "MisterFreek",
+            "Date Created": "01-07-2018 18:49:51",
+            "Upvotes": 2,
+            "Text": "24 hour trading volume is very low on GDAX, what\u2019s driving the price?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscf77a": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscf77a",
+            "Author": "texretvet",
+            "Date Created": "01-07-2018 19:51:23",
+            "Upvotes": 2,
+            "Text": "Need some help. I am looking for an exchange. It is the one that the interface includes \u201ccards\u201d for each type of currency. I know they have Ethereum, lite coin, and bitcoin. They also have many fiat currencies. I put a small amount on that exchange quite a while back and don\u2019t remember the name of it. Thanks for your help folks!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscignq": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscignq",
+            "Author": "Faked-Beans",
+            "Date Created": "01-07-2018 20:55:55",
+            "Upvotes": 2,
+            "Text": "any thoughts on how far the china electricity to bitcoin miners news will effect price in the days to come ?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscmvyv": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscmvyv",
+            "Author": "HODLCOIN420",
+            "Date Created": "01-07-2018 22:28:03",
+            "Upvotes": 2,
+            "Text": "How long does it take coinbase prices to catch up to GDAX",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscydnh": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscydnh",
+            "Author": "ZioTron",
+            "Date Created": "01-08-2018 04:21:44",
+            "Upvotes": 2,
+            "Text": "***DON'T PANIC ON COINMARKETCAP!***\n\nThey just stopped taking Bithumb into consideration, nothing else...",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscyq63": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscyq63",
+            "Author": "MikeP3939",
+            "Date Created": "01-08-2018 04:37:17",
+            "Upvotes": 2,
+            "Text": "Interesting .... ETH overtook BTC as the most traded coin in last 24 hours.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbhfgk": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbhfgk",
+            "Author": "AussieCrypto",
+            "Date Created": "01-07-2018 08:40:01",
+            "Upvotes": 6,
+            "Text": "2018 will be big for Bitcoin!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbodcl": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbodcl",
+            "Author": "dejesuswho",
+            "Date Created": "01-07-2018 11:38:24",
+            "Upvotes": 7,
+            "Text": "BTC on discount before liftoff!!!! Buy buy buy ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscqvwp": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscqvwp",
+            "Author": "david4658",
+            "Date Created": "01-08-2018 00:02:07",
+            "Upvotes": 2,
+            "Text": "Bitcoin will be at least $40,000 Next Year",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbknh6": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbknh6",
+            "Author": "Thebababuddha",
+            "Date Created": "01-07-2018 10:14:57",
+            "Upvotes": 2,
+            "Text": "I am currently residing in Ireland and would like to know which exchange should i use to in order to invest in Bitcoin?\n\n\nWhich exchanges are segwit compatible? \n\n\nWhat are the ball park fees/transaction costs for trading in bitcoin? Which one is cost effective? Are they variable/customisable or fixed costs? \n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbue3k": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbue3k",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 13:33:36",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbxv0u": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbxv0u",
+            "Author": "NotUrKeysNotUrTesla",
+            "Date Created": "01-07-2018 14:35:33",
+            "Upvotes": 2,
+            "Text": "Sorry everyone, I caused the drop. I was too greedy and picked Josh ***Lambo***, Jacksonville Jaguars kicker, in the FanDuel Bitcoin bowl.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscgukf": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscgukf",
+            "Author": "borgelorp72",
+            "Date Created": "01-07-2018 20:23:13",
+            "Upvotes": 2,
+            "Text": "Possibly a double bottom near 15,750 now. May propel it back into the mid 16's and beyond from here.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsckjr4": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsckjr4",
+            "Author": "TerpZ",
+            "Date Created": "01-07-2018 21:39:03",
+            "Upvotes": 2,
+            "Text": "accidentallly lost a 0.05 bet that i meant to be 0.005 today :|",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscil18": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscil18",
+            "Author": "deweese3",
+            "Date Created": "01-07-2018 20:58:28",
+            "Upvotes": 0,
+            "Text": "Buy the dip! Man I wish I did not drop 5k on BTC yesterday, would have gotten a lot more today.... Look its at 7% correction, and if Thursday on is any indication then it should go down 20% and slowly rise again. HODL! Most experts put BTC hitting 100k within the next 2 years, buy the dip!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbo7p3": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbo7p3",
+            "Author": "Asdn1220",
+            "Date Created": "01-07-2018 11:35:12",
+            "Upvotes": 2,
+            "Text": "Buckle up boi$ looks like we are going down",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbx1ud": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbx1ud",
+            "Author": "jbat433",
+            "Date Created": "01-07-2018 14:21:06",
+            "Upvotes": 1,
+            "Text": "https://cointelegraph.com/news/study-22-of-bitcoin-investors-used-borrowed-money-for-trading-not-recommended",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsby7yf": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsby7yf",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 14:42:09",
+            "Upvotes": 1,
+            "Text": "[removed]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc0j45": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsc0j45",
+            "Author": "Hypebeastcorner",
+            "Date Created": "01-07-2018 15:24:03",
+            "Upvotes": 1,
+            "Text": "Anyone wanna explain if coinbase has \"penalties\" for sending a profit made off bitcoin to your bank account while leaving your initial investment in wallet and either keeping the profit USD or buying more bitcoin with that profit at a lower price during a dip? I havent held for a year yet and these tax rules are confusing. 19, new to taxes and bitcoin so if you feel like being a smartass do it somewhere else my feelings won't be hurt :) just need some wisdom is all. Thanks ahead of time.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc7dyj": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsc7dyj",
+            "Author": "dejesuswho",
+            "Date Created": "01-07-2018 17:26:15",
+            "Upvotes": 1,
+            "Text": "[thoughts on this?](https://www.cnbc.com/2018/01/05/fanduel-offers-a-chance-to-get-bitcoin-rich-off-of-the-nfl.html?__source=Facebook%7Cmain) ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsdrwpe": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsdrwpe",
+            "Author": "RyanDavis124",
+            "Date Created": "01-08-2018 15:38:19",
+            "Upvotes": 1,
+            "Text": "It does have real world value though.  I can send money to someone in China very inexpensively, anonymously, I can store money as if it was in an offshore account if I really wanted.  I can exchange money from currency to currency pretty easily too, it\u2019s has tons of value",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dso2uzt": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dso2uzt",
+            "Author": "Thebababuddha",
+            "Date Created": "01-14-2018 11:13:18",
+            "Upvotes": 1,
+            "Text": "I am currently residing in Ireland and would like to know which exchange should i use to in order to invest in Bitcoin?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc5ci9": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsc5ci9",
+            "Author": "MarbleWheels",
+            "Date Created": "01-07-2018 16:49:24",
+            "Upvotes": 1,
+            "Text": "Hey guys, for personal reasons (kid is expensive....) I gotta sell 0.15 Bitcoin. Should I do it right now or wait a few days? :)",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsce0sy": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsce0sy",
+            "Author": "GrimeyTimey",
+            "Date Created": "01-07-2018 19:29:50",
+            "Upvotes": 1,
+            "Text": "So I suppose making up a fake SSN to make a gemini account would be a bad thing yeah? Would they just deny the account?\n\nBecause after searching and reading a lot of threads in the forum, I don't think I feel comfortable giving out my SSN even with the whole KYC/AML stuff that companies have to follow. I don't mind IDing and bank info but yeah, SSN is too far. And the alternatives that people mention aren't great so I think I might just not do bitcoin after all which is too bad. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsciil5": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsciil5",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 20:57:02",
+            "Upvotes": 1,
+            "Text": "[removed]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsckbt0": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsckbt0",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 21:34:35",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": "01-07-2018 21:41:49",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbvutd": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbvutd",
+            "Author": "kaine23",
+            "Date Created": "01-07-2018 14:00:08",
+            "Upvotes": 0,
+            "Text": "anyone here still have little trust in bitcoincash compared to daddy bitcoin?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscpix5": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscpix5",
+            "Author": "yasemeen",
+            "Date Created": "01-07-2018 23:28:14",
+            "Upvotes": -2,
+            "Text": "GUYS PLEASE HELP ME IAM EXTREMELY DESPERATE AND LOST! I am brand new to the business and I was trying to buy at dip but coinbase wasn't verifying me so I was looking for a quick good alternative and a website called Rofx.net was recommended to me. So I went ahead and bought 1650 USD at 13k ...now it's saying that my profit is 0.00198700 BTC which is about 30 USD!?! lol how is this possible it went up more than 3k and 30 bucks is all I made?!?! Someone, please help I really have no clue whats going on and how this whole thing works. Call me stupid and dumb for putting in all that money I know I screwed up. But please just help me figure out whats going on. Anyone have experience with this website before?! THANK YOU, I REALLY APPRECIATE IT!!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbi6xf": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbi6xf",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 09:05:16",
+            "Upvotes": -11,
+            "Text": "[removed]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscg70x": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscg70x",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 20:09:49",
+            "Upvotes": 0,
+            "Text": "Do you need verification to send/receive bitcoin on coinbase?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscgbln": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscgbln",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 20:12:26",
+            "Upvotes": 0,
+            "Text": "How would you respond if someone says ethereum is \u2018very decentralized\u2019 vs bitcoin?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscmegm": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dscmegm",
+            "Author": "HODLCOIN420",
+            "Date Created": "01-07-2018 22:17:56",
+            "Upvotes": 0,
+            "Text": "Where can I read feel-good get-rich crypto stories?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc2tfz": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsc2tfz",
+            "Author": "bubble_pop_soon",
+            "Date Created": "01-07-2018 16:04:32",
+            "Upvotes": -14,
+            "Text": "I hope the 17k bagholders got out when they had the chance. Also, those of you guys on here encouraging people to buy at 17k are shitty people trying to rob people of their money",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbdgpi": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbdgpi",
+            "Author": "undadatunda",
+            "Date Created": "01-07-2018 05:43:33",
+            "Upvotes": -2,
+            "Text": "how much does the conscientinous draw in electrical consumption? matter to matter 100% energy exchange? in/out possibilities of something? maybe it draw 0 eltrical? then what,how does it power itself? lol",
+            "Edited?": "01-07-2018 05:53:10",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbssb3": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbssb3",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 13:04:04",
+            "Upvotes": -2,
+            "Text": "[removed]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbyh3v": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbyh3v",
+            "Author": "Mayhembit",
+            "Date Created": "01-07-2018 14:46:49",
+            "Upvotes": -1,
+            "Text": "Nooooo why it dropping???",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbecmv": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbecmv",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 06:26:16",
+            "Upvotes": -21,
+            "Text": "casual bitcoin user reporting in, heres my experience fwiw. just spent $33 moving btc from one wallet to another as it was made up of weekly payments of $100. then trusted blockchain.info to send the consolidated amount to an exchange for an additional $31 (as i said, casual user, so last time i sent it worked fine). looks like it wasnt enough as its been zero conf for 12 hours\n\nregardless of whether i did something wrong, not paid enough, whatever - this sucks. bitcoin is dated tech and im glad i will never ever transact this POS ever again. thanks",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbz2ig": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbz2ig",
+            "Author": "UnintendedByproduct",
+            "Date Created": "01-07-2018 14:57:53",
+            "Upvotes": -2,
+            "Text": "Governments will eventually get their paws into crypto, or do their best to make it hard for us to use it.  Anyone seen proposals that would allow govt's to get their piece of the pie when spending crypto's for purchases?  How can they label it as an asset and a currency.  No one will be able to keep track of every purchase they make with crypto's and calculate the change in asset value.  Believe me, I'm not an advocate of government intervention, but they are coming, whether we like it or not.  ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbu1ql": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbu1ql",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 13:27:24",
+            "Upvotes": -7,
+            "Text": "[removed]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbcnwc": [
+        {
+            "Parent ID": "t3_7opu1y",
+            "Comment ID": "dsbcnwc",
+            "Author": "iduggabighole",
+            "Date Created": "01-07-2018 05:05:51",
+            "Upvotes": -27,
+            "Text": "Really hoping BCH bounces back soon..",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbe4xy": [
+        {
+            "Parent ID": "t1_dsbdfgq",
+            "Comment ID": "dsbe4xy",
+            "Author": "undadatunda",
+            "Date Created": "01-07-2018 06:15:59",
+            "Upvotes": 1,
+            "Text": "and thank ya to whover or whatver group found this b4 muchdamage done...gives credence to the realization that the masses want to work together for common betterment",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbened": [
+        {
+            "Parent ID": "t1_dsbdez3",
+            "Comment ID": "dsbened",
+            "Author": "TheGreatMuffin",
+            "Date Created": "01-07-2018 06:40:38",
+            "Upvotes": 5,
+            "Text": "Not sure how technically feasible it is, but this actually sounds like a great idea. Pinging u/samouraiwallet and u/samouraiwalletdev :)  \n\nEdit: is there actually an option to batch transactions in Samourai in the first place? Couldn't find it on the first glance..",
+            "Edited?": "01-07-2018 06:43:51",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dschomr": [
+        {
+            "Parent ID": "t1_dsbdez3",
+            "Comment ID": "dschomr",
+            "Author": "CryptoOnly",
+            "Date Created": "01-07-2018 20:40:04",
+            "Upvotes": 2,
+            "Text": "What type of situations do you find yourself in where time is not important for the transaction?\n\nI seem to find myself always in a hurry when needing to move btc.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dttq679": [
+        {
+            "Parent ID": "t1_dsbdez3",
+            "Comment ID": "dttq679",
+            "Author": "SamouraiWallet",
+            "Date Created": "02-06-2018 10:40:39",
+            "Upvotes": 2,
+            "Text": "Thanks for the great idea /u/Elum224 - This has been implemented now. \nhttps://twitter.com/SamouraiWallet/status/960891320393969664",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbxk7n": [
+        {
+            "Parent ID": "t1_dsbdez3",
+            "Comment ID": "dsbxk7n",
+            "Author": "tomtomtom7",
+            "Date Created": "01-07-2018 14:30:10",
+            "Upvotes": 1,
+            "Text": "This completely destroys your privacy.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscpqo7": [
+        {
+            "Parent ID": "t1_dscdw0v",
+            "Comment ID": "dscpqo7",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 23:33:29",
+            "Upvotes": 4,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscpnpk": [
+        {
+            "Parent ID": "t1_dscdw0v",
+            "Comment ID": "dscpnpk",
+            "Author": "mrcavooter",
+            "Date Created": "01-07-2018 23:31:27",
+            "Upvotes": 3,
+            "Text": "Tons of ERC20 tokens are going nuts right now. Might be part of it.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbstln": [
+        {
+            "Parent ID": "t1_dsbiqvg",
+            "Comment ID": "dsbstln",
+            "Author": "SnowyDuck",
+            "Date Created": "01-07-2018 13:04:46",
+            "Upvotes": 1,
+            "Text": "I've got a chrome plugin to turn subreddit style off. Makes everything vanilla.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc0kj6": [
+        {
+            "Parent ID": "t1_dsc0fxz",
+            "Comment ID": "dsc0kj6",
+            "Author": "Quintall1",
+            "Date Created": "01-07-2018 15:24:45",
+            "Upvotes": 6,
+            "Text": "Billions, you means billions.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbmvgt": [
+        {
+            "Parent ID": "t1_dsbgcjp",
+            "Comment ID": "dsbmvgt",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 11:06:51",
+            "Upvotes": 7,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbglk6": [
+        {
+            "Parent ID": "t1_dsbgcjp",
+            "Comment ID": "dsbglk6",
+            "Author": "Quintall1",
+            "Date Created": "01-07-2018 08:09:42",
+            "Upvotes": 12,
+            "Text": "Wait for etf, Full LN, sxhnorr, mast, sidechain. \n\nYou aint Seen nothing yet Boy. Hodl 1 Year and then msg. Me a thankyou.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbs438": [
+        {
+            "Parent ID": "t1_dsbq6l7",
+            "Comment ID": "dsbs438",
+            "Author": "redditHi",
+            "Date Created": "01-07-2018 12:51:36",
+            "Upvotes": 5,
+            "Text": "Umm.  Maybe this isn't the best time (looks at charts)\n\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbwipt": [
+        {
+            "Parent ID": "t1_dsbq6l7",
+            "Comment ID": "dsbwipt",
+            "Author": "ialo00130",
+            "Date Created": "01-07-2018 14:11:46",
+            "Upvotes": 3,
+            "Text": "Looking at December 17th at 9:00am, the price of Bitcoin was $19,810.33. On December 22nd at 11:00am the price was $12,510.16. The price difference between those 2 dates is $7300.17\n\nThis is a textbook definition of a volatile investment and can be considered a considerable drop. Much of this drop happened in just over a day from the 21st at 3:00am to the 22nd at 11:00am, dropping $4513.71, which can be considered a catastrophic drop by Investment terms. \n\nInvesting in Bitcoin and investing in Stocks are 2 separate strategies and are volatile in their own ways. As I had originally based that comment off of Stock investing, I respectfully say that I will not be eating my sock due to the reasons stated in the above paragraphs. \n\nAnd yes I know I changed it to a month, a week may be a long time  in Bitcoin exchange due to the volatility, but on the stock markets, it is a longer time due to slower climbing rates, so that is my reasoning for the change. \n\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc4gjy": [
+        {
+            "Parent ID": "t1_dsc48p8",
+            "Comment ID": "dsc4gjy",
+            "Author": "TheGreatMuffin",
+            "Date Created": "01-07-2018 16:33:44",
+            "Upvotes": 9,
+            "Text": "One of the truths in crypto, not many people seem to understand is: very many things/metrics are not subjectively \"better\" or \"worse\". There are many ugly trade-offs in tech/crypto. You can't have fast AND censorship AND cheap payments on a decentralised AND secure AND easy-to-scale network... There has to be an \"OR\" somewhere in there.   \nSo tl;dr: there are no \"more technically capable\" kids on the block. Any competitor claiming to be has an ugly trade-off hidden somewhere.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscithr": [
+        {
+            "Parent ID": "t1_dsc48p8",
+            "Comment ID": "dscithr",
+            "Author": "martinshiver",
+            "Date Created": "01-07-2018 21:03:23",
+            "Upvotes": 2,
+            "Text": "Bitcoin may be very well be surpassed by a new more capable token. But. It currently has the biggest (by far) brand, and the strongest development support.  All other alts (including Bitcoin forks, i.e. Bcash) have at most a few people actually contributing to the project. As Andreas A. said, currency gets it's value from use, and currently Bitcoin is the most used token.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc6pbb": [
+        {
+            "Parent ID": "t1_dsc48p8",
+            "Comment ID": "dsc6pbb",
+            "Author": "Quintall1",
+            "Date Created": "01-07-2018 17:13:47",
+            "Upvotes": 1,
+            "Text": "Read a few of my Comments but more importantly Read this.\nhttps://s3.eu-west-2.amazonaws.com/john-pfeffer/An+Investor%27s+Take+on+Cryptoassets+v6.pdf\n\nAnd so you, a new bitcoin hodler is born .",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscxcje": [
+        {
+            "Parent ID": "t1_dsc48p8",
+            "Comment ID": "dscxcje",
+            "Author": "RyanDavis124",
+            "Date Created": "01-08-2018 03:36:55",
+            "Upvotes": 1,
+            "Text": "I see bitcoin as kind of like the DOW Jones Index of cryptocurrencies, it might not be used as the day to day micro transactions but it\u2019s gonna be the front runner and leader of the crypto world bc of a combo of tons of support, nostalgia, brand loyalty.  ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsccysr": [
+        {
+            "Parent ID": "t1_dsc48p8",
+            "Comment ID": "dsccysr",
+            "Author": "RulerZod",
+            "Date Created": "01-07-2018 19:10:22",
+            "Upvotes": 1,
+            "Text": "They are not more technically capable. You have to have scale in order to have scaling problems. They're all just cashing in on crypto buzz.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc5m3p": [
+        {
+            "Parent ID": "t1_dsc48p8",
+            "Comment ID": "dsc5m3p",
+            "Author": "Erikt311",
+            "Date Created": "01-07-2018 16:54:08",
+            "Upvotes": 0,
+            "Text": "Network effect. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbfhcj": [
+        {
+            "Parent ID": "t1_dsbenm7",
+            "Comment ID": "dsbfhcj",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 07:22:41",
+            "Upvotes": 3,
+            "Text": "[deleted]",
+            "Edited?": "01-07-2018 12:44:31",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbeqcm": [
+        {
+            "Parent ID": "t1_dsbenm7",
+            "Comment ID": "dsbeqcm",
+            "Author": "W0rthl3ssP4ncakE",
+            "Date Created": "01-07-2018 06:44:31",
+            "Upvotes": 1,
+            "Text": "Does this account for transaction fees?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbyeia": [
+        {
+            "Parent ID": "t1_dsbxuj8",
+            "Comment ID": "dsbyeia",
+            "Author": "Coffeeupthebutt",
+            "Date Created": "01-07-2018 14:45:32",
+            "Upvotes": 4,
+            "Text": "Any mention of bitcoin is a win at this point. Free advertising ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbvs7x": [
+        {
+            "Parent ID": "t1_dsbm9wu",
+            "Comment ID": "dsbvs7x",
+            "Author": "TheOzzk",
+            "Date Created": "01-07-2018 13:58:48",
+            "Upvotes": 3,
+            "Text": "Nobody knows for sure. That\u2019s why you\u2019re not getting a response. Someone will make fun of my post with some snarky comment about my post history and other irrelevant information but the hard cold truth is that nobody knows.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbugop": [
+        {
+            "Parent ID": "t1_dsbndiq",
+            "Comment ID": "dsbugop",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 13:34:59",
+            "Upvotes": 2,
+            "Text": "why can't you use binance?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbols7": [
+        {
+            "Parent ID": "t1_dsbndiq",
+            "Comment ID": "dsbols7",
+            "Author": "DonteFinale",
+            "Date Created": "01-07-2018 11:43:12",
+            "Upvotes": 1,
+            "Text": "Poloniex has a good selection of alts, but it runs of tether so keep that in mind.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbs4c1": [
+        {
+            "Parent ID": "t1_dsbndiq",
+            "Comment ID": "dsbs4c1",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 12:51:43",
+            "Upvotes": 1,
+            "Text": "bitfinex has also a good selection",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbsbyc": [
+        {
+            "Parent ID": "t1_dsbndiq",
+            "Comment ID": "dsbsbyc",
+            "Author": "Wakenbake585",
+            "Date Created": "01-07-2018 12:55:36",
+            "Upvotes": 1,
+            "Text": "Why can't you use binance?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbtlpq": [
+        {
+            "Parent ID": "t1_dsbndiq",
+            "Comment ID": "dsbtlpq",
+            "Author": "Erikt311",
+            "Date Created": "01-07-2018 13:19:23",
+            "Upvotes": 1,
+            "Text": "Kucoin seems decent so far and is still accepting registrations. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbx3d8": [
+        {
+            "Parent ID": "t1_dsbndiq",
+            "Comment ID": "dsbx3d8",
+            "Author": "Thisisonlyagame",
+            "Date Created": "01-07-2018 14:21:51",
+            "Upvotes": 1,
+            "Text": "Kucoin has some good stuff",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc34ri": [
+        {
+            "Parent ID": "t1_dsc1mgi",
+            "Comment ID": "dsc34ri",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 16:09:44",
+            "Upvotes": 3,
+            "Text": "Waiting for the dip now is probably futile. \n1600 dip....waiting\n1700 dip....waiting\n1800 dip....waiting\n1900 dip....buying the dip",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc7vqm": [
+        {
+            "Parent ID": "t1_dsc1mgi",
+            "Comment ID": "dsc7vqm",
+            "Author": "acciobooty",
+            "Date Created": "01-07-2018 17:35:13",
+            "Upvotes": 1,
+            "Text": "I'm waiting for a bigger drop between day 10 and 16. It has happened in the last six years or so... If it doesn't happen I'm buying more anyway. (Edit: apparently January sale has already begun!)",
+            "Edited?": "01-08-2018 04:04:55",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc1xcl": [
+        {
+            "Parent ID": "t1_dsc1mgi",
+            "Comment ID": "dsc1xcl",
+            "Author": "MLGameOver",
+            "Date Created": "01-07-2018 15:48:53",
+            "Upvotes": 1,
+            "Text": "Drop",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc3v06": [
+        {
+            "Parent ID": "t1_dsbyukv",
+            "Comment ID": "dsc3v06",
+            "Author": "MikeLittorice",
+            "Date Created": "01-07-2018 16:21:24",
+            "Upvotes": 5,
+            "Text": "Sweating, doing something, accomplishments... It starting to feel like work, that was not what I signed up for!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc51ej": [
+        {
+            "Parent ID": "t1_dsbyukv",
+            "Comment ID": "dsc51ej",
+            "Author": "Mrpiggy97",
+            "Date Created": "01-07-2018 16:43:59",
+            "Upvotes": 0,
+            "Text": "dips happen because bitcoin is too unstable and that alone should make you crap your pants, god i hate the level of egocentrism i find in this subreddit",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc6hm6": [
+        {
+            "Parent ID": "t1_dsbyukv",
+            "Comment ID": "dsc6hm6",
+            "Author": "smhsmhsmh1",
+            "Date Created": "01-07-2018 17:10:07",
+            "Upvotes": -1,
+            "Text": "You must be terrified with the lack of roadmap or updates from the developers then! Woooof",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsccw4v": [
+        {
+            "Parent ID": "t1_dscay02",
+            "Comment ID": "dsccw4v",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 19:08:58",
+            "Upvotes": 2,
+            "Text": "r/BTC is awful.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbrxho": [
+        {
+            "Parent ID": "t1_dsbr5ju",
+            "Comment ID": "dsbrxho",
+            "Author": "RulerZod",
+            "Date Created": "01-07-2018 12:48:10",
+            "Upvotes": 3,
+            "Text": "Lightning*...",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscgg2p": [
+        {
+            "Parent ID": "t1_dsbr5ju",
+            "Comment ID": "dscgg2p",
+            "Author": "inthearenareddit",
+            "Date Created": "01-07-2018 20:14:58",
+            "Upvotes": 1,
+            "Text": "It's not too early - the first Lightning protocol has been developed and some transactions have already gone through the mainnet (with Lightning, you open and close a channel using Bitcoin's mainnet and the channel itself is really just an agreement between parties to square up the final balance at a later time). \n\nSo to answer your question, yes there are a few wallets that are being developed. Unfortunately it's not recommended we use these on the mainnet yet as they are still ironing out some of the bugs with lightning and all the companies and individuals involved are prioritizing security b/c it involves people's money (no rushed development). \n\nYou can check out the lightning thread: https://www.reddit.com/r/Bitcoin/comments/7npeh6/lightning_network_megathread/\n\nKeep an eye on the thread as the development is actually happening pretty quickly.\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbspls": [
+        {
+            "Parent ID": "t1_dsbmefp",
+            "Comment ID": "dsbspls",
+            "Author": "SnowyDuck",
+            "Date Created": "01-07-2018 13:02:39",
+            "Upvotes": 9,
+            "Text": "Because I bought $50 last night.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbpwqf": [
+        {
+            "Parent ID": "t1_dsbmefp",
+            "Comment ID": "dsbpwqf",
+            "Author": "GrumblingGrumble",
+            "Date Created": "01-07-2018 12:09:20",
+            "Upvotes": 4,
+            "Text": "Because sometimes it goes up and sometimes it goes down. That is it\u2019s nature. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbn3t5": [
+        {
+            "Parent ID": "t1_dsbmefp",
+            "Comment ID": "dsbn3t5",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 11:11:57",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc2nne": [
+        {
+            "Parent ID": "t1_dsc011j",
+            "Comment ID": "dsc2nne",
+            "Author": "etfreima",
+            "Date Created": "01-07-2018 16:01:39",
+            "Upvotes": 3,
+            "Text": "Look into rbf or cpfp",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc28uv": [
+        {
+            "Parent ID": "t1_dsc0ujz",
+            "Comment ID": "dsc28uv",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 15:54:25",
+            "Upvotes": 3,
+            "Text": "[deleted]",
+            "Edited?": "05-03-2018 00:07:47",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc10bx": [
+        {
+            "Parent ID": "t1_dsc0ujz",
+            "Comment ID": "dsc10bx",
+            "Author": "ChimlyChannel",
+            "Date Created": "01-07-2018 15:32:37",
+            "Upvotes": 2,
+            "Text": "Would love to hear more details on this story - this seems like a worrying sign...",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscip35": [
+        {
+            "Parent ID": "t1_dsc0ujz",
+            "Comment ID": "dscip35",
+            "Author": "kimjongok",
+            "Date Created": "01-07-2018 21:00:51",
+            "Upvotes": 2,
+            "Text": "I might have a little insight on this. Firstly, to clarify something: decentralization has nothing to do with privacy. If thats what you are after, then Bitcoin isnt the right coin for you. While it is true that addresses themselves are annonymous, the way that law enforcement works is by targeting the entrance and exit ways to crypto, which are exchanges. Once it has bin confirmed that certain funds have bin used in illegal activities, these can be tracked. Since wallets are annonymous, your friend has no way to clear his name if somehow those coins found their way to him. If you want to obscure your tracks, you can use a mixing pool, where it is no longer certain which money came from which address. Now this part I dont have certain information, however all coins associated with this mixing pool will be attributed a certain value in relation to the bitcoins laundered in this way. Eventually you will have certain addresses at exchanges where this \"crime\" value reaches a certain point, which is a strong indicator you have found your drug dealer or what have you. The beauty of the blockchain is that its a public distributed ledger. All you need is enough transactions and eventually you will find your criminals.\n\nYour friend probably just got in contact with tainted coins. Nothing to be done about that probably without a lot of legal work. Good luck to him either way. Once Lightning comes out and is widely used, such tactics will once again become much harder to implement due to offchain transactions not being recorded. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc2x0g": [
+        {
+            "Parent ID": "t1_dsc1xgq",
+            "Comment ID": "dsc2x0g",
+            "Author": "MikeLittorice",
+            "Date Created": "01-07-2018 16:06:12",
+            "Upvotes": 3,
+            "Text": "Maybe someone with a lot at stake is trying to keep it from dropping because of all the dumping... ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscajqm": [
+        {
+            "Parent ID": "t1_dsc9be5",
+            "Comment ID": "dscajqm",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 18:24:22",
+            "Upvotes": 4,
+            "Text": "[deleted]",
+            "Edited?": "05-03-2018 00:06:19",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc9h4d": [
+        {
+            "Parent ID": "t1_dsc9be5",
+            "Comment ID": "dsc9h4d",
+            "Author": "d0ornokey",
+            "Date Created": "01-07-2018 18:04:05",
+            "Upvotes": 2,
+            "Text": "ah. a legitimate need in the market. this is where btc lacks",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscat0d": [
+        {
+            "Parent ID": "t1_dsc9be5",
+            "Comment ID": "dscat0d",
+            "Author": "HanSoIoque",
+            "Date Created": "01-07-2018 18:29:16",
+            "Upvotes": 1,
+            "Text": "I spent like $5 on bitcoin and my fee was $1.13",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscg77b": [
+        {
+            "Parent ID": "t1_dscf1ij",
+            "Comment ID": "dscg77b",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 20:09:55",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscfq0o": [
+        {
+            "Parent ID": "t1_dscf1ij",
+            "Comment ID": "dscfq0o",
+            "Author": "HODLmecloser",
+            "Date Created": "01-07-2018 20:00:29",
+            "Upvotes": 1,
+            "Text": "dropping",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsco7qd": [
+        {
+            "Parent ID": "t1_dscf1ij",
+            "Comment ID": "dsco7qd",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 22:57:32",
+            "Upvotes": 1,
+            "Text": "https://imgur.com/a/G664T",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscgm94": [
+        {
+            "Parent ID": "t1_dscf1ij",
+            "Comment ID": "dscgm94",
+            "Author": "Banks334",
+            "Date Created": "01-07-2018 20:18:28",
+            "Upvotes": -1,
+            "Text": "Stop pretending you're a day trader. Blockchain coins are commodities right now exchanged on feelings, not logic. You can't predict the next Reddit \"fud\" by measuring market pressure, projections, and analyzing trades with algorithms...\n\nBitcoin rallied because Reddit conspiracy theories that banks were buying all the Bitcoin. You got played. Everyone sold off their alt-coins for BTC. Now, you're seeing that money flow back into alt-coins as everyone is realizing they got played.\n\nBitcoin has seen the beginning of the end. It's not a useful coin. It's value is only being propped up by exchnages using it as a store of value for trades. Get a clue.\n\nBitcoin down to 15k by tomorrow.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscvl2z": [
+        {
+            "Parent ID": "t1_dscmsgx",
+            "Comment ID": "dscvl2z",
+            "Author": "[deleted]",
+            "Date Created": "01-08-2018 02:26:51",
+            "Upvotes": 1,
+            "Text": "Did you mean 0,07?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsco7b1": [
+        {
+            "Parent ID": "t1_dscmsgx",
+            "Comment ID": "dsco7b1",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 22:57:16",
+            "Upvotes": 1,
+            "Text": "https://imgur.com/a/G664T",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscthfr": [
+        {
+            "Parent ID": "t1_dscszm7",
+            "Comment ID": "dscthfr",
+            "Author": "maria98544",
+            "Date Created": "01-08-2018 01:15:37",
+            "Upvotes": 9,
+            "Text": "my name is ......... and I'm a crypto addict.lmao",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscte81": [
+        {
+            "Parent ID": "t1_dscszm7",
+            "Comment ID": "dscte81",
+            "Author": "carlkim",
+            "Date Created": "01-08-2018 01:12:51",
+            "Upvotes": 3,
+            "Text": "I think Reddit anonymous is about to be the next self help group formed .lol",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbi918": [
+        {
+            "Parent ID": "t1_dsbgkmx",
+            "Comment ID": "dsbi918",
+            "Author": "brocktice",
+            "Date Created": "01-07-2018 09:07:03",
+            "Upvotes": 5,
+            "Text": "If you can afford to lose it, then yes. Otherwise put it in something more conservative.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbs99f": [
+        {
+            "Parent ID": "t1_dsbgkmx",
+            "Comment ID": "dsbs99f",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 12:54:15",
+            "Upvotes": 2,
+            "Text": "i would put it in an ALT because they are all bullish now. \nAfter the pump is over i would switch to BTC",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsblv95": [
+        {
+            "Parent ID": "t1_dsbl4ph",
+            "Comment ID": "dsblv95",
+            "Author": "spp41",
+            "Date Created": "01-07-2018 10:44:07",
+            "Upvotes": -2,
+            "Text": "It's like the MySpace of crypto",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbtmdt": [
+        {
+            "Parent ID": "t1_dsbo2d5",
+            "Comment ID": "dsbtmdt",
+            "Author": "Erikt311",
+            "Date Created": "01-07-2018 13:19:43",
+            "Upvotes": 3,
+            "Text": "Lots of longs being liquidated. It's temporary. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscaht5": [
+        {
+            "Parent ID": "t1_dsbo2d5",
+            "Comment ID": "dscaht5",
+            "Author": "smhsmhsmh1",
+            "Date Created": "01-07-2018 18:23:19",
+            "Upvotes": 0,
+            "Text": "Microsoft news isn\u2019t real, just fud",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbpyna": [
+        {
+            "Parent ID": "t1_dsbo2d5",
+            "Comment ID": "dsbpyna",
+            "Author": "mekane84",
+            "Date Created": "01-07-2018 12:10:24",
+            "Upvotes": -1,
+            "Text": "surely",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc8dfa": [
+        {
+            "Parent ID": "t1_dsc828n",
+            "Comment ID": "dsc8dfa",
+            "Author": "LeroyJenkems",
+            "Date Created": "01-07-2018 17:44:10",
+            "Upvotes": 11,
+            "Text": "Using your cryptocurrencies is now a taxable event. So you will have to pay a capital gains tax each time you use bitcoin for purchases",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsk3ton": [
+        {
+            "Parent ID": "t1_dsc8xl5",
+            "Comment ID": "dsk3ton",
+            "Author": "allyougottado",
+            "Date Created": "01-12-2018 00:01:48",
+            "Upvotes": 1,
+            "Text": "Hi author here. 64 is a hex private key. A private key with a length of 52 is a Wallet Import Format private key and is not only the default private key produced by the bitcoin core wallet, but is also one of the most popular private key formats. \n\nhttps://en.bitcoin.it/wiki/Private_key#Base58_Wallet_Import_format",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscdck0": [
+        {
+            "Parent ID": "t1_dscbwg7",
+            "Comment ID": "dscdck0",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 19:17:33",
+            "Upvotes": 1,
+            "Text": "Same thing as always. Just with lower volume. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscfxq4": [
+        {
+            "Parent ID": "t1_dscf77a",
+            "Comment ID": "dscfxq4",
+            "Author": "EarlyLegend",
+            "Date Created": "01-07-2018 20:04:39",
+            "Upvotes": 1,
+            "Text": "Coinbase (though not an exchange exactly) has cards and has those three cryptos.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscmvh9": [
+        {
+            "Parent ID": "t1_dscignq",
+            "Comment ID": "dscmvh9",
+            "Author": "Erikt311",
+            "Date Created": "01-07-2018 22:27:45",
+            "Upvotes": 2,
+            "Text": "Have a listen. They discuss this heavily today:\nhttps://youtu.be/kxUENVqfiuY",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscjrva": [
+        {
+            "Parent ID": "t1_dscignq",
+            "Comment ID": "dscjrva",
+            "Author": "borgelorp72",
+            "Date Created": "01-07-2018 21:23:10",
+            "Upvotes": 0,
+            "Text": "zero",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscpizy": [
+        {
+            "Parent ID": "t1_dscmvyv",
+            "Comment ID": "dscpizy",
+            "Author": "mrcavooter",
+            "Date Created": "01-07-2018 23:28:18",
+            "Upvotes": 3,
+            "Text": "Use gemini.com",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscoljb": [
+        {
+            "Parent ID": "t1_dscmvyv",
+            "Comment ID": "dscoljb",
+            "Author": "borgelorp72",
+            "Date Created": "01-07-2018 23:06:20",
+            "Upvotes": 2,
+            "Text": "They are exactly the same. If you buy through coinbase (instead of using gdax) they charge you a premium of about $100/BTC though.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscgu9x": [
+        {
+            "Parent ID": "t1_dsbhfgk",
+            "Comment ID": "dscgu9x",
+            "Author": "simorace",
+            "Date Created": "01-07-2018 20:23:03",
+            "Upvotes": 2,
+            "Text": "...and you think this why?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbs7sa": [
+        {
+            "Parent ID": "t1_dsbhfgk",
+            "Comment ID": "dsbs7sa",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 12:53:31",
+            "Upvotes": 0,
+            "Text": "i hope so, but why do you think so ? The market gets flooded by tons of shitcoins people invest in",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbs6q6": [
+        {
+            "Parent ID": "t1_dsbodcl",
+            "Comment ID": "dsbs6q6",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 12:52:57",
+            "Upvotes": -16,
+            "Text": "[removed]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscr0si": [
+        {
+            "Parent ID": "t1_dscqvwp",
+            "Comment ID": "dscr0si",
+            "Author": "carlkim",
+            "Date Created": "01-08-2018 00:05:39",
+            "Upvotes": 3,
+            "Text": "Not surprised. that's quite a conservative prediction. We have touched $20K already in 2017, only needs doubling to take us to $40K next year at some point which is pretty easy given btc's volatility.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsctmlp": [
+        {
+            "Parent ID": "t1_dscqvwp",
+            "Comment ID": "dsctmlp",
+            "Author": "tank3bli",
+            "Date Created": "01-08-2018 01:20:04",
+            "Upvotes": 2,
+            "Text": ">I believe its good time to buy now\n\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbzgej": [
+        {
+            "Parent ID": "t1_dsbue3k",
+            "Comment ID": "dsbzgej",
+            "Author": "osb40000",
+            "Date Created": "01-07-2018 15:04:57",
+            "Upvotes": 0,
+            "Text": "Just bought some REQ as well. BTC... well, I\u2019ve been with it since early 2011 and I don\u2019t see myself adding a thing to my BTC stack anytime in the future. \n\nI\u2019m going to HODL but I\u2019m not very optimistic about BTC\u2019s future. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscnrin": [
+        {
+            "Parent ID": "t1_dsckjr4",
+            "Comment ID": "dscnrin",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 22:47:16",
+            "Upvotes": 3,
+            "Text": "Oops.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscre4n": [
+        {
+            "Parent ID": "t1_dsckjr4",
+            "Comment ID": "dscre4n",
+            "Author": "Valour_The_False_God",
+            "Date Created": "01-08-2018 00:15:27",
+            "Upvotes": 2,
+            "Text": "Rip",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscj8bt": [
+        {
+            "Parent ID": "t1_dscil18",
+            "Comment ID": "dscj8bt",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 21:12:07",
+            "Upvotes": 14,
+            "Text": "[deleted]",
+            "Edited?": "08-30-2018 02:41:23",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsco7f3": [
+        {
+            "Parent ID": "t1_dscil18",
+            "Comment ID": "dsco7f3",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 22:57:20",
+            "Upvotes": 1,
+            "Text": "https://imgur.com/a/G664T",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbo8fu": [
+        {
+            "Parent ID": "t1_dsbo7p3",
+            "Comment ID": "dsbo8fu",
+            "Author": "67birds",
+            "Date Created": "01-07-2018 11:35:38",
+            "Upvotes": 3,
+            "Text": "Should be alright",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbyb6y": [
+        {
+            "Parent ID": "t1_dsby7yf",
+            "Comment ID": "dsbyb6y",
+            "Author": "aquahealer",
+            "Date Created": "01-07-2018 14:43:49",
+            "Upvotes": 1,
+            "Text": "This was posted on FB by AJ Monte pilot and investor",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc11jd": [
+        {
+            "Parent ID": "t1_dsc0j45",
+            "Comment ID": "dsc11jd",
+            "Author": "cle7756",
+            "Date Created": "01-07-2018 15:33:14",
+            "Upvotes": 2,
+            "Text": "There is no penalty. When you sell, if you have made a profit, then you pay taxes on that profit. If you buy in at a lower price, then that just gives you a better opportunity to make an additional profit.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc3rn1": [
+        {
+            "Parent ID": "t1_dsc0j45",
+            "Comment ID": "dsc3rn1",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 16:19:50",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": "05-03-2018 00:06:42",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscbthq": [
+        {
+            "Parent ID": "t1_dsc7dyj",
+            "Comment ID": "dscbthq",
+            "Author": "dejesuswho",
+            "Date Created": "01-07-2018 18:48:19",
+            "Upvotes": -1,
+            "Text": "Thanks for the thoughts gui$$$ appreciate it a lot =)",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsca1e2": [
+        {
+            "Parent ID": "t1_dsc5ci9",
+            "Comment ID": "dsca1e2",
+            "Author": "patriotswin04",
+            "Date Created": "01-07-2018 18:14:34",
+            "Upvotes": 12,
+            "Text": "it will keep going down until you sell, then it will go up",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc5vci": [
+        {
+            "Parent ID": "t1_dsc5ci9",
+            "Comment ID": "dsc5vci",
+            "Author": "brbarros",
+            "Date Created": "01-07-2018 16:58:50",
+            "Upvotes": 5,
+            "Text": "impossible to know. family always first though",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc6ivu": [
+        {
+            "Parent ID": "t1_dsc5ci9",
+            "Comment ID": "dsc6ivu",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 17:10:47",
+            "Upvotes": 3,
+            "Text": "Do it now unless you can tolerate BTC price potentially falling by 30%.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc68ui": [
+        {
+            "Parent ID": "t1_dsc5ci9",
+            "Comment ID": "dsc68ui",
+            "Author": "FacesOfEth",
+            "Date Created": "01-07-2018 17:05:51",
+            "Upvotes": 5,
+            "Text": "Sounds like you are overextended on your investments. Invest responsibly, don't listen to anyone who will tell you otherwise. They don't have you or your family's best interests.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc68p0": [
+        {
+            "Parent ID": "t1_dsc5ci9",
+            "Comment ID": "dsc68p0",
+            "Author": "Bigolswinging",
+            "Date Created": "01-07-2018 17:05:46",
+            "Upvotes": 2,
+            "Text": "Ultimately it's a risk...  It's your choice but I personally see btc growing this week at least past 19,000....  A lot of money is running through crypto currencies in general everything will be growing...  Easily this week it will grow 15% with minor corrections. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc83eb": [
+        {
+            "Parent ID": "t1_dsc5ci9",
+            "Comment ID": "dsc83eb",
+            "Author": "dejesuswho",
+            "Date Created": "01-07-2018 17:39:03",
+            "Upvotes": 2,
+            "Text": "Money Over Everything. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc9u3l": [
+        {
+            "Parent ID": "t1_dsc5ci9",
+            "Comment ID": "dsc9u3l",
+            "Author": "Elitist_Plebeian",
+            "Date Created": "01-07-2018 18:10:45",
+            "Upvotes": 1,
+            "Text": "You can't time the market.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsch6rj": [
+        {
+            "Parent ID": "t1_dsce0sy",
+            "Comment ID": "dsch6rj",
+            "Author": "SnowyDuck",
+            "Date Created": "01-07-2018 20:30:05",
+            "Upvotes": 5,
+            "Text": "Giving out your SSN is too unsecure for you? I would recommend reading into just how unsecure your SSN is. Chances are your information is already compromised and sold.\n\nTL;DR If you haven't already purchased credit and identity theft protection you're doing it wrong. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscm3qa": [
+        {
+            "Parent ID": "t1_dsciil5",
+            "Comment ID": "dscm3qa",
+            "Author": "brocktice",
+            "Date Created": "01-07-2018 22:11:51",
+            "Upvotes": 2,
+            "Text": "I have a family member that's a finance expert, she predicted the institutional investors wanted to short Bitcoin as a hedge, while buying and holding it. (This is briefly mentioned in the article.) It seems that may be what is happening.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscj6wp": [
+        {
+            "Parent ID": "t1_dsciil5",
+            "Comment ID": "dscj6wp",
+            "Author": "Asdn1220",
+            "Date Created": "01-07-2018 21:11:18",
+            "Upvotes": 1,
+            "Text": "Written by Tyler Durden. Nice",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscki8p": [
+        {
+            "Parent ID": "t1_dsckbt0",
+            "Comment ID": "dscki8p",
+            "Author": "TerpZ",
+            "Date Created": "01-07-2018 21:38:12",
+            "Upvotes": 1,
+            "Text": "clown.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscq7dz": [
+        {
+            "Parent ID": "t1_dscpix5",
+            "Comment ID": "dscq7dz",
+            "Author": "RulerZod",
+            "Date Created": "01-07-2018 23:44:48",
+            "Upvotes": 3,
+            "Text": "You should of profited $300+.  So yea you fucked up somewhere",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscrhdl": [
+        {
+            "Parent ID": "t1_dscpix5",
+            "Comment ID": "dscrhdl",
+            "Author": "Cartina",
+            "Date Created": "01-08-2018 00:17:51",
+            "Upvotes": 5,
+            "Text": "That site is buying a share in robot trading, so depending on your investment and how well the robot \"works\" (which is probably completely chosen by them) you get a specific share of profits.\n\nFor example for 2017 they list a 100% return in a year where bitcoin went up 1600%. \n\nThey claim on their site the daily profit is 0.38%. Which would be about 6 dollars per day for you. Regardless of how much bitcoin actually rises. Their own calculator actually puts it at $2.51 dollars per day, which would be a measly 0.14% return. This would equal 0.91% return in a week where bitcoin went up 17%.\n\nNext time, maybe do a research where you put your money first. You clearly have no clue what you bought, it's all cleartext on the site.",
+            "Edited?": "01-08-2018 00:22:12",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscqlvj": [
+        {
+            "Parent ID": "t1_dscpix5",
+            "Comment ID": "dscqlvj",
+            "Author": "MisterFreek",
+            "Date Created": "01-07-2018 23:54:51",
+            "Upvotes": 2,
+            "Text": "Check the actual amount of bitcoin you have, Ana then check how much your bank account was charged. It\u2019s possible you bought less than you thought.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbq6jx": [
+        {
+            "Parent ID": "t1_dsbi6xf",
+            "Comment ID": "dsbq6jx",
+            "Author": "GrumblingGrumble",
+            "Date Created": "01-07-2018 12:14:46",
+            "Upvotes": 6,
+            "Text": "Bitcoin is up $3000 this week. So all the doom and gloom about the price going down is very weird. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbkevj": [
+        {
+            "Parent ID": "t1_dsbi6xf",
+            "Comment ID": "dsbkevj",
+            "Author": "bitcoinlogo",
+            "Date Created": "01-07-2018 10:08:47",
+            "Upvotes": 6,
+            "Text": "Just take a look at the /r/bitcoin front page with critical Electrum vulnerability, even though Bitcoin is simple compared to other altcoins, there can still be some vulnerabilities in Bitcoin implementations (not Bitcoin itself, but its implementation by 3rd parties). Bitcoin is being developed to be the most secure and stable base, you can say protocol that other ideas can build on top of it without affecting its security, so in the future, adding new features to Bitcoin won't affect the security of the Bitcoin. This is how you build complex system.\n\nSo for example we have RootStock is being built as a sidechain to Bitcoin, finding a security flaw in RootStock won't affect Bitcoin, this means that the development on the second layer will be fast than any other altcoin. \n\nNow lets take the example of Ethereum that wants to have everything run as a first layer, this is just calling for problems in the future, adding a new feature like switching from PoW to PoS in Casper may always introduce new vulnerabilities in the future that didn't exist in the past versions, this means that the development of Ethereum will never finish, thus you will always not be sure how secure it is. Whereas in Bitcoin, it is being developed with the same security standards as a protocol, meaning that they actually have a goal that once they achieve it, they will stop changing its code, this will means that it will have years of proven record of being secure. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsciigx": [
+        {
+            "Parent ID": "t1_dscg70x",
+            "Comment ID": "dsciigx",
+            "Author": "ReilySiegel",
+            "Date Created": "01-07-2018 20:56:57",
+            "Upvotes": 2,
+            "Text": "Use samourai wallet on Android. You own your keys, no verification needed.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscgbrm": [
+        {
+            "Parent ID": "t1_dscgbln",
+            "Comment ID": "dscgbrm",
+            "Author": "etherium_bot",
+            "Date Created": "01-07-2018 20:12:32",
+            "Upvotes": 5,
+            "Text": "It's spelled 'Ethereum'.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscitvr": [
+        {
+            "Parent ID": "t1_dscgbln",
+            "Comment ID": "dscitvr",
+            "Author": "RulerZod",
+            "Date Created": "01-07-2018 21:03:37",
+            "Upvotes": -16,
+            "Text": "They are talking out their ass. Ethereum is super vulnerable compared to bitcoin. The real original ethereum doesnt even exist anymore.\n\nEdit: Downvote me ethboys. Doesnt change the truth.",
+            "Edited?": "01-07-2018 21:29:53",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsco7ll": [
+        {
+            "Parent ID": "t1_dscgbln",
+            "Comment ID": "dsco7ll",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 22:57:27",
+            "Upvotes": -3,
+            "Text": "https://imgur.com/a/G664T",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc39ux": [
+        {
+            "Parent ID": "t1_dsc2tfz",
+            "Comment ID": "dsc39ux",
+            "Author": "RealJudahFriedlander",
+            "Date Created": "01-07-2018 16:12:04",
+            "Upvotes": 14,
+            "Text": "Thanks for your input, new account called \"bubble_pop_soon\"",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc38tv": [
+        {
+            "Parent ID": "t1_dsc2tfz",
+            "Comment ID": "dsc38tv",
+            "Author": "iFrostyy",
+            "Date Created": "01-07-2018 16:11:42",
+            "Upvotes": 3,
+            "Text": "lolol",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc422e": [
+        {
+            "Parent ID": "t1_dsc2tfz",
+            "Comment ID": "dsc422e",
+            "Author": "dejesuswho",
+            "Date Created": "01-07-2018 16:24:47",
+            "Upvotes": 4,
+            "Text": "Same guy who is spreading all the fud about bitcoin lol you\u2019re one salty bitch. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc4q5y": [
+        {
+            "Parent ID": "t1_dsc2tfz",
+            "Comment ID": "dsc4q5y",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 16:38:25",
+            "Upvotes": 1,
+            "Text": "Weekend.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbdn78": [
+        {
+            "Parent ID": "t1_dsbdgpi",
+            "Comment ID": "dsbdn78",
+            "Author": "ormatie",
+            "Date Created": "01-07-2018 05:52:11",
+            "Upvotes": 2,
+            "Text": "The answer to all those questions is a resounding, yes.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbt4vo": [
+        {
+            "Parent ID": "t1_dsbssb3",
+            "Comment ID": "dsbt4vo",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 13:10:45",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": "08-30-2018 03:13:22",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbrroj": [
+        {
+            "Parent ID": "t1_dsbecmv",
+            "Comment ID": "dsbrroj",
+            "Author": "CrazyTillItHurts",
+            "Date Created": "01-07-2018 12:45:10",
+            "Upvotes": 1,
+            "Text": "People in this sub will downvote you for pointing out the glaring problems with BTC. Well, /r/BTC will also do the same thing when talking about BCH. If you care about karma, you have to be part of the circlejerk or not comment at all",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbvr4q": [
+        {
+            "Parent ID": "t1_dsbu1ql",
+            "Comment ID": "dsbvr4q",
+            "Author": "_sunnyside_up",
+            "Date Created": "01-07-2018 13:58:14",
+            "Upvotes": 1,
+            "Text": "deleted  ^^^^^^^^^^^^^^^^0.4862  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/45041)",
+            "Edited?": "03-19-2018 12:56:01",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbd2r3": [
+        {
+            "Parent ID": "t1_dsbcnwc",
+            "Comment ID": "dsbd2r3",
+            "Author": "Marcion_Sinope",
+            "Date Created": "01-07-2018 05:25:06",
+            "Upvotes": 11,
+            "Text": "Never heard of it, is it a recently airdropped altcoin?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbcp13": [
+        {
+            "Parent ID": "t1_dsbcnwc",
+            "Comment ID": "dsbcp13",
+            "Author": "slardybartfast8",
+            "Date Created": "01-07-2018 05:07:19",
+            "Upvotes": 7,
+            "Text": "It won\u2019t sell it for btc ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbg2tl": [
+        {
+            "Parent ID": "t1_dsbcnwc",
+            "Comment ID": "dsbg2tl",
+            "Author": "SignHereCo",
+            "Date Created": "01-07-2018 07:48:32",
+            "Upvotes": 5,
+            "Text": "...back? lol",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbd7fd": [
+        {
+            "Parent ID": "t1_dsbcnwc",
+            "Comment ID": "dsbd7fd",
+            "Author": "brewsterf",
+            "Date Created": "01-07-2018 05:31:30",
+            "Upvotes": 0,
+            "Text": "What do you mean?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbqgxa": [
+        {
+            "Parent ID": "t1_dsbened",
+            "Comment ID": "dsbqgxa",
+            "Author": "SamouraiWallet",
+            "Date Created": "01-07-2018 12:20:31",
+            "Upvotes": 4,
+            "Text": "Being worked on as we speak /u/TheGreatMuffin \n\n/u/Elum224 - great UX/UI suggestions, will take those ideas into account. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dttra86": [
+        {
+            "Parent ID": "t1_dttq679",
+            "Comment ID": "dttra86",
+            "Author": "Elum224",
+            "Date Created": "02-06-2018 10:59:04",
+            "Upvotes": 2,
+            "Text": "Oh wow! Looks like I'm going to have to use Samurai wallet now ;)\nHopefully everyone uses this feature too!\n\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscwntr": [
+        {
+            "Parent ID": "t1_dscpqo7",
+            "Comment ID": "dscwntr",
+            "Author": "Navichandran",
+            "Date Created": "01-08-2018 03:08:43",
+            "Upvotes": 1,
+            "Text": "*crickets*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscunvo": [
+        {
+            "Parent ID": "t1_dsc0kj6",
+            "Comment ID": "dscunvo",
+            "Author": "MobthePoet",
+            "Date Created": "01-08-2018 01:53:48",
+            "Upvotes": 1,
+            "Text": "This makes me confident that coin bought now has tremendous long term value. Even if BTC isn\u2019t the eventual top coin, the fact that it\u2019s the front runner of the crypto boom means that it\u2019ll most likely be one of the first to hit the true mainstream, which should also mean huge increase in value.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbuihv": [
+        {
+            "Parent ID": "t1_dsbmvgt",
+            "Comment ID": "dsbuihv",
+            "Author": "theYurtMaster",
+            "Date Created": "01-07-2018 13:35:54",
+            "Upvotes": 3,
+            "Text": "Yeah 100% going to hodl try and pay some college fees \ud83d\ude21",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbsbem": [
+        {
+            "Parent ID": "t1_dsbglk6",
+            "Comment ID": "dsbsbem",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 12:55:20",
+            "Upvotes": 3,
+            "Text": "we need them ASAP. Every day waiting costs momentum and is rsiking the whole project!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbh8fm": [
+        {
+            "Parent ID": "t1_dsbglk6",
+            "Comment ID": "dsbh8fm",
+            "Author": "theYurtMaster",
+            "Date Created": "01-07-2018 08:33:11",
+            "Upvotes": 2,
+            "Text": "Is there a way to set reminders for me to come back to this \ud83d\ude02",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbrt7w": [
+        {
+            "Parent ID": "t1_dsbglk6",
+            "Comment ID": "dsbrt7w",
+            "Author": "borgelorp72",
+            "Date Created": "01-07-2018 12:45:58",
+            "Upvotes": 1,
+            "Text": "RemindMe! 1 Year \"HODL 1 Year completed?\"",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbwuez": [
+        {
+            "Parent ID": "t1_dsbwipt",
+            "Comment ID": "dsbwuez",
+            "Author": "Thisisonlyagame",
+            "Date Created": "01-07-2018 14:17:30",
+            "Upvotes": 9,
+            "Text": "You cant \"change\" it though. That just makes you not trustworthy.\n\nI will not trust what you or your dad says at any point in time going forward.\n\nI need all those stocks back please.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscpagp": [
+        {
+            "Parent ID": "t1_dsbwipt",
+            "Comment ID": "dscpagp",
+            "Author": "BondsWithXenon",
+            "Date Created": "01-07-2018 23:22:40",
+            "Upvotes": 2,
+            "Text": ">rather than eating a sock, I'm going to respectfully eat my words\n\nlol",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc5ai7": [
+        {
+            "Parent ID": "t1_dsc4gjy",
+            "Comment ID": "dsc5ai7",
+            "Author": "wakeupalice",
+            "Date Created": "01-07-2018 16:48:25",
+            "Upvotes": 6,
+            "Text": "True, but I feel like BTC is trading off the two most important aspects of currency, transaction speed and cost.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsd6jd0": [
+        {
+            "Parent ID": "t1_dscxcje",
+            "Comment ID": "dsd6jd0",
+            "Author": "wakeupalice",
+            "Date Created": "01-08-2018 09:16:16",
+            "Upvotes": 1,
+            "Text": "But the Dow Jones is an index of companies with actual real world use, value and purpose. What would be the purpose of Bitcoin if it just accumulates or holds value but doesn't have any practical use? It would be useless as an index. 3 months ago I would have said if Bitcoin falls the whole crypto world falls with it. Now? Not so much...",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsci5pk": [
+        {
+            "Parent ID": "t1_dsccysr",
+            "Comment ID": "dsci5pk",
+            "Author": "slay_the_beast",
+            "Date Created": "01-07-2018 20:49:40",
+            "Upvotes": 4,
+            "Text": "So ETH processing almost 4x the number of transactions with lower fees... how do you explain that as needing to scale to have scaling problems?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc5xl9": [
+        {
+            "Parent ID": "t1_dsc5m3p",
+            "Comment ID": "dsc5xl9",
+            "Author": "kalmonipa",
+            "Date Created": "01-07-2018 16:59:59",
+            "Upvotes": 2,
+            "Text": "Can you elaborate on this instead of just naming something? What is the network effect? How does it work? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbyg7e": [
+        {
+            "Parent ID": "t1_dsbyeia",
+            "Comment ID": "dsbyg7e",
+            "Author": "TidyMosquito245",
+            "Date Created": "01-07-2018 14:46:23",
+            "Upvotes": 4,
+            "Text": "Glass half full kinda guy, good point",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscc9zm": [
+        {
+            "Parent ID": "t1_dsbols7",
+            "Comment ID": "dscc9zm",
+            "Author": "lexshotit",
+            "Date Created": "01-07-2018 18:57:03",
+            "Upvotes": 1,
+            "Text": "I spent 3 whole months locked out of my Poloniex account because of an attempted hack. Took them 3 months to answer a ticket to unfreeze my account. It's a good platform as long as nothing goes wrong. But if it does you're in for a long ride.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbysai": [
+        {
+            "Parent ID": "t1_dsbsbyc",
+            "Comment ID": "dsbysai",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 14:52:37",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": "05-21-2018 16:57:55",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc3sp6": [
+        {
+            "Parent ID": "t1_dsc34ri",
+            "Comment ID": "dsc3sp6",
+            "Author": "marcsrx",
+            "Date Created": "01-07-2018 16:20:21",
+            "Upvotes": 1,
+            "Text": "I should bought this AM when it was 157XX. Its back to 163XX now... I lost 200bucks this morning and panic sold. Damnit",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsdqaxs": [
+        {
+            "Parent ID": "t1_dsc51ej",
+            "Comment ID": "dsdqaxs",
+            "Author": "Coffeeupthebutt",
+            "Date Created": "01-08-2018 15:11:28",
+            "Upvotes": 1,
+            "Text": "Hmm you talk about ego in weird context buddy",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscogsa": [
+        {
+            "Parent ID": "t1_dsccw4v",
+            "Comment ID": "dscogsa",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 23:03:13",
+            "Upvotes": 6,
+            "Text": "[deleted]",
+            "Edited?": "03-15-2020 14:19:07",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscghrn": [
+        {
+            "Parent ID": "t1_dscgg2p",
+            "Comment ID": "dscghrn",
+            "Author": "messiahsk8er",
+            "Date Created": "01-07-2018 20:15:56",
+            "Upvotes": 1,
+            "Text": "Thanks!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbyzrr": [
+        {
+            "Parent ID": "t1_dsbspls",
+            "Comment ID": "dsbyzrr",
+            "Author": "dop3wp3w",
+            "Date Created": "01-07-2018 14:56:27",
+            "Upvotes": 2,
+            "Text": "exactly what i thought hahaha",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbn8jq": [
+        {
+            "Parent ID": "t1_dsbn3t5",
+            "Comment ID": "dsbn8jq",
+            "Author": "OptiqueMarquis",
+            "Date Created": "01-07-2018 11:14:46",
+            "Upvotes": 1,
+            "Text": "great! time to double my investment then",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc2jcn": [
+        {
+            "Parent ID": "t1_dsc28uv",
+            "Comment ID": "dsc2jcn",
+            "Author": "Hypebeastcorner",
+            "Date Created": "01-07-2018 15:59:33",
+            "Upvotes": 1,
+            "Text": "Sadly I can't find the sub that this guy was talking on. But yes thats true, its in the guidelines due to the whole silk road incident, but with that being said, your bitcoins will always be tracked back to you if they suspect your account is associated with any of those prohibited sales or buys? What can cause them to suspect that and allow them to basically track your purchase/sale...? I feel like its not as descrete as people make it out to be anymore ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc17bb": [
+        {
+            "Parent ID": "t1_dsc10bx",
+            "Comment ID": "dsc17bb",
+            "Author": "Hypebeastcorner",
+            "Date Created": "01-07-2018 15:36:01",
+            "Upvotes": 1,
+            "Text": "I'll try and find the reddit user and link to this statement, give me a little it's gonna be a tough find. Haha ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc30fp": [
+        {
+            "Parent ID": "t1_dsc2x0g",
+            "Comment ID": "dsc30fp",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 16:07:46",
+            "Upvotes": 1,
+            "Text": "That's what I think. The graph when looking close up looks very odd. It's going up and down the exct same amount constantly all day every day. Someone is desperately trying to keep it high up in the trading volume list.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscar64": [
+        {
+            "Parent ID": "t1_dscajqm",
+            "Comment ID": "dscar64",
+            "Author": "patchymoose",
+            "Date Created": "01-07-2018 18:28:21",
+            "Upvotes": 2,
+            "Text": "Ok that makes sense. So basically it sounds like I should hold off and wait for things to calm down before trying to use it for regular transactions...",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsci3wl": [
+        {
+            "Parent ID": "t1_dscg77b",
+            "Comment ID": "dsci3wl",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 20:48:39",
+            "Upvotes": -1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscgejb": [
+        {
+            "Parent ID": "t1_dscfq0o",
+            "Comment ID": "dscgejb",
+            "Author": "gjhech",
+            "Date Created": "01-07-2018 20:14:05",
+            "Upvotes": 1,
+            "Text": "and still dropping...",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dschjtc": [
+        {
+            "Parent ID": "t1_dscgm94",
+            "Comment ID": "dschjtc",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 20:37:22",
+            "Upvotes": 2,
+            "Text": "Ok two comment redditor. The only other comment you have you are pumping trash Tron. Fuck out of here.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dschkqg": [
+        {
+            "Parent ID": "t1_dscgm94",
+            "Comment ID": "dschkqg",
+            "Author": "borgelorp72",
+            "Date Created": "01-07-2018 20:37:53",
+            "Upvotes": 1,
+            "Text": "I'm talking about intra-day movements. You're kind of a dbag though. Good luck.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsctjq9": [
+        {
+            "Parent ID": "t1_dscthfr",
+            "Comment ID": "dsctjq9",
+            "Author": "dmj1653",
+            "Date Created": "01-08-2018 01:17:37",
+            "Upvotes": 5,
+            "Text": "You me and the other 12 million",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsctqjm": [
+        {
+            "Parent ID": "t1_dscte81",
+            "Comment ID": "dsctqjm",
+            "Author": "[deleted]",
+            "Date Created": "01-08-2018 01:23:33",
+            "Upvotes": 2,
+            "Text": "...on Reddit.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbnqo9": [
+        {
+            "Parent ID": "t1_dsblv95",
+            "Comment ID": "dsbnqo9",
+            "Author": "CrusaderOrange",
+            "Date Created": "01-07-2018 11:25:31",
+            "Upvotes": 2,
+            "Text": "Exactly. Do you also go for eth?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscg8y5": [
+        {
+            "Parent ID": "t1_dsc8dfa",
+            "Comment ID": "dscg8y5",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 20:10:53",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscggro": [
+        {
+            "Parent ID": "t1_dscfxq4",
+            "Comment ID": "dscggro",
+            "Author": "texretvet",
+            "Date Created": "01-07-2018 20:15:21",
+            "Upvotes": 2,
+            "Text": "Thanks for the reply. It was Uphold. Finally found it in my archived emails. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbsxqv": [
+        {
+            "Parent ID": "t1_dsbs6q6",
+            "Comment ID": "dsbsxqv",
+            "Author": "dejesuswho",
+            "Date Created": "01-07-2018 13:06:58",
+            "Upvotes": 3,
+            "Text": "Before you call someone stupid and you edit your shitty grammar, go back to school and learn how to grammar you fucking cocksucker. It\u2019s you\u2019re* stupid not \u201cyour stupid.\u201d ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbsqaa": [
+        {
+            "Parent ID": "t1_dsbs6q6",
+            "Comment ID": "dsbsqaa",
+            "Author": "Thegoldencoin2017",
+            "Date Created": "01-07-2018 13:03:01",
+            "Upvotes": 1,
+            "Text": "Because BTC is actually recognized and used in the real world for transactions. Everyone can create alts, and it's dangerous. If anything will crash it will be a majority of altcoins that do not have any transactional value. However, you are right in that it is not the right time to buy BTC. The coin is obviously going on a downward trend for the next couple of days--at least--so, we should probably wait until it is low enough to buy.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscslcm": [
+        {
+            "Parent ID": "t1_dscr0si",
+            "Comment ID": "dscslcm",
+            "Author": "atanuw",
+            "Date Created": "01-08-2018 00:48:55",
+            "Upvotes": 3,
+            "Text": "It seems to be hovering around 14k as it has for about a week now. I don't see it going any lower aside from some minor movements here and there. I think this will be a good sign to investors to buy in for another pump in the coming month. I think you're right, 40k isn't out of the question or anything.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscxs2b": [
+        {
+            "Parent ID": "t1_dscr0si",
+            "Comment ID": "dscxs2b",
+            "Author": "tomorrowstodaynow",
+            "Date Created": "01-08-2018 03:55:15",
+            "Upvotes": 3,
+            "Text": "> only needs doubling",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscsoqb": [
+        {
+            "Parent ID": "t1_dscr0si",
+            "Comment ID": "dscsoqb",
+            "Author": "StanleyC062",
+            "Date Created": "01-08-2018 00:51:37",
+            "Upvotes": 2,
+            "Text": "Anything can happen in bitcoin market the price of bitcoin may increase or decrease. But I think this time it will take some time to reach $40k , so may be it is listed in bigger exchanges so it will take time to increase the price.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc28rk": [
+        {
+            "Parent ID": "t1_dsbzgej",
+            "Comment ID": "dsc28rk",
+            "Author": "kalmonipa",
+            "Date Created": "01-07-2018 15:54:23",
+            "Upvotes": 1,
+            "Text": "May I ask why you're not optimistic?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsck5fg": [
+        {
+            "Parent ID": "t1_dscj8bt",
+            "Comment ID": "dsck5fg",
+            "Author": "RulerZod",
+            "Date Created": "01-07-2018 21:30:59",
+            "Upvotes": 2,
+            "Text": "How much is a lot?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsclo3e": [
+        {
+            "Parent ID": "t1_dscj8bt",
+            "Comment ID": "dsclo3e",
+            "Author": "deweese3",
+            "Date Created": "01-07-2018 22:02:41",
+            "Upvotes": -1,
+            "Text": "true that, thats why I spread it around. I own a few thousand of the top ten right now, plus more in BTC. But seriously everyone is pretty much guaranteed to go up 100% within the year the way this market is. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbo9gw": [
+        {
+            "Parent ID": "t1_dsbo8fu",
+            "Comment ID": "dsbo9gw",
+            "Author": "Asdn1220",
+            "Date Created": "01-07-2018 11:36:13",
+            "Upvotes": 1,
+            "Text": "Another low volume take down. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc1gvm": [
+        {
+            "Parent ID": "t1_dsc11jd",
+            "Comment ID": "dsc1gvm",
+            "Author": "Hypebeastcorner",
+            "Date Created": "01-07-2018 15:40:44",
+            "Upvotes": 1,
+            "Text": "Mind linking me or giving me more info on how much they decide to tax you? With that being said I have a small home business as a \"job\" selling clothing and I buy bitcoin with my profits but I'm not positive how to calculate taxes based on that being my only form of income...basically around a few thousands every few months depending on how much I can sell at a time. I'd like to take payments in bitcoin but I feel like that gets a little screwy since theres not much merchant protection selling items for bitcoin ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc42ii": [
+        {
+            "Parent ID": "t1_dsc3rn1",
+            "Comment ID": "dsc42ii",
+            "Author": "Hypebeastcorner",
+            "Date Created": "01-07-2018 16:24:59",
+            "Upvotes": 1,
+            "Text": "Thats exactly what I needed to hear, I was aware of a taxless period of holding but wasnt sure on the duration of the hold, thank you for the knowledge!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscahny": [
+        {
+            "Parent ID": "t1_dsca1e2",
+            "Comment ID": "dscahny",
+            "Author": "allergygal",
+            "Date Created": "01-07-2018 18:23:15",
+            "Upvotes": 3,
+            "Text": "So true.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscdc9x": [
+        {
+            "Parent ID": "t1_dsca1e2",
+            "Comment ID": "dscdc9x",
+            "Author": "MarbleWheels",
+            "Date Created": "01-07-2018 19:17:25",
+            "Upvotes": 2,
+            "Text": "Sold & have wire transfer incoming. Brace for + 20%!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc90is": [
+        {
+            "Parent ID": "t1_dsc6ivu",
+            "Comment ID": "dsc90is",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 17:55:47",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc7lki": [
+        {
+            "Parent ID": "t1_dsc6ivu",
+            "Comment ID": "dsc7lki",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 17:30:04",
+            "Upvotes": 1,
+            "Text": "Or more likely, in my opinion, rising another 10%.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc6s28": [
+        {
+            "Parent ID": "t1_dsc68ui",
+            "Comment ID": "dsc6s28",
+            "Author": "MarbleWheels",
+            "Date Created": "01-07-2018 17:15:10",
+            "Upvotes": 2,
+            "Text": "I invested quite a while ago, care about other things and now want to sell some. Btc with its staggering growth ended up making my portfolio kinda unbalanced so I want to fix it. Still it is really clear to me NOT to invest in crypto more tham what I can afford to lose overnight and this is not the case. But thanks for the reminder, too many people forget about this! :-)",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc9rff": [
+        {
+            "Parent ID": "t1_dsc68p0",
+            "Comment ID": "dsc9rff",
+            "Author": "Elitist_Plebeian",
+            "Date Created": "01-07-2018 18:09:22",
+            "Upvotes": 2,
+            "Text": "If anyone could predict what you're predicting, the price would already be $19,000. It could go up and it could also go down and nobody will know until after it happens.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsck9qt": [
+        {
+            "Parent ID": "t1_dsch6rj",
+            "Comment ID": "dsck9qt",
+            "Author": "GrimeyTimey",
+            "Date Created": "01-07-2018 21:33:25",
+            "Upvotes": 1,
+            "Text": "Well I don't have either protection tbh because I'm still on the fence if I need it. Id def need it if I was going to start messing with bitcoin. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscw8w1": [
+        {
+            "Parent ID": "t1_dscj6wp",
+            "Comment ID": "dscw8w1",
+            "Author": "[deleted]",
+            "Date Created": "01-08-2018 02:52:16",
+            "Upvotes": 1,
+            "Text": "The entire website is written under the Tyler Durden handle.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscknft": [
+        {
+            "Parent ID": "t1_dscki8p",
+            "Comment ID": "dscknft",
+            "Author": "SeanCache",
+            "Date Created": "01-07-2018 21:41:04",
+            "Upvotes": -2,
+            "Text": "Bcash supporter!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dseqb1w": [
+        {
+            "Parent ID": "t1_dscrhdl",
+            "Comment ID": "dseqb1w",
+            "Author": "yasemeen",
+            "Date Created": "01-09-2018 03:12:07",
+            "Upvotes": 1,
+            "Text": "Aight you telling me I fucked up isn't helping though cause I already know I did. What do you think I should do next? Just take out my money when my trial period ends? Actually, even though they already opened up a package for me my money was rejected for some reason and I have to resend it...do you think I shouldn't resend it all together and just take my money back without any profit or should I resend it cause I would still make something right? please advise me",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbohbi": [
+        {
+            "Parent ID": "t1_dsbkevj",
+            "Comment ID": "dsbohbi",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 11:40:38",
+            "Upvotes": -4,
+            "Text": "nice try",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscjhgs": [
+        {
+            "Parent ID": "t1_dsciigx",
+            "Comment ID": "dscjhgs",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 21:17:15",
+            "Upvotes": 1,
+            "Text": "I am receiving bitcoin and the only way to get it without paying nearly $20 for the transaction is to send it to a coinbase email. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscglqu": [
+        {
+            "Parent ID": "t1_dscgbrm",
+            "Comment ID": "dscglqu",
+            "Author": "kidpokeineyegif",
+            "Date Created": "01-07-2018 20:18:12",
+            "Upvotes": 3,
+            "Text": "Good response",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscm055": [
+        {
+            "Parent ID": "t1_dscitvr",
+            "Comment ID": "dscm055",
+            "Author": "slay_the_beast",
+            "Date Created": "01-07-2018 22:09:44",
+            "Upvotes": 3,
+            "Text": "I\u2019m afraid you\u2019ve been misinformed. Would you mind elaborating on each of your points with sources?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscoeut": [
+        {
+            "Parent ID": "t1_dscitvr",
+            "Comment ID": "dscoeut",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 23:01:57",
+            "Upvotes": 0,
+            "Text": "[removed]",
+            "Edited?": "03-15-2020 14:19:13",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc3qfs": [
+        {
+            "Parent ID": "t1_dsc39ux",
+            "Comment ID": "dsc3qfs",
+            "Author": "MikeLittorice",
+            "Date Created": "01-07-2018 16:19:18",
+            "Upvotes": 3,
+            "Text": "You forgot to add: \"With negative karma\"",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbdp7d": [
+        {
+            "Parent ID": "t1_dsbdn78",
+            "Comment ID": "dsbdp7d",
+            "Author": "undadatunda",
+            "Date Created": "01-07-2018 05:54:51",
+            "Upvotes": 1,
+            "Text": "oooo...you may be right buddy...maybe everything is powered from positveness ))...a stolen energy..or maybe a gift",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbw2zo": [
+        {
+            "Parent ID": "t1_dsbvr4q",
+            "Comment ID": "dsbw2zo",
+            "Author": "cedobor",
+            "Date Created": "01-07-2018 14:04:03",
+            "Upvotes": 2,
+            "Text": "It's for transaction fees so it's not like $500 to splash. You'll be able to pay for crypto with fiat on the exchange.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbcs0j": [
+        {
+            "Parent ID": "t1_dsbcp13",
+            "Comment ID": "dsbcs0j",
+            "Author": "iduggabighole",
+            "Date Created": "01-07-2018 05:11:06",
+            "Upvotes": -2,
+            "Text": "Why not?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbda68": [
+        {
+            "Parent ID": "t1_dsbd7fd",
+            "Comment ID": "dsbda68",
+            "Author": "iduggabighole",
+            "Date Created": "01-07-2018 05:35:00",
+            "Upvotes": -4,
+            "Text": "I just want to see it making healthy gains. it is rising today though..",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbqw4e": [
+        {
+            "Parent ID": "t1_dsbqgxa",
+            "Comment ID": "dsbqw4e",
+            "Author": "TheGreatMuffin",
+            "Date Created": "01-07-2018 12:28:50",
+            "Upvotes": 2,
+            "Text": "Great, nice to hear! :)  \nAlso just saying it again that the idea with tx batches saving is really neat :)",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscumft": [
+        {
+            "Parent ID": "t1_dsbuihv",
+            "Comment ID": "dscumft",
+            "Author": "MobthePoet",
+            "Date Created": "01-08-2018 01:52:27",
+            "Upvotes": 1,
+            "Text": "My personal philosophy is any small (1-200$$$) investment is worth hodling because the loss isn\u2019t all that substantial. Any amount you\u2019re ok with losing is worth investing.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbwso1": [
+        {
+            "Parent ID": "t1_dsbsbem",
+            "Comment ID": "dsbwso1",
+            "Author": "UninhabitedSoapsuds",
+            "Date Created": "01-07-2018 14:16:39",
+            "Upvotes": 3,
+            "Text": "Good things take time, rushed projects end up bad. We don\u2019t need any buggy code that can be exploited.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbhkqe": [
+        {
+            "Parent ID": "t1_dsbh8fm",
+            "Comment ID": "dsbhkqe",
+            "Author": "brocktice",
+            "Date Created": "01-07-2018 08:45:06",
+            "Upvotes": 3,
+            "Text": "RemindMe! 1 year \"should I have sold or hodled?\"",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbzs68": [
+        {
+            "Parent ID": "t1_dsbwuez",
+            "Comment ID": "dsbzs68",
+            "Author": "ialo00130",
+            "Date Created": "01-07-2018 15:10:56",
+            "Upvotes": -2,
+            "Text": "You shouldn't trust me anyway. Never take investment tips from a stranger over the internet. Talk to a registered professional instead.\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc5n5g": [
+        {
+            "Parent ID": "t1_dsc5ai7",
+            "Comment ID": "dsc5n5g",
+            "Author": "TheGreatMuffin",
+            "Date Created": "01-07-2018 16:54:41",
+            "Upvotes": 4,
+            "Text": "That's kinda a valid point, but it can be argued that bitcoin is not competing on those metrics. In many use cases the existing fiat systems or altcoins are quicker and cheaper (for now), but no other altcoin has the same level of security, immutability, decentralisation, censorship-resistance and amount of development work being done as in bitcoin (imo). So just a matter of personal preferences, I guess. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscimkp": [
+        {
+            "Parent ID": "t1_dsci5pk",
+            "Comment ID": "dscimkp",
+            "Author": "martinshiver",
+            "Date Created": "01-07-2018 20:59:23",
+            "Upvotes": -2,
+            "Text": "ETH was not designed to be used as a traditional \"currency\". The token is designed to be a means of exchange between smart contracts. Right now, it doesn't even do that. It is basically a vehicle for money raising for the Ethereum project. There are no retailers accepting ETH as a form of payment and there probably never will be.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscix2e": [
+        {
+            "Parent ID": "t1_dsci5pk",
+            "Comment ID": "dscix2e",
+            "Author": "RulerZod",
+            "Date Created": "01-07-2018 21:05:30",
+            "Upvotes": -1,
+            "Text": "Not true",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc94zp": [
+        {
+            "Parent ID": "t1_dsc5xl9",
+            "Comment ID": "dsc94zp",
+            "Author": "Erikt311",
+            "Date Created": "01-07-2018 17:58:03",
+            "Upvotes": 2,
+            "Text": "To elaborate on how that relates to your original question, we have already seen how other layered tech (lightning for example) is being developed to address some of the core concerns you mentioned. Developers will innovate in such a way, building on Bitcoin itself rather than developing totally separate projects (although clearly the amount of alt coins shows they are doing that, too) because Bitcoin has gotten big enough for it to be worthwhile already. ",
+            "Edited?": "01-07-2018 18:01:58",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc77wg": [
+        {
+            "Parent ID": "t1_dsc5xl9",
+            "Comment ID": "dsc77wg",
+            "Author": "auviewer",
+            "Date Created": "01-07-2018 17:23:11",
+            "Upvotes": 1,
+            "Text": "It might be short for Lightning Network effect. I'm being optimistic here. But the general term network effect is a model for the way new technologies commonly get adopted by people (personal networks) on an [S-curve](https://en.wikipedia.org/wiki/Sigmoid_function). Bitcoin appears to follow such a path but it probably several different S-curves. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc8xxb": [
+        {
+            "Parent ID": "t1_dsc5xl9",
+            "Comment ID": "dsc8xxb",
+            "Author": "Erikt311",
+            "Date Created": "01-07-2018 17:54:28",
+            "Upvotes": 1,
+            "Text": "This is a decent explanation.  Essentially, it had first mover advantage and is now entrenched enough that it has creates it's own value beyond what it has intrinsically.   I don't personally believe that it will end up as the ONLY crypto or blockchain use case, but it's as good an explanation as any about why it's almost self sustaining at this point. \n\nhttps://www.aier.org/blog/how-important-are-bitcoin\u2019s-network-effects",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsccmd3": [
+        {
+            "Parent ID": "t1_dscc9zm",
+            "Comment ID": "dsccmd3",
+            "Author": "DonteFinale",
+            "Date Created": "01-07-2018 19:03:51",
+            "Upvotes": 1,
+            "Text": "I feel like that might be true for most platforms these days with the amount of new users vs their support staff.  \n\nHowever still good information to know.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbz4wl": [
+        {
+            "Parent ID": "t1_dsbysai",
+            "Comment ID": "dsbz4wl",
+            "Author": "Wakenbake585",
+            "Date Created": "01-07-2018 14:59:07",
+            "Upvotes": 2,
+            "Text": "Ouch.  Smart though.  Look at coinbase as an example when they continue to accept new customers although they are clearly drowning in issues already. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscagad": [
+        {
+            "Parent ID": "t1_dsc3sp6",
+            "Comment ID": "dscagad",
+            "Author": "smhsmhsmh1",
+            "Date Created": "01-07-2018 18:22:31",
+            "Upvotes": 0,
+            "Text": "+capital gains taxes. Don\u2019t do that ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscpzoo": [
+        {
+            "Parent ID": "t1_dscogsa",
+            "Comment ID": "dscpzoo",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 23:39:29",
+            "Upvotes": 1,
+            "Text": "r/Bitcoin and r/Bitcoincash are livable for supporters of either. r/Btc is torture.",
+            "Edited?": "01-08-2018 00:08:50",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc3cdw": [
+        {
+            "Parent ID": "t1_dsc2jcn",
+            "Comment ID": "dsc3cdw",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 16:13:11",
+            "Upvotes": 3,
+            "Text": "[deleted]",
+            "Edited?": "05-03-2018 00:06:45",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc343g": [
+        {
+            "Parent ID": "t1_dsc30fp",
+            "Comment ID": "dsc343g",
+            "Author": "MikeLittorice",
+            "Date Created": "01-07-2018 16:09:27",
+            "Upvotes": 1,
+            "Text": "Yeah, it looks like it's being kept at 2500+. Nobody can keep that up forever so my guess is that it will fall eventually. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscgtoy": [
+        {
+            "Parent ID": "t1_dscar64",
+            "Comment ID": "dscgtoy",
+            "Author": "kidpokeineyegif",
+            "Date Created": "01-07-2018 20:22:42",
+            "Upvotes": 2,
+            "Text": "Transaction fees have not been below $20 for over a month. \n\nThere is currently development going on to improve the situation but this has been an issue for many years. The community split (there is now bitcoin cash which is a fork of bitcoin which attempted to fix this issue) and bitcoin is now unusable.\n\nMost people are either; sticking with bitcoin and hoping the issues resolve or choosing a different crypto. Market share for bitcoin has plummetd from 95% of all crypto to the current low of under 35%.\n\nIf you want to transfer an amount in the next couple months (maybe much longer) then choose a different crypto: literally every single other crypto is better by a lot.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscma9h": [
+        {
+            "Parent ID": "t1_dschkqg",
+            "Comment ID": "dscma9h",
+            "Author": "Banks334",
+            "Date Created": "01-07-2018 22:15:36",
+            "Upvotes": 1,
+            "Text": "What? Yes, I am talking about an \"intra-day\" movement as well. And, I was dead on. Bitcoin down to 15k. Please let this be a wake-up call.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbqxhw": [
+        {
+            "Parent ID": "t1_dsbnqo9",
+            "Comment ID": "dsbqxhw",
+            "Author": "spp41",
+            "Date Created": "01-07-2018 12:29:34",
+            "Upvotes": 2,
+            "Text": "Have both btc and ether, yeah",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscmpwe": [
+        {
+            "Parent ID": "t1_dscg8y5",
+            "Comment ID": "dscmpwe",
+            "Author": "randominternetguy3",
+            "Date Created": "01-07-2018 22:24:30",
+            "Upvotes": 3,
+            "Text": "BTC is considered a capital asset and not a currency in the US. So if you trade your huge gains for a lambo or a mansion, thats taxed just as if you cashed out to fiat. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscltct": [
+        {
+            "Parent ID": "t1_dscg8y5",
+            "Comment ID": "dscltct",
+            "Author": "Cartina",
+            "Date Created": "01-07-2018 22:05:48",
+            "Upvotes": 1,
+            "Text": "It does not have legal tender status in any jurisdiction in the US.\n\nHyperdeflation in a \"real world\" currency is basically purely hypothetical as it really never happened in a scale we would call \"Hyper\". It has natural brakes because the more a currency is worth, the more willing people are to spend it and borrow it, causing higher inflation.\n\nIn the end people do pay taxes on using and earning dollars as well, it's just such a natural thing you probably don't think about it as much as in the crypto world.\n\nIn any regard the previous poster is correct, using your BTC in any capacity is a taxable event. \n\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbtuu8": [
+        {
+            "Parent ID": "t1_dsbsxqv",
+            "Comment ID": "dsbtuu8",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 13:23:53",
+            "Upvotes": 5,
+            "Text": " If only crypto depended on grammar",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbt9vu": [
+        {
+            "Parent ID": "t1_dsbsqaa",
+            "Comment ID": "dsbt9vu",
+            "Author": "pac-men",
+            "Date Created": "01-07-2018 13:13:21",
+            "Upvotes": 3,
+            "Text": "> The coin is obviously going on a downward trend for the next couple of days\n\nYou sure?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscspdr": [
+        {
+            "Parent ID": "t1_dscslcm",
+            "Comment ID": "dscspdr",
+            "Author": "[deleted]",
+            "Date Created": "01-08-2018 00:52:11",
+            "Upvotes": 3,
+            "Text": "Where are you seeing $14k? \nI like to follow the prices here: https://www.worldcoinindex.com/",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc9qzx": [
+        {
+            "Parent ID": "t1_dsc28rk",
+            "Comment ID": "dsc9qzx",
+            "Author": "osb40000",
+            "Date Created": "01-07-2018 18:09:09",
+            "Upvotes": 2,
+            "Text": "Lets put it this way, BTC has, for the past two years at least, rested on it's laurels from a tech perspective. It's barely usable in it's current state, mining is highly concentrated in China and increasingly more expensive and difficult to keep up with, and the market is full of innovators. \n\nYes, 90% of the competitors are shitcoins and don't deserve a second glance, but there are plenty of coins that are superior to BTC in every way from a tech perspective. \n\nI love BTC, I've been with her for a long time, that said, I won't be contributing any additional fiat. This isn't 2014 or earlier, BTC's price has to be justifiable and at this point I'm worried it's simply not.  ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsck6zx": [
+        {
+            "Parent ID": "t1_dsck5fg",
+            "Comment ID": "dsck6zx",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 21:31:51",
+            "Upvotes": 2,
+            "Text": ".001",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscm1th": [
+        {
+            "Parent ID": "t1_dsclo3e",
+            "Comment ID": "dscm1th",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 22:10:44",
+            "Upvotes": 14,
+            "Text": "[deleted]",
+            "Edited?": "08-30-2018 02:41:21",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbpa1r": [
+        {
+            "Parent ID": "t1_dsbo9gw",
+            "Comment ID": "dsbpa1r",
+            "Author": "Acidryder",
+            "Date Created": "01-07-2018 11:56:42",
+            "Upvotes": 2,
+            "Text": "How exactly is volume correlated with the price?\n\nAs the volume is quite low during this current drop, how is it possible that the price is effected so strongly?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc1w3c": [
+        {
+            "Parent ID": "t1_dsc1gvm",
+            "Comment ID": "dsc1w3c",
+            "Author": "cle7756",
+            "Date Created": "01-07-2018 15:48:16",
+            "Upvotes": 0,
+            "Text": "Turbotax has a tax calculator I believe.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscxlao": [
+        {
+            "Parent ID": "t1_dscahny",
+            "Comment ID": "dscxlao",
+            "Author": "MarbleWheels",
+            "Date Created": "01-08-2018 03:47:12",
+            "Upvotes": 2,
+            "Text": "Seems I got it right this time! Sold and then it went down LOL",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscwd7b": [
+        {
+            "Parent ID": "t1_dsc90is",
+            "Comment ID": "dscwd7b",
+            "Author": "[deleted]",
+            "Date Created": "01-08-2018 02:56:52",
+            "Upvotes": 1,
+            "Text": "Wot?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc9rkn": [
+        {
+            "Parent ID": "t1_dsc7lki",
+            "Comment ID": "dsc9rkn",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 18:09:27",
+            "Upvotes": 1,
+            "Text": "Cool, thanks for sharing",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc729v": [
+        {
+            "Parent ID": "t1_dsc6s28",
+            "Comment ID": "dsc729v",
+            "Author": "FacesOfEth",
+            "Date Created": "01-07-2018 17:20:22",
+            "Upvotes": 2,
+            "Text": "If you want to sell some, then sell some.  I encourage you not to ask people in a bitcoin forum for permission to sell your bitcoin. Do you think an investor of anything wants to go around telling people to sell such thing?\n\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsckpuh": [
+        {
+            "Parent ID": "t1_dscknft",
+            "Comment ID": "dsckpuh",
+            "Author": "TerpZ",
+            "Date Created": "01-07-2018 21:42:20",
+            "Upvotes": 1,
+            "Text": "Says the guy posting nonsense.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dseqcr7": [
+        {
+            "Parent ID": "t1_dseqb1w",
+            "Comment ID": "dseqcr7",
+            "Author": "Cartina",
+            "Date Created": "01-09-2018 03:13:57",
+            "Upvotes": 1,
+            "Text": "Sorry man, I can't take any financial decisions for you.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbxvbr": [
+        {
+            "Parent ID": "t1_dsbohbi",
+            "Comment ID": "dsbxvbr",
+            "Author": "Thisisonlyagame",
+            "Date Created": "01-07-2018 14:35:41",
+            "Upvotes": 3,
+            "Text": "What do you mean \"nice try\"? He is right, this is how you build a secure system that can hold billions and billions securely. Its the same outside of crypto. Take it slow, make sure it works correctly. Rome was not built in a day. \n\nEth and btc are different beasts, and i am a fan of both. Eth will have growing pains, but it will grow. If you think his explaniation is not vaild, then you are being wilfully ignorant. \n\nHowever, this explaination does not guarantee Bitcoin's success. But personally, that kind of system is what I'd want to keep my thousands of dollars on. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscjq8s": [
+        {
+            "Parent ID": "t1_dscjhgs",
+            "Comment ID": "dscjq8s",
+            "Author": "ReilySiegel",
+            "Date Created": "01-07-2018 21:22:17",
+            "Upvotes": 3,
+            "Text": "You would have to pay the same fee for sending from coinbase to a non coinbase address.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscpc51": [
+        {
+            "Parent ID": "t1_dscoeut",
+            "Comment ID": "dscpc51",
+            "Author": "RulerZod",
+            "Date Created": "01-07-2018 23:23:45",
+            "Upvotes": 1,
+            "Text": "Wrong. incorrect. Your analogy only works if we called bitcoin bitcoin classic.  And bcash bitcoin.\n\nPlus the reason behind it was ethereum was hacked. The bitcoin blockchain has never been hacked.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc4i6v": [
+        {
+            "Parent ID": "t1_dsc3qfs",
+            "Comment ID": "dsc4i6v",
+            "Author": "MichaelKMR",
+            "Date Created": "01-07-2018 16:34:32",
+            "Upvotes": 1,
+            "Text": "loool",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbg02d": [
+        {
+            "Parent ID": "t1_dsbdp7d",
+            "Comment ID": "dsbg02d",
+            "Author": "SignHereCo",
+            "Date Created": "01-07-2018 07:45:13",
+            "Upvotes": 2,
+            "Text": "[That's beautiful, man.](https://gfycat.com/MintyImpossibleGeese)",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbx0fu": [
+        {
+            "Parent ID": "t1_dsbw2zo",
+            "Comment ID": "dsbx0fu",
+            "Author": "_sunnyside_up",
+            "Date Created": "01-07-2018 14:20:26",
+            "Upvotes": 1,
+            "Text": "deleted  ^^^^^^^^^^^^^^^^0.2692  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/21838)",
+            "Edited?": "03-19-2018 12:56:05",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbdfau": [
+        {
+            "Parent ID": "t1_dsbcs0j",
+            "Comment ID": "dsbdfau",
+            "Author": "S_Lowry",
+            "Date Created": "01-07-2018 05:41:43",
+            "Upvotes": 7,
+            "Text": "It being centralized and lacking of real scaling solutions.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbddiq": [
+        {
+            "Parent ID": "t1_dsbda68",
+            "Comment ID": "dsbddiq",
+            "Author": "ormatie",
+            "Date Created": "01-07-2018 05:39:27",
+            "Upvotes": 13,
+            "Text": "oh boy you came to the wrong subreddit lmao",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbh1wz": [
+        {
+            "Parent ID": "t1_dsbda68",
+            "Comment ID": "dsbh1wz",
+            "Author": "domelane",
+            "Date Created": "01-07-2018 08:26:38",
+            "Upvotes": 15,
+            "Text": "Stick to the real, decentralized Bitcoin. Bcash has no future for many reasons, but this is the most important to point out and easier to understand: It is a centralized altcoin with a few crappy devs, controlled and manipulated by a few rich unethical and non-technical individuals and some Chinese miners. They have money to pump and they have tools to deceive like Bitcoin;com(fake site, the real Bitcoin website is Bitcoin.org) and r/btc (fake bitcoin forum, the real one is r/bitcoin), NewsBitcoin;com, Bitcoin;com Wallet and other fake stuff named after the real Bitcoin.\ufeff\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbpnvk": [
+        {
+            "Parent ID": "t1_dsbda68",
+            "Comment ID": "dsbpnvk",
+            "Author": "xxthelegnd27",
+            "Date Created": "01-07-2018 12:04:26",
+            "Upvotes": 1,
+            "Text": "Yeah, I noticed",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbhl02": [
+        {
+            "Parent ID": "t1_dsbhkqe",
+            "Comment ID": "dsbhl02",
+            "Author": "RemindMeBot",
+            "Date Created": "01-07-2018 08:45:22",
+            "Upvotes": 2,
+            "Text": "I will be messaging you on [**2019-01-07 13:45:18 UTC**](http://www.wolframalpha.com/input/?i=2019-01-07 13:45:18 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/Bitcoin/comments/7opu1y/daily_discussion_january_07_2018/)\n\n[**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/Bitcoin/comments/7opu1y/daily_discussion_january_07_2018/]%0A%0ARemindMe!  1 year ) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! dsbhl02)\n\n_____\n\n|[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)\n|-|-|-|-|-|-|",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc59a6": [
+        {
+            "Parent ID": "t1_dsbzs68",
+            "Comment ID": "dsc59a6",
+            "Author": "Thisisonlyagame",
+            "Date Created": "01-07-2018 16:47:50",
+            "Upvotes": 8,
+            "Text": "I wanted to trust you would eat a sock",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscit8u": [
+        {
+            "Parent ID": "t1_dscimkp",
+            "Comment ID": "dscit8u",
+            "Author": "slay_the_beast",
+            "Date Created": "01-07-2018 21:03:14",
+            "Upvotes": 2,
+            "Text": "Sure, but an ERC20 token on top of ETH could be a currency. Peer to peer payments would be one of the simplest use cases of Ethereum. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscjclq": [
+        {
+            "Parent ID": "t1_dscix2e",
+            "Comment ID": "dscjclq",
+            "Author": "slay_the_beast",
+            "Date Created": "01-07-2018 21:14:31",
+            "Upvotes": 4,
+            "Text": "Oh really? https://etherscan.io/chart/tx",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscddoo": [
+        {
+            "Parent ID": "t1_dscagad",
+            "Comment ID": "dscddoo",
+            "Author": "marcsrx",
+            "Date Created": "01-07-2018 19:18:06",
+            "Upvotes": 1,
+            "Text": "There is only capital gains tax on GAINS. And you can write off losses BTW.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc3hns": [
+        {
+            "Parent ID": "t1_dsc3cdw",
+            "Comment ID": "dsc3hns",
+            "Author": "Hypebeastcorner",
+            "Date Created": "01-07-2018 16:15:30",
+            "Upvotes": 1,
+            "Text": "Thanks for the info, not really involved in any sketchy activity anyways but this has a lot of important info that people need to understand...",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc9yik": [
+        {
+            "Parent ID": "t1_dsc343g",
+            "Comment ID": "dsc9yik",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 18:13:03",
+            "Upvotes": 3,
+            "Text": "Here's the graph, from Blockchain.info.\nhttps://image.ibb.co/nO5k7G/BCH.jpg",
+            "Edited?": "01-07-2018 18:32:21",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscoc4y": [
+        {
+            "Parent ID": "t1_dscma9h",
+            "Comment ID": "dscoc4y",
+            "Author": "borgelorp72",
+            "Date Created": "01-07-2018 23:00:15",
+            "Upvotes": 2,
+            "Text": "Lol? I called price action and it dropped within ten minutes severely. Not sure what you were calling me out on",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbs6de": [
+        {
+            "Parent ID": "t1_dsbqxhw",
+            "Comment ID": "dsbs6de",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 12:52:46",
+            "Upvotes": 0,
+            "Text": "same here, i am very concerned about btc not able to hold on rank #1 :/  .. bitcoin needs LN ASAP",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbtxdh": [
+        {
+            "Parent ID": "t1_dsbt9vu",
+            "Comment ID": "dsbtxdh",
+            "Author": "Thegoldencoin2017",
+            "Date Created": "01-07-2018 13:25:11",
+            "Upvotes": 1,
+            "Text": "Buyback at a high of 16300 in the short run, then drops to mid 15K. Then drop to maybe high 14K, then rise. Just going off at what the chart says. If things change then its another story.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscgkw0": [
+        {
+            "Parent ID": "t1_dsc9qzx",
+            "Comment ID": "dscgkw0",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 20:17:43",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsckc7r": [
+        {
+            "Parent ID": "t1_dsck6zx",
+            "Comment ID": "dsckc7r",
+            "Author": "JayCieZe",
+            "Date Created": "01-07-2018 21:34:48",
+            "Upvotes": 3,
+            "Text": "Can't tell if sarcastic or not.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsckg4d": [
+        {
+            "Parent ID": "t1_dsck6zx",
+            "Comment ID": "dsckg4d",
+            "Author": "RulerZod",
+            "Date Created": "01-07-2018 21:37:00",
+            "Upvotes": 2,
+            "Text": "Beats my .000001",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscpxwf": [
+        {
+            "Parent ID": "t1_dscm1th",
+            "Comment ID": "dscpxwf",
+            "Author": "TheOzzk",
+            "Date Created": "01-07-2018 23:38:15",
+            "Upvotes": 3,
+            "Text": "I wish I could like this twice.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsd3pus": [
+        {
+            "Parent ID": "t1_dscm1th",
+            "Comment ID": "dsd3pus",
+            "Author": "deweese3",
+            "Date Created": "01-08-2018 07:59:47",
+            "Upvotes": 1,
+            "Text": "only play with money you can lose, in my case I can lose it but its gonna hurt :)",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbqa9t": [
+        {
+            "Parent ID": "t1_dsbpa1r",
+            "Comment ID": "dsbqa9t",
+            "Author": "Asdn1220",
+            "Date Created": "01-07-2018 12:16:51",
+            "Upvotes": 5,
+            "Text": "No buyers lining up during a sell down.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc1ysv": [
+        {
+            "Parent ID": "t1_dsc1w3c",
+            "Comment ID": "dsc1ysv",
+            "Author": "Hypebeastcorner",
+            "Date Created": "01-07-2018 15:49:35",
+            "Upvotes": 1,
+            "Text": "I'll check it out, thanks so much. Obviously taxes are confusing to someone whos never filed before and with the combination of bitcoin you have yourself a recipe. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc7y6s": [
+        {
+            "Parent ID": "t1_dsc729v",
+            "Comment ID": "dsc7y6s",
+            "Author": "MarbleWheels",
+            "Date Created": "01-07-2018 17:36:29",
+            "Upvotes": 2,
+            "Text": "Reading this sub in the past I got good advices so yes I like to hear the morale around :) Of course I am not basinf my decision (already taken btw) on what people tell me here. Have been in the game long enough to know that forum and subreddits are to Bitcoin what financial newspapers are to DowJ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsclpyt": [
+        {
+            "Parent ID": "t1_dsckpuh",
+            "Comment ID": "dsclpyt",
+            "Author": "SeanCache",
+            "Date Created": "01-07-2018 22:03:49",
+            "Upvotes": 0,
+            "Text": "Non-sense? Ok. If you believe only 12-18 people control the media who want into bitcoin and have editors publishing only the negative, you\u2019re sadly mistaken. We work in the field. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dser3rm": [
+        {
+            "Parent ID": "t1_dseqcr7",
+            "Comment ID": "dser3rm",
+            "Author": "yasemeen",
+            "Date Created": "01-09-2018 03:43:37",
+            "Upvotes": 1,
+            "Text": "I am just asking for advice, it's my choice whether or not to follow it \ud83d\ude15",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsck54o": [
+        {
+            "Parent ID": "t1_dscjq8s",
+            "Comment ID": "dsck54o",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 21:30:49",
+            "Upvotes": 1,
+            "Text": "Are you sure? It\u2019s said that the fee may be required but it would make sense. They currently deal through coinbase so you pay the transaction fee our they just send it through the email for free... then you would pay the fee for the money to be moved. I\u2019ll probably just test it out with around $2 first. Then I can see. I\u2019m sure the fee is cheaper than paying them directly. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscpsbu": [
+        {
+            "Parent ID": "t1_dscpc51",
+            "Comment ID": "dscpsbu",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 23:34:36",
+            "Upvotes": 0,
+            "Text": "[deleted]",
+            "Edited?": "03-15-2020 14:18:51",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbe5hl": [
+        {
+            "Parent ID": "t1_dsbddiq",
+            "Comment ID": "dsbe5hl",
+            "Author": "TheGodofGer",
+            "Date Created": "01-07-2018 06:16:44",
+            "Upvotes": 4,
+            "Text": "once lighting is out bcash will disapear",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbh41r": [
+        {
+            "Parent ID": "t1_dsbh1wz",
+            "Comment ID": "dsbh41r",
+            "Author": "iduggabighole",
+            "Date Created": "01-07-2018 08:28:45",
+            "Upvotes": 3,
+            "Text": "Cool, many thanks ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbif3t": [
+        {
+            "Parent ID": "t1_dsbhl02",
+            "Comment ID": "dsbif3t",
+            "Author": "theYurtMaster",
+            "Date Created": "01-07-2018 09:12:19",
+            "Upvotes": 1,
+            "Text": "Unreal haha see you next year",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsciium": [
+        {
+            "Parent ID": "t1_dsc59a6",
+            "Comment ID": "dsciium",
+            "Author": "mixmutch",
+            "Date Created": "01-07-2018 20:57:11",
+            "Upvotes": 2,
+            "Text": " But he tells you not to trust him. So... trust him on that?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsciy0n": [
+        {
+            "Parent ID": "t1_dscit8u",
+            "Comment ID": "dsciy0n",
+            "Author": "martinshiver",
+            "Date Created": "01-07-2018 21:06:04",
+            "Upvotes": -2,
+            "Text": "Of course it \"could be\". I'm strictly talking about current state and what each token is currently used for. Who knows what the future will be like. I'm thinking because Bitcoin was first, has the biggest brand and the strongest development support, it will be the one to continually dominate.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscjz8b": [
+        {
+            "Parent ID": "t1_dscjclq",
+            "Comment ID": "dscjz8b",
+            "Author": "RulerZod",
+            "Date Created": "01-07-2018 21:27:24",
+            "Upvotes": -1,
+            "Text": "Even if your myth were true. Ethereum is vulnerable as fuck. The ethereum of today is not the real ethereum. Its a hard fork because people panicked ethereum itself was hacked 50 million was stolen in 2016.  Bitcoin blockchain has never once been hacked. Exchanges have been hacked but never bitcoin itself.\n\nThe real ethereum is ethereum classic.\n\nTell me again how its more technically capable?",
+            "Edited?": "01-07-2018 22:23:58",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscpt5m": [
+        {
+            "Parent ID": "t1_dscddoo",
+            "Comment ID": "dscpt5m",
+            "Author": "mrcavooter",
+            "Date Created": "01-07-2018 23:35:10",
+            "Upvotes": 1,
+            "Text": "MyYes you can. You can wrote off up to $3000(?) a year and it rolls over. I may be wrong on the number, but do your own research.\n\nEdit: shit, I read that \"can't\". But I'm gonna leave it so I don't censor the thread.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscgw2f": [
+        {
+            "Parent ID": "t1_dscgkw0",
+            "Comment ID": "dscgw2f",
+            "Author": "osb40000",
+            "Date Created": "01-07-2018 20:24:06",
+            "Upvotes": 1,
+            "Text": "Right? I'm fully expecting a ban soon...",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsckg0e": [
+        {
+            "Parent ID": "t1_dsckc7r",
+            "Comment ID": "dsckg0e",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 21:36:56",
+            "Upvotes": 2,
+            "Text": "Yep. That was the point",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsd0tcl": [
+        {
+            "Parent ID": "t1_dsclpyt",
+            "Comment ID": "dsd0tcl",
+            "Author": "TerpZ",
+            "Date Created": "01-08-2018 06:12:26",
+            "Upvotes": 1,
+            "Text": "k ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dserxj1": [
+        {
+            "Parent ID": "t1_dser3rm",
+            "Comment ID": "dserxj1",
+            "Author": "Cartina",
+            "Date Created": "01-09-2018 04:18:24",
+            "Upvotes": 1,
+            "Text": "Giving financial advice is regulated in some countries for clear reasons. People want something to blame when shit hits the fan.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscq20w": [
+        {
+            "Parent ID": "t1_dscpsbu",
+            "Comment ID": "dscq20w",
+            "Author": "RulerZod",
+            "Date Created": "01-07-2018 23:41:06",
+            "Upvotes": -3,
+            "Text": "Ethereum was hacked. If you have to hard fork your currency cause everyone got robbed. Thats hacked.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsbhf3h": [
+        {
+            "Parent ID": "t1_dsbe5hl",
+            "Comment ID": "dsbhf3h",
+            "Author": "5HourSynergy",
+            "Date Created": "01-07-2018 08:39:41",
+            "Upvotes": -5,
+            "Text": "Do you even know what the lighting network is?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc1g8z": [
+        {
+            "Parent ID": "t1_dsbif3t",
+            "Comment ID": "dsc1g8z",
+            "Author": "ChimlyChannel",
+            "Date Created": "01-07-2018 15:40:25",
+            "Upvotes": 2,
+            "Text": "I'm in exactly the same boat, my lads - see you in a year, too ;)",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscjec1": [
+        {
+            "Parent ID": "t1_dsciy0n",
+            "Comment ID": "dscjec1",
+            "Author": "slay_the_beast",
+            "Date Created": "01-07-2018 21:15:28",
+            "Upvotes": 3,
+            "Text": "Biggest brand sure, but as a developer myself, all the interest I\u2019m hearing is not around bitcoin ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsckgqn": [
+        {
+            "Parent ID": "t1_dscjz8b",
+            "Comment ID": "dsckgqn",
+            "Author": "slay_the_beast",
+            "Date Created": "01-07-2018 21:37:20",
+            "Upvotes": 3,
+            "Text": "See you on the other side I guess man.. doesn\u2019t hurt to hold more than one coin and read up on each. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscpx40": [
+        {
+            "Parent ID": "t1_dscjz8b",
+            "Comment ID": "dscpx40",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 23:37:44",
+            "Upvotes": 1,
+            "Text": "[removed]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscwa33": [
+        {
+            "Parent ID": "t1_dscq20w",
+            "Comment ID": "dscwa33",
+            "Author": "[deleted]",
+            "Date Created": "01-08-2018 02:53:37",
+            "Upvotes": -1,
+            "Text": "This isn\u2019t how it works at all. It\u2019s the difference between a poorly worded contract and a legal system breaking down.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsc1gsu": [
+        {
+            "Parent ID": "t1_dsc1g8z",
+            "Comment ID": "dsc1gsu",
+            "Author": "ChimlyChannel",
+            "Date Created": "01-07-2018 15:40:42",
+            "Upvotes": 1,
+            "Text": "RemindMe! 1 year \"should I have sold or hodled?\"",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dsckzuv": [
+        {
+            "Parent ID": "t1_dsckgqn",
+            "Comment ID": "dsckzuv",
+            "Author": "RulerZod",
+            "Date Created": "01-07-2018 21:49:14",
+            "Upvotes": -4,
+            "Text": "I have. If you trust that pedo vitalik who is a bcash supporter btw. good for you. But I like my crypto immutable, decentralized, and without a face.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscq2hh": [
+        {
+            "Parent ID": "t1_dscpx40",
+            "Comment ID": "dscq2hh",
+            "Author": "RulerZod",
+            "Date Created": "01-07-2018 23:41:24",
+            "Upvotes": 1,
+            "Text": "Semantics. Ethereum was hacked. If you have to hard fork your currency cause everyone got robbed. Thats hacked.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscl59a": [
+        {
+            "Parent ID": "t1_dsckzuv",
+            "Comment ID": "dscl59a",
+            "Author": "slay_the_beast",
+            "Date Created": "01-07-2018 21:51:43",
+            "Upvotes": 3,
+            "Text": "Lol",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscqdbf": [
+        {
+            "Parent ID": "t1_dscq2hh",
+            "Comment ID": "dscqdbf",
+            "Author": "[deleted]",
+            "Date Created": "01-07-2018 23:48:51",
+            "Upvotes": 1,
+            "Text": "[removed]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscl8bp": [
+        {
+            "Parent ID": "t1_dscl59a",
+            "Comment ID": "dscl8bp",
+            "Author": "RulerZod",
+            "Date Created": "01-07-2018 21:53:30",
+            "Upvotes": 0,
+            "Text": "Just go back to ethtrader. You're only here to troll.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscqjhb": [
+        {
+            "Parent ID": "t1_dscqdbf",
+            "Comment ID": "dscqjhb",
+            "Author": "RulerZod",
+            "Date Created": "01-07-2018 23:53:09",
+            "Upvotes": 0,
+            "Text": "My propoganda? Lol you're the one playing false equivalency. Tell me when has bitcoin ever hard forked and had that hard fork take over?\n\nBesides the dude is a fucking pedo.\nhttp://archive.is/sTUZU",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscldt4": [
+        {
+            "Parent ID": "t1_dscl8bp",
+            "Comment ID": "dscldt4",
+            "Author": "slay_the_beast",
+            "Date Created": "01-07-2018 21:56:40",
+            "Upvotes": 2,
+            "Text": "You\u2019re welcome there any time",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscqwio": [
+        {
+            "Parent ID": "t1_dscqjhb",
+            "Comment ID": "dscqwio",
+            "Author": "earthquakequestion",
+            "Date Created": "01-08-2018 00:02:32",
+            "Upvotes": -1,
+            "Text": "CVE-2010-5139 - an example of an attack and exploit on bitcoin which required a hard fork and that fork took over. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscpymi": [
+        {
+            "Parent ID": "t1_dscldt4",
+            "Comment ID": "dscpymi",
+            "Author": "mrcavooter",
+            "Date Created": "01-07-2018 23:38:45",
+            "Upvotes": 2,
+            "Text": "I enjoyed this thread. Thanks!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "dscrcer": [
+        {
+            "Parent ID": "t1_dscqwio",
+            "Comment ID": "dscrcer",
+            "Author": "RulerZod",
+            "Date Created": "01-08-2018 00:14:09",
+            "Upvotes": 1,
+            "Text": "Source? Not in the wiki hard fork history that i could find. Oh right cause it wasnt a hard fork!",
+            "Edited?": "01-08-2018 00:25:10",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ]
+}

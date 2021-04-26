@@ -1,0 +1,951 @@
+{
+    "eewtmub": [
+        {
+            "Parent ID": "t3_ajmiqd",
+            "Comment ID": "eewtmub",
+            "Author": "BashCo",
+            "Date Created": "01-25-2019 03:27:19",
+            "Upvotes": 1,
+            "Text": "###[Taproot Is Coming: What It Is, and How It Will Benefit Bitcoin](https://www.reddit.com/r/Bitcoin/comments/ajk9ex/taproot_is_coming_what_it_is_and_how_it_will/)\n\n>Bitcoin users may, before long, be able to benefit from a trick called \u201cTaproot.\u201d First proposed by Bitcoin Core contributor and former Blockstream CTO Gregory Maxwell, Taproot would expand on Bitcoin\u2019s smart contract flexibility, while offering more privacy in doing so. Even the most complex smart contracts would, on the blockchain, typically be indistinguishable from regular transactions.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": true
+        }
+    ],
+    "eexk8gq": [
+        {
+            "Parent ID": "t3_ajmiqd",
+            "Comment ID": "eexk8gq",
+            "Author": "Academic_Set",
+            "Date Created": "01-25-2019 09:59:45",
+            "Upvotes": 3,
+            "Text": "Wow....is this thread dying off?  what happened ? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyalvf": [
+        {
+            "Parent ID": "t3_ajmiqd",
+            "Comment ID": "eeyalvf",
+            "Author": "BCash_BeTrash",
+            "Date Created": "01-25-2019 14:03:48",
+            "Upvotes": 2,
+            "Text": "50k minimum by end of year.\n\nCalled.  :)",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eey309y": [
+        {
+            "Parent ID": "t3_ajmiqd",
+            "Comment ID": "eey309y",
+            "Author": "xelephonte",
+            "Date Created": "01-25-2019 12:49:53",
+            "Upvotes": 3,
+            "Text": "I think I saw a tumbleweed pass by...",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eewra83": [
+        {
+            "Parent ID": "t3_ajmiqd",
+            "Comment ID": "eewra83",
+            "Author": "Bitcoin2020baby",
+            "Date Created": "01-25-2019 02:34:31",
+            "Upvotes": 2,
+            "Text": "Is there a guide on setting the seed password or 25th letter on my ledger ? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eez8a5l": [
+        {
+            "Parent ID": "t3_ajmiqd",
+            "Comment ID": "eez8a5l",
+            "Author": "ExpensiveDepartment",
+            "Date Created": "01-25-2019 20:15:32",
+            "Upvotes": 2,
+            "Text": "Although now Bitcoin network is more or less quantum safe, Satoshi's stash is not. Because back when those 1M coins were accumulated  bitcoin wallets didnt hide public keys, first party that achieves powerful enough Q computer will be able to just take Satoshi's coins by brute force.  What are the options to protect them?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eez9lf4": [
+        {
+            "Parent ID": "t3_ajmiqd",
+            "Comment ID": "eez9lf4",
+            "Author": "Ruffapples",
+            "Date Created": "01-25-2019 20:33:16",
+            "Upvotes": 2,
+            "Text": "Has anybody set up the Raspibolt Lightning node? Everything is going well with the setup, but it says when you are downloading bitcoind on the pi it should take \"a few hours\" and to do it overnight, but I'm on day 3 now and on process 18678.  Did I mess something up?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eezll57": [
+        {
+            "Parent ID": "t3_ajmiqd",
+            "Comment ID": "eezll57",
+            "Author": "nerderflerder",
+            "Date Created": "01-25-2019 23:14:24",
+            "Upvotes": 1,
+            "Text": "Trying to find an amazing article for reference and CANNOT find it for the life of me. It has to do with governance and how commits get appended and who has the masterkeys to actually update the git... Anyone. Im thinking it was hackernoon, maybe medium. Thx",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eewqll5": [
+        {
+            "Parent ID": "t3_ajmiqd",
+            "Comment ID": "eewqll5",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 02:19:30",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeylhnq": [
+        {
+            "Parent ID": "t3_ajmiqd",
+            "Comment ID": "eeylhnq",
+            "Author": "xelephonte",
+            "Date Created": "01-25-2019 15:53:54",
+            "Upvotes": 0,
+            "Text": "Good video from 2015 predicting the 2017 Bitcoin $10K price stating that Bitcoin from here on is on a logarithmic progression not linear. And I totally agree with this chart which predicted Bitcoin would hit the $10K (5 digit milestone) near the very end of 207. The next milestone is $100K which this chart predicts will occur in mid 2021 (so June 2021). However, based on 2018 massive bear market, I\u2019m not totally convinced. I think the chart can ring true with the announcement of a Bitcoin ETF...which if that occurs, Bitcoin will easily surpass $100K (maybe $300K). But, there is no momentum now and Bitcoin is not obligated to hit $100K in mid-2021 functioning on the logarithmic scale of a hypothetical chart. Thoughts?\n\nhttps://www.youtube.com/watch?v=fqs-HP8rb5I",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyg29g": [
+        {
+            "Parent ID": "t3_ajmiqd",
+            "Comment ID": "eeyg29g",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 14:58:21",
+            "Upvotes": -5,
+            "Text": "[deleted]",
+            "Edited?": "07-10-2020 01:14:10",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyg914": [
+        {
+            "Parent ID": "t1_eewtmub",
+            "Comment ID": "eeyg914",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 15:00:17",
+            "Upvotes": 3,
+            "Text": "[deleted]",
+            "Edited?": "07-10-2020 01:26:46",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eexoio9": [
+        {
+            "Parent ID": "t1_eexk8gq",
+            "Comment ID": "eexoio9",
+            "Author": "djulac",
+            "Date Created": "01-25-2019 10:39:04",
+            "Upvotes": 2,
+            "Text": "trolls are gone?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eexpnbn": [
+        {
+            "Parent ID": "t1_eexk8gq",
+            "Comment ID": "eexpnbn",
+            "Author": "BashCo",
+            "Date Created": "01-25-2019 10:49:38",
+            "Upvotes": 3,
+            "Text": "Quiet before the storm?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eexr1yy": [
+        {
+            "Parent ID": "t1_eexk8gq",
+            "Comment ID": "eexr1yy",
+            "Author": "romjpn",
+            "Date Created": "01-25-2019 11:02:02",
+            "Upvotes": 3,
+            "Text": "Price is boringly bottoming out. I wouldn't be surprised if we start a boring and slow grind up from now, over a few months.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyhfon": [
+        {
+            "Parent ID": "t1_eeyalvf",
+            "Comment ID": "eeyhfon",
+            "Author": "WurflessCurrency",
+            "Date Created": "01-25-2019 15:12:32",
+            "Upvotes": 1,
+            "Text": "Total market cap?  I expect it to go lower, but not that low. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyh04j": [
+        {
+            "Parent ID": "t1_eey309y",
+            "Comment ID": "eeyh04j",
+            "Author": "Rattlesnake_Mullet",
+            "Date Created": "01-25-2019 15:08:00",
+            "Upvotes": 4,
+            "Text": "... crickets ... suddenly a truck drives by, stops and people start unloading and installing a bitcoin atm.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eewtj6y": [
+        {
+            "Parent ID": "t1_eewra83",
+            "Comment ID": "eewtj6y",
+            "Author": "BashCo",
+            "Date Created": "01-25-2019 03:25:18",
+            "Upvotes": 2,
+            "Text": "Here is a recent article. \n\nhttps://medium.com/@tookdrums/guide-to-hardened-plausible-deniability-on-ledger-nano-s-90f45a6d38f",
+            "Edited?": "01-25-2019 04:05:21",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eez8bn8": [
+        {
+            "Parent ID": "t1_eez8a5l",
+            "Comment ID": "eez8bn8",
+            "Author": "ExpensiveDepartment",
+            "Date Created": "01-25-2019 20:16:06",
+            "Upvotes": 2,
+            "Text": "https://medium.com/@nopara73/stealing-satoshis-bitcoins-cc4d57919a2b\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eezb62i": [
+        {
+            "Parent ID": "t1_eez8a5l",
+            "Comment ID": "eezb62i",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 20:54:27",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eewr9be": [
+        {
+            "Parent ID": "t1_eewqll5",
+            "Comment ID": "eewr9be",
+            "Author": "W944",
+            "Date Created": "01-25-2019 02:33:58",
+            "Upvotes": 5,
+            "Text": "Keepass",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyvsta": [
+        {
+            "Parent ID": "t1_eewqll5",
+            "Comment ID": "eeyvsta",
+            "Author": "Make-U-Believe",
+            "Date Created": "01-25-2019 17:42:08",
+            "Upvotes": 1,
+            "Text": "Pen and paper, seriously. Might want to laminate it too.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeytpsw": [
+        {
+            "Parent ID": "t1_eeylhnq",
+            "Comment ID": "eeytpsw",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 17:20:10",
+            "Upvotes": 1,
+            "Text": "207?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeypf6a": [
+        {
+            "Parent ID": "t1_eeylhnq",
+            "Comment ID": "eeypf6a",
+            "Author": "Academic_Set",
+            "Date Created": "01-25-2019 16:35:14",
+            "Upvotes": -1,
+            "Text": "not sure why it would ever surpass 100K.  that is 5x the highest number ever obtained.  It sounds very unrealistic given that people are aware of it and don't seem to think its any safer than cash",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyk2qm": [
+        {
+            "Parent ID": "t1_eeyg29g",
+            "Comment ID": "eeyk2qm",
+            "Author": "vickar12",
+            "Date Created": "01-25-2019 15:39:15",
+            "Upvotes": 6,
+            "Text": "You actually believe peoples predictions and claims here? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyqlyw": [
+        {
+            "Parent ID": "t1_eeyg29g",
+            "Comment ID": "eeyqlyw",
+            "Author": "mrxsdcuqr7x284k6",
+            "Date Created": "01-25-2019 16:47:39",
+            "Upvotes": 4,
+            "Text": "Everyone is waiting for you to make a huge buy and get us back to the $4k range. Will today be the day?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eezy6e6": [
+        {
+            "Parent ID": "t1_eeyg29g",
+            "Comment ID": "eezy6e6",
+            "Author": "Occams_shaving_soap",
+            "Date Created": "01-26-2019 02:37:35",
+            "Upvotes": 2,
+            "Text": "I\u2019ve read through your comments here and I believe your investment in crypto is the least of your problems. I have to wonder why you reiterate this theme of being a loser and a failure. This points to deeper self-esteem issues you may wish to address through counseling. Failure in investments is nothing to beat yourself up over. Many of us have lost like you, some with much more dollars at stake. IDK your age but if you\u2019re young consider saving and investing in a balanced portfolio that will garner many times compound interest over your lifetime. There are no get-rich-quick schemes and a lot of people bought into the crypto hype. That said, hold on to your coins because better days are ahead. Take it from an old fuck who never learned to save or invest smartly. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyqhv5": [
+        {
+            "Parent ID": "t1_eeyg914",
+            "Comment ID": "eeyqhv5",
+            "Author": "mrxsdcuqr7x284k6",
+            "Date Created": "01-25-2019 16:46:29",
+            "Upvotes": 3,
+            "Text": "He's referring to the Bitcoin Core development team, not the blockchain itself.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eexs3bc": [
+        {
+            "Parent ID": "t1_eexr1yy",
+            "Comment ID": "eexs3bc",
+            "Author": "Poop_Shame",
+            "Date Created": "01-25-2019 11:11:09",
+            "Upvotes": 6,
+            "Text": "> I wouldn't be surprised if we start a boring and slow grind up from now, over a few months.\n\nI would be. Face facts here, no new money is coming into Bitcoin. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyov7q": [
+        {
+            "Parent ID": "t1_eeyh04j",
+            "Comment ID": "eeyov7q",
+            "Author": "tofuspider",
+            "Date Created": "01-25-2019 16:29:25",
+            "Upvotes": 5,
+            "Text": "a bitcoiner strolls by...took off his lightning #reckless cap, whips out his phone and took a picture of the atm to post on reddit.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eezba3v": [
+        {
+            "Parent ID": "t1_eezb62i",
+            "Comment ID": "eezba3v",
+            "Author": "ExpensiveDepartment",
+            "Date Created": "01-25-2019 20:55:56",
+            "Upvotes": 4,
+            "Text": "it can be considered as prize for developing sufficient quantum computer I guess xD",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eewtgk0": [
+        {
+            "Parent ID": "t1_eewr9be",
+            "Comment ID": "eewtgk0",
+            "Author": "BashCo",
+            "Date Created": "01-25-2019 03:23:55",
+            "Upvotes": 2,
+            "Text": "Here's the main Keypass site: \nhttps://keepass.info/download.html\n\nThis is the latest Mac version which is still being maintained.\n\nhttps://keepassxc.org/",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eexgoz9": [
+        {
+            "Parent ID": "t1_eewr9be",
+            "Comment ID": "eexgoz9",
+            "Author": "bystro1",
+            "Date Created": "01-25-2019 09:25:54",
+            "Upvotes": 1,
+            "Text": "Why not Last Pass?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeywdsp": [
+        {
+            "Parent ID": "t1_eeypf6a",
+            "Comment ID": "eeywdsp",
+            "Author": "Make-U-Believe",
+            "Date Created": "01-25-2019 17:48:19",
+            "Upvotes": 9,
+            "Text": "It\u2019s not unrealistic. Sounds unrealistic, but that\u2019s because most people can\u2019t grasp just *how much* money is out there. $100k BTC is only ~2 trillion dollar market cap. That is a tiny, *tiny* drop in the bucket compared to larger, more traditional markets. \n\nLet\u2019s take gold, for instance. You could easily argue that Bitcoin is better than gold in almost every way. Gold has a 7 trillion dollar market cap. Bitcoin could easily take 1-2 trillion away from that, no problem. Let\u2019s shoot real low though, and say it only takes 500 billion. That right there is a $25k-30k BTC, easy. And that\u2019s just gold. Now think of all the potential money that can flow in from stocks, bonds, currencies, etc. \n\n$100k Bitcoin is easily attainable, it\u2019s just a matter of when.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeytbjq": [
+        {
+            "Parent ID": "t1_eeyk2qm",
+            "Comment ID": "eeytbjq",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 17:16:06",
+            "Upvotes": 0,
+            "Text": "[deleted]",
+            "Edited?": "07-10-2020 00:00:39",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeysqen": [
+        {
+            "Parent ID": "t1_eeyqlyw",
+            "Comment ID": "eeysqen",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 17:09:54",
+            "Upvotes": 1,
+            "Text": "no, i am going to HODL all the bitcoin i already bought\n\nbut i already lost 80% of the money that i put into bitcoin, so nooooo, i don't think i'll be buying any MORE bitcoin.\n\nmy personal rule is that any investment that loses 80% of its value is an investment I don't buy again.\n\ni mean, i know losing it was a risk, and i knowingly gambled, and only invested what i could afford to lose\n\nbut now that i lost 80%, i am out.  I will watch the market, to see what i have does, whether it goes up or down, but other than that, i'm out, i lost too much already, i can't afford to lose any more!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef15kns": [
+        {
+            "Parent ID": "t1_eezy6e6",
+            "Comment ID": "ef15kns",
+            "Author": "[deleted]",
+            "Date Created": "01-26-2019 13:30:44",
+            "Upvotes": 1,
+            "Text": "> I have to wonder why you reiterate this theme of being a loser and a failure.\n\nwell, i have failed at everything i have done, for the last decade at least.\n\nabout three years ago, i was barely getting by (making about $9K a year) with dreams of working in the entertainment business. It (clearly) was not happening for me in that business, so I gave up any hopes of finding my dream job.  So, after giving up what i wanted to really do because i wasn't making money at it, at all, I decided to do something totally different.  I spent a year taking classes, training, and getting licensed to sell real estate.  I thought this would be a good choice.  2 years ago i started work at a real estate brokerage, and over the last 2 years I have earned about $12.5K a year (and I work full time).  Others who joined the company at the same time are making between $120-150K/per year. So, here i am, 53 years old, making less money than some kid at Mcdonalds, and no idea what to do next?  Do I keep trying at real estate, even though its been two solid years of financial failure?  Or do I figure out something totally new?  Like I said, i am 53, and I just wasted the last 3 years.  I only mention these things (not because i expect an answer, but because that's what I'm thinking about these days, what to do?).  I am willing to try something new, but since everything i try I fail at, its hardly like i feel excited to try something new.  I don't even know what i want to do?  My life has been at least 10 years of solidly failing at everything I try (and my love life? LOL I am actually fit and attractive, but how many women do you know that want to date a 53 year old guy who rents a room, and makes $12.5K a year?).  I am just tired of years and years and years of failing with not even the most basic level of success at anything.\n\nI rolled the dice on bitcoin, although you're right, i know its not a big deal, its just that fact that its just one more failure in my life thats nothing but an endless stream of failures.\n\nAnyway, sorry to ramble (I think i really wrote this more for myself to clear my head, and get these ideas out there for me to see) and thanks for your kind words!\n\n:)\n",
+            "Edited?": "01-26-2019 13:34:25",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyfy9q": [
+        {
+            "Parent ID": "t1_eexs3bc",
+            "Comment ID": "eeyfy9q",
+            "Author": "gretteaj",
+            "Date Created": "01-25-2019 14:57:12",
+            "Upvotes": 3,
+            "Text": "Yeah no new money, thats why almost 40% of bitcoin wallets have been created post ATH. Wonder what they've been up to...\n\nThe profit taking may not be over, but it is probably close. If you bought high and sustained over a year of misery, then I doubt another drop will fluster you much. The few buying right now aren't looking to sell in a few months for a 15% profit, they are going long. Whats why the period after a bear market is so boring and stable, few are buying and few are selling",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eexsh2k": [
+        {
+            "Parent ID": "t1_eexs3bc",
+            "Comment ID": "eexsh2k",
+            "Author": "romjpn",
+            "Date Created": "01-25-2019 11:14:31",
+            "Upvotes": 2,
+            "Text": "It's part of a bottoming process though. Interest falter until some big news revives the mania. I know I could've said that at 6K but the drop from there was steep enough...",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eey3w5n": [
+        {
+            "Parent ID": "t1_eexs3bc",
+            "Comment ID": "eey3w5n",
+            "Author": "BashCo",
+            "Date Created": "01-25-2019 12:57:54",
+            "Upvotes": 4,
+            "Text": "Yeah, buttcoiners said that in 2015 too, then disappeared for 3-4 years. Face facts here, you guys have been saying that since $4. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyw1p1": [
+        {
+            "Parent ID": "t1_eeyov7q",
+            "Comment ID": "eeyw1p1",
+            "Author": "Guy_Incognito97",
+            "Date Created": "01-25-2019 17:44:46",
+            "Upvotes": 3,
+            "Text": "He looks up from his phone to see a Kobold brandishing a wooden club. Roll for initiative. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eezc4ah": [
+        {
+            "Parent ID": "t1_eeyov7q",
+            "Comment ID": "eezc4ah",
+            "Author": "my2sats",
+            "Date Created": "01-25-2019 21:06:51",
+            "Upvotes": 1,
+            "Text": "!lntip 42",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eezbu4m": [
+        {
+            "Parent ID": "t1_eezba3v",
+            "Comment ID": "eezbu4m",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 21:03:17",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyyhon": [
+        {
+            "Parent ID": "t1_eeywdsp",
+            "Comment ID": "eeyyhon",
+            "Author": "gretteaj",
+            "Date Created": "01-25-2019 18:10:55",
+            "Upvotes": 4,
+            "Text": "Yep. I think I calculated last year that if btc marketcap was equal to gold it would be 250-400k a coin. Should be interesting to see what happens once old people start dying and inheritance money changes hands.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyyo0b": [
+        {
+            "Parent ID": "t1_eeytbjq",
+            "Comment ID": "eeyyo0b",
+            "Author": "gretteaj",
+            "Date Created": "01-25-2019 18:12:53",
+            "Upvotes": 3,
+            "Text": "Good example of FOMO right here everyone. People that think they are smart for not buying low and buying when its SUPPOSED to keep going up. These are your 95%ers",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeywob0": [
+        {
+            "Parent ID": "t1_eeytbjq",
+            "Comment ID": "eeywob0",
+            "Author": "Make-U-Believe",
+            "Date Created": "01-25-2019 17:51:22",
+            "Upvotes": 2,
+            "Text": "> don\u2019t believe what I hear on here\n\n...you\u2019re just learning this now? You\u2019re either a young kid, or a complete idiot. \n\nLearning not to trust random strangers on the Internet is literally like common sense 101",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyvveg": [
+        {
+            "Parent ID": "t1_eeytbjq",
+            "Comment ID": "eeyvveg",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 17:42:55",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eezu06v": [
+        {
+            "Parent ID": "t1_eeysqen",
+            "Comment ID": "eezu06v",
+            "Author": "[deleted]",
+            "Date Created": "01-26-2019 01:19:32",
+            "Upvotes": 2,
+            "Text": "Lots of people are at this point, that's why there's no movement. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyx3hc": [
+        {
+            "Parent ID": "t1_eeyfy9q",
+            "Comment ID": "eeyx3hc",
+            "Author": "cryptogrip",
+            "Date Created": "01-25-2019 17:55:51",
+            "Upvotes": 3,
+            "Text": "Exactly.  Nice to read a comment that actually comes from someone who gets it.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyluxr": [
+        {
+            "Parent ID": "t1_eeyfy9q",
+            "Comment ID": "eeyluxr",
+            "Author": "Poop_Shame",
+            "Date Created": "01-25-2019 15:57:48",
+            "Upvotes": 1,
+            "Text": ">thats why almost 40% of bitcoin wallets have been created post ATH. \n\nYeah, and this sub now has over a million subscribers. Useless metric. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eez9xtc": [
+        {
+            "Parent ID": "t1_eeyfy9q",
+            "Comment ID": "eez9xtc",
+            "Author": "711Dweller",
+            "Date Created": "01-25-2019 20:38:02",
+            "Upvotes": 1,
+            "Text": "You found me!  This is a simply *delicious* time to be accumulating.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyp9r2": [
+        {
+            "Parent ID": "t1_eey3w5n",
+            "Comment ID": "eeyp9r2",
+            "Author": "Academic_Set",
+            "Date Created": "01-25-2019 16:33:42",
+            "Upvotes": 2,
+            "Text": "Except that it was prior to a lot of knowledge about it before the bubble.  ... now, a lot of people are aware of it and won't take action.  ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeyzj9g": [
+        {
+            "Parent ID": "t1_eeyw1p1",
+            "Comment ID": "eeyzj9g",
+            "Author": "Rattlesnake_Mullet",
+            "Date Created": "01-25-2019 18:22:52",
+            "Upvotes": 2,
+            "Text": "Kobold is all about big blocks. Lifts huge blocks to throw them at the bitcoiner. Blocks are to big for the Kobold. Gets crushed under bigger blocks.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eezc4y9": [
+        {
+            "Parent ID": "t1_eezc4ah",
+            "Comment ID": "eezc4y9",
+            "Author": "lntipbot",
+            "Date Created": "01-25-2019 21:07:04",
+            "Upvotes": 1,
+            "Text": "Hi u/my2sats, thanks for tipping u/tofuspider **42** satoshis!\n\nYou didn't have enough balance, you can pay the following invoice instead.\n***\n>!lnbc420n1pwyhs9epp5rwvapewvh672peyfs7awu7pfjtt8dldmrpcgnq2ynjj3qrjpeh4qdp5vv6nvcf48qunwwfjxa3ngc3svyurjc3hx9jkgefsvcerxvekv9sscqzysxqrp9sjy3m8z4na8khfezs5sv0nw9v59t2enjd66tqn0j6gzyuqghew569jh9l2sk5ss5xaaq33g2lht2jyfc755n6yr4mhmw46wge4vz7y6gq3zqx6j!<\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0fp6w": [
+        {
+            "Parent ID": "t1_eezbu4m",
+            "Comment ID": "ef0fp6w",
+            "Author": "ExpensiveDepartment",
+            "Date Created": "01-26-2019 08:26:35",
+            "Upvotes": 2,
+            "Text": "with some kind of hard fork. lock those coins in so they can never be used",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eez1hf0": [
+        {
+            "Parent ID": "t1_eeyyo0b",
+            "Comment ID": "eez1hf0",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 18:46:29",
+            "Upvotes": 2,
+            "Text": "yes, i am an idiot, and i seem to fail at most things I do in life.\n\nso obvious, falling for FOMO, and betting on bitcoin when i did was a classic move that I wold do.\n\nbasically, if you want to be successful financially, but also in life in general, here's a tip...\n\njust watch what i do, and then do the opposite.\n\nbut yes, u/gretteaj is correct, i was an idiot who fell for FOMO and who stupidly thought it \"would be different this time\" for me, with bitcoin.\n\nseriously folks, if you are a loser in just about everything you do, then don't think it will be any different with bitcoin.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eez1mgk": [
+        {
+            "Parent ID": "t1_eeywob0",
+            "Comment ID": "eez1mgk",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 18:48:12",
+            "Upvotes": 2,
+            "Text": "> You\u2019re either a young kid, or a complete idiot.\n\nLOL\n\nyes, thats me, a complete idiot\n\nnot dumb in regards to intelligence tests, but basically in life, i am a loser, and not smart enough to figure out how not to be one\n\nso yes, and idiot, but the worst the of idiot that you could ever be,\n\nthats me!\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eez1so0": [
+        {
+            "Parent ID": "t1_eeyvveg",
+            "Comment ID": "eez1so0",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 18:50:16",
+            "Upvotes": 2,
+            "Text": "ok, i am an idiot, so i guess i even got that wrong\n\nLOL\n\nok, you got it, i'll stick with idiot.\n\nand yes, you're also correct, i'm not stupid, i think i'm more or an idiot who is also a loser, \n\nand too much of a loser to figure out how not to be one, so life just kinda sucks for me, and most things i try i fail at (so, in retrospect, it makes sense that i'd fail at bitcoin investing, too)",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef16dvl": [
+        {
+            "Parent ID": "t1_eezu06v",
+            "Comment ID": "ef16dvl",
+            "Author": "[deleted]",
+            "Date Created": "01-26-2019 13:38:31",
+            "Upvotes": 1,
+            "Text": "makes sense\n\ni probably should sell, but i already lost so much, it would break my heart even more if it spiked AFTER i sold (so I'll hold)\n\non the other hand, i have already lost so much (i'm down 80%) so its not like i want to buy any more, so i am not planning on buying.\n\nso yeah... i see your point with millions of others in the same boat, no wonder things are not moving up OR down (although, before very recently, things were moving down a lot, i hope that the downward moving stops)",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eeypf1z": [
+        {
+            "Parent ID": "t1_eeyp9r2",
+            "Comment ID": "eeypf1z",
+            "Author": "BashCo",
+            "Date Created": "01-25-2019 16:35:11",
+            "Upvotes": 2,
+            "Text": "Wishful thinking my friend. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef00vwh": [
+        {
+            "Parent ID": "t1_eeyzj9g",
+            "Comment ID": "ef00vwh",
+            "Author": "Guy_Incognito97",
+            "Date Created": "01-26-2019 03:31:22",
+            "Upvotes": 1,
+            "Text": "You search the dead Kobold. He has a rusty dagger and some BCH so you leave it and go about your day. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eezux6p": [
+        {
+            "Parent ID": "t1_eez1hf0",
+            "Comment ID": "eezux6p",
+            "Author": "NamedB",
+            "Date Created": "01-26-2019 01:34:11",
+            "Upvotes": 2,
+            "Text": "Fellow loser checking in. Let's make a deal; you keep not buying, I'll keep buying. One of us will break the cycle. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eez876i": [
+        {
+            "Parent ID": "t1_eez1mgk",
+            "Comment ID": "eez876i",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 20:14:23",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eez2rvg": [
+        {
+            "Parent ID": "t1_eez1so0",
+            "Comment ID": "eez2rvg",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 19:01:54",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef164iz": [
+        {
+            "Parent ID": "t1_eezux6p",
+            "Comment ID": "ef164iz",
+            "Author": "[deleted]",
+            "Date Created": "01-26-2019 13:36:01",
+            "Upvotes": 1,
+            "Text": "haha!\n\ngood plan, if we just do the opposite of each other, one of us has to win.\n\nafter all, a plan put together by two losers could never fail, could it?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eezawf6": [
+        {
+            "Parent ID": "t1_eez876i",
+            "Comment ID": "eezawf6",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 20:50:58",
+            "Upvotes": 1,
+            "Text": "> Loads of people did the same.\n\nthanks for the kind words, and its not so much that i lost money in bitcoin, i can forgive myself for that (as you said, it happened to thousands of other people, too).  Its just that i haven't succeeded in ANY of the important areas of my life, in any measurable way, and time is running out for me (i'm getting old) so basically i am a loser (that part is without a doubt) I do HOPE that i can turn things around, but will that happen? I don't see how, but hey... you never know, maybe i will figure it out, how to NOT be a loser after all??\n\nhope so!\n\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eez7n0c": [
+        {
+            "Parent ID": "t1_eez2rvg",
+            "Comment ID": "eez7n0c",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 20:06:37",
+            "Upvotes": 1,
+            "Text": "no, i never said that\n\ni am not blaming anyone but myself.  i know that what happens to me is, in large part, a direct result of my own actions (and no one else's)\n\ni somehow walk around life with the mindset of a loser, and thats what comes back at me.  I have tried to change it, and have never succeeded in doing so.\n\ni know its my own fault, my own mindset, and its me (and only me) that can change it.\n\nI spend an insane amount of time thinking and writing about it (and taking actions that i hope will work) but thus far, i haven't figured out the working formula for success or happiness.   i just cant seem to figure out, or do anything to change the fact that i see myself as a loser, and as a result \"Losing\" is what happens to me.\n\nHey, i do hope it changes, i kinda doubt it will (but i still have a tiny bit of hope - which is why i keep trying new things, hoping one day one of them will work)\n\nAnyway, my problem, not yours... but i did want to set the record straight that i count blame \"the universe\" or anything or anyone else for my life and the lack of success in it.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0gldx": [
+        {
+            "Parent ID": "t1_eezawf6",
+            "Comment ID": "ef0gldx",
+            "Author": "[deleted]",
+            "Date Created": "01-26-2019 08:40:53",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eez8nyr": [
+        {
+            "Parent ID": "t1_eez7n0c",
+            "Comment ID": "eez8nyr",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 20:20:59",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": "01-25-2019 20:32:02",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef14l48": [
+        {
+            "Parent ID": "t1_ef0gldx",
+            "Comment ID": "ef14l48",
+            "Author": "[deleted]",
+            "Date Created": "01-26-2019 13:20:14",
+            "Upvotes": 1,
+            "Text": "good points\n\ni am working on that now, i thought working in real estate would be a good career, that i'd also enjoy.\n\ni spent a year training and getting my license, and then i got a job at a real estate brokerage.  I've been there just over two year, and have made about $25k total (or about an average of $12.5K per year).  So, i am living like a pauper and making less money than some kid who works at McDonalds, so this career choice has been a failure, and a total waste of 3 years.  \n\nOnward and upward, time to figure out what else i can do?  I just don't want to waste another 2 or 3 years of my life, and i am tired of working extremely hard, and yet living in extreme poverty.\n\nwish me luck!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eezbpf7": [
+        {
+            "Parent ID": "t1_eez8nyr",
+            "Comment ID": "eezbpf7",
+            "Author": "[deleted]",
+            "Date Created": "01-25-2019 21:01:32",
+            "Upvotes": 1,
+            "Text": "I actually think of myself as a loser, because thats factually correct.    I worked like hell at a new career for the last two years (I became a real estate agent), the first year i made about 20K, this year i did even worse, and made about $9k (yes, for the entire year).  Other agents who joined the same company at the same time are making $120-150K this year.  So, by all measures,  i have totally failed at that job (I am now going to have to try something new, or do what I do in a totally different way - whatever the case, i worked HARD and yet still failed).  Additionally, I have failed at romance.  I am actually fit and relatively attractive, but do you think that in Los Angeles California there are ANY decent women that want to go out with a 53 year old guy who makes $9K a year?  So, i am a failure at love and dating.  I'd love to have a family and kids, but see previous example, you need a good woman first.  So, I now have no decent job, no idea what i want to do (something truly terrible like being a 53 year old uber driver seems like the only option), no idea where i even want to live (being a grown man who lives as a roommate in someone else how isn't exact a self-esteem builder, either), and feel like a loser because everything is doing poorly in my life.  I once had dreams of working in film and TV as a writer or performer (but i have long since given up on that failed dream, too) These days my biggest dream is just to say fuck trying and just go live in a van (so yeah, my dreams are not even good).  And hey, you think i want to re-invent myself all over again? I did that (most recently) three years ago when i started real estate training, one year of training, then two years of financial failure working as a real estate agent.   So... sorry to rant (I guess i'm just mostly writing this for myself) but in a purely empirical sense, i am a loser.  thats just the facts.  To think otherwise would be to be in denial.  I don't even have any terrible vices like drinking or drugs to blame my lack of success on, and I definitely don't see a path to becoming a winner (or happy) from where i am now.  Nonetheless i am trying to figure out how to be happy, or a non-loser.   I'll just have to see what happens in the future.",
+            "Edited?": "01-25-2019 21:09:34",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef61mow": [
+        {
+            "Parent ID": "t1_ef14l48",
+            "Comment ID": "ef61mow",
+            "Author": "[deleted]",
+            "Date Created": "01-28-2019 06:56:53",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef6jjwm": [
+        {
+            "Parent ID": "t1_ef61mow",
+            "Comment ID": "ef6jjwm",
+            "Author": "[deleted]",
+            "Date Created": "01-28-2019 11:07:43",
+            "Upvotes": 1,
+            "Text": "thanks for the kind words.\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ]
+}

@@ -1,0 +1,808 @@
+{
+    "edbo13o": [
+        {
+            "Parent ID": "t3_acrtwl",
+            "Comment ID": "edbo13o",
+            "Author": "MrRGnome",
+            "Date Created": "01-05-2019 15:06:35",
+            "Upvotes": 2,
+            "Text": "Anyone have any LND configuration advice? Been running almost a week on autopilot, ran into several already documented bugs like trying to make channels without accounting for fees. My biggest problem is I can't for the life of me get any bidirectional or incoming channels. I resorted to spending on one of my autopilot created outgoing channels, but apparently there is no route from any popular services to that channel and thus me either. I manually added the most connected nodes as peers hoping they would connect to me if I did them but no dice. I can't for the life of me accept incoming lightning payments without a routing error.\n\nHow can I configure lnd autopilot to only make bidirectional channels or encourage peers to make incoming channels?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eda9v8h": [
+        {
+            "Parent ID": "t3_acrtwl",
+            "Comment ID": "eda9v8h",
+            "Author": "SAT0SHl",
+            "Date Created": "01-05-2019 02:02:58",
+            "Upvotes": 6,
+            "Text": "**1 Satoshi = 1 Dollar**, lets make it happen.",
+            "Edited?": "01-05-2019 02:26:33",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edb6n8g": [
+        {
+            "Parent ID": "t3_acrtwl",
+            "Comment ID": "edb6n8g",
+            "Author": "choroni77",
+            "Date Created": "01-05-2019 12:00:15",
+            "Upvotes": 2,
+            "Text": "Hello, I have next to no knowledge about bitcoin but I use it frequently to send money to Venezuela. So today I send bitcoin from coinbase to localbitcoin to sell it like always. But this time I received 0.00601615BTC more than I send. How can that happen? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edbpguj": [
+        {
+            "Parent ID": "t3_acrtwl",
+            "Comment ID": "edbpguj",
+            "Author": "lagwagon211",
+            "Date Created": "01-05-2019 15:22:48",
+            "Upvotes": 2,
+            "Text": "3700-3800. So sick of this boring sideways stuff",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edcd5qj": [
+        {
+            "Parent ID": "t3_acrtwl",
+            "Comment ID": "edcd5qj",
+            "Author": "tbonecollion",
+            "Date Created": "01-05-2019 19:43:50",
+            "Upvotes": 2,
+            "Text": "So what ever happened with the proof of keys thingy. Lol",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edbjphh": [
+        {
+            "Parent ID": "t3_acrtwl",
+            "Comment ID": "edbjphh",
+            "Author": "BitcoinAlways",
+            "Date Created": "01-05-2019 14:18:29",
+            "Upvotes": 1,
+            "Text": "What's the latest news on Bakkt? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edd3fhc": [
+        {
+            "Parent ID": "t3_acrtwl",
+            "Comment ID": "edd3fhc",
+            "Author": "ScrotumHodler",
+            "Date Created": "01-06-2019 01:11:53",
+            "Upvotes": 1,
+            "Text": "How many hashes take to build a block? I was trying to calculate it but my spreadsheet keeps crashing. Does anyone know?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edam26p": [
+        {
+            "Parent ID": "t3_acrtwl",
+            "Comment ID": "edam26p",
+            "Author": "click_again",
+            "Date Created": "01-05-2019 06:54:32",
+            "Upvotes": 1,
+            "Text": "I am really enjoying the moment now when bitcoin can be purchased at 3-4k.\n\nGot scammed buying bcash at ath, lucky that I change all to BTC. Since then I am increasing my coin whenever there is spare money to spend, buying in at 9k, then 6k, and now 4k.\n\nUp to this stage my average BTC price is 5.5k. And I would easy make a 200% return when BTC is 11k.\n\nStill I am greedy and selfish and I wish BTC have another year of bear run, allowing strong hands like us to accumulate more. When my average BTC cost is 3.5k, a BTC bullrun towards a mere 7k is already yielding me a 200% return.\n\nCan't wait for another paycheck to come in. Cheers.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edbq71b": [
+        {
+            "Parent ID": "t3_acrtwl",
+            "Comment ID": "edbq71b",
+            "Author": "[deleted]",
+            "Date Created": "01-05-2019 15:30:10",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edcbm61": [
+        {
+            "Parent ID": "t3_acrtwl",
+            "Comment ID": "edcbm61",
+            "Author": "Zukaza",
+            "Date Created": "01-05-2019 19:25:26",
+            "Upvotes": 1,
+            "Text": " BCH and its estranged uncle, BSV, are worth 4.2% and 2.3% of BTC's value respectively. That is all.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edb5d4i": [
+        {
+            "Parent ID": "t3_acrtwl",
+            "Comment ID": "edb5d4i",
+            "Author": "Gekko48",
+            "Date Created": "01-05-2019 11:47:02",
+            "Upvotes": 0,
+            "Text": "Any concerns with this report on the lightning network?\n\nhttps://thenextweb.com/hardfork/2018/06/26/lighting-network-transactions/",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edaxquo": [
+        {
+            "Parent ID": "t3_acrtwl",
+            "Comment ID": "edaxquo",
+            "Author": "greeniscolor",
+            "Date Created": "01-05-2019 10:19:10",
+            "Upvotes": -1,
+            "Text": "The BTC chart looks familiar - 3 month view looks like a snake head. Looked like this last time, just before the ath. Just speculating here of course...",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edckrcq": [
+        {
+            "Parent ID": "t3_acrtwl",
+            "Comment ID": "edckrcq",
+            "Author": "cir2kuk",
+            "Date Created": "01-05-2019 21:16:26",
+            "Upvotes": -1,
+            "Text": "NOT YOUR KEYS... NOT YOUR BITCOIN! download a wallet now and take control! ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edcw3pb": [
+        {
+            "Parent ID": "t3_acrtwl",
+            "Comment ID": "edcw3pb",
+            "Author": "[deleted]",
+            "Date Created": "01-05-2019 23:29:25",
+            "Upvotes": -2,
+            "Text": "Faketoshi is attacking Andreas Antonopolous again. I wish Andreas wasn\u2019t a pacifist and finally put CW in his place. \nHow many times do you have to be attacked by this ass before you respond?! I love Andreas but if he keeps letting CW get away with baseless attacks, we lose respect for him. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edbzrf7": [
+        {
+            "Parent ID": "t1_edbo13o",
+            "Comment ID": "edbzrf7",
+            "Author": "Talkless",
+            "Date Created": "01-05-2019 17:16:52",
+            "Upvotes": 1,
+            "Text": "Make sure your node is accessible from \"outside\". You have to forward 9735 port. Maybe no one can connect to your node to create channels to you? I did nothing special and got 10 incoming channels. Also, I doubt autopilot can create bidirectional channels, I believe it's on the roadmap (based on some video I don't remember).",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edcw18f": [
+        {
+            "Parent ID": "t1_edbo13o",
+            "Comment ID": "edcw18f",
+            "Author": "my2sats",
+            "Date Created": "01-05-2019 23:28:38",
+            "Upvotes": 1,
+            "Text": "!lntip 42",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edab78d": [
+        {
+            "Parent ID": "t1_eda9v8h",
+            "Comment ID": "edab78d",
+            "Author": "[deleted]",
+            "Date Created": "01-05-2019 02:33:19",
+            "Upvotes": 4,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edaab0x": [
+        {
+            "Parent ID": "t1_eda9v8h",
+            "Comment ID": "edaab0x",
+            "Author": "[deleted]",
+            "Date Created": "01-05-2019 02:12:40",
+            "Upvotes": 1,
+            "Text": "Wat about other FIAT currencies?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edajuum": [
+        {
+            "Parent ID": "t1_eda9v8h",
+            "Comment ID": "edajuum",
+            "Author": "[deleted]",
+            "Date Created": "01-05-2019 06:04:57",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edaq7l6": [
+        {
+            "Parent ID": "t1_eda9v8h",
+            "Comment ID": "edaq7l6",
+            "Author": "d3vrandom",
+            "Date Created": "01-05-2019 08:28:50",
+            "Upvotes": 1,
+            "Text": "That's $100 million per bitcoin. It would take hyper inflation in the US for that to happen.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eda9zb3": [
+        {
+            "Parent ID": "t1_eda9v8h",
+            "Comment ID": "eda9zb3",
+            "Author": "nowTHATScomedy",
+            "Date Created": "01-05-2019 02:05:27",
+            "Upvotes": 1,
+            "Text": "Hey wait a minute...you don\u2019t sound like the real Satoshi at all!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edc58bf": [
+        {
+            "Parent ID": "t1_edbpguj",
+            "Comment ID": "edc58bf",
+            "Author": "CONTROLurKEYS",
+            "Date Created": "01-05-2019 18:17:36",
+            "Upvotes": 3,
+            "Text": "so start buying or selling alot",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edbyg3d": [
+        {
+            "Parent ID": "t1_edbpguj",
+            "Comment ID": "edbyg3d",
+            "Author": "curseknight",
+            "Date Created": "01-05-2019 17:01:51",
+            "Upvotes": 4,
+            "Text": "If all you care about is the price, then you'd better sell your bitcoin.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edbs7zt": [
+        {
+            "Parent ID": "t1_edbpguj",
+            "Comment ID": "edbs7zt",
+            "Author": "BackToCashier",
+            "Date Created": "01-05-2019 15:51:02",
+            "Upvotes": 2,
+            "Text": "Clearly in it for The Tech",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edculp1": [
+        {
+            "Parent ID": "t1_edcd5qj",
+            "Comment ID": "edculp1",
+            "Author": "Spykwak",
+            "Date Created": "01-05-2019 23:13:07",
+            "Upvotes": 0,
+            "Text": "It was the first year this event took place :-) I think some people were caught off-guard and some others didn\u2019t bothered or were actively trading thus weren\u2019t concerned.\n\nMaybe year after year it\u2019ll gain traction :-)\n\nUntil it become easier and easier for most to secure their own keys.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edbmp7y": [
+        {
+            "Parent ID": "t1_edbjphh",
+            "Comment ID": "edbmp7y",
+            "Author": "I_AM_AN_AEROPLANE",
+            "Date Created": "01-05-2019 14:51:35",
+            "Upvotes": 0,
+            "Text": "Eth sharting is coming earlier than bakkt... ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edaoxfy": [
+        {
+            "Parent ID": "t1_edam26p",
+            "Comment ID": "edaoxfy",
+            "Author": "EmmanuelBlockchain",
+            "Date Created": "01-05-2019 08:03:47",
+            "Upvotes": 1,
+            "Text": "Your math is wrong",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edaqctq": [
+        {
+            "Parent ID": "t1_edam26p",
+            "Comment ID": "edaqctq",
+            "Author": "AlternativeGazelle",
+            "Date Created": "01-05-2019 08:31:22",
+            "Upvotes": 0,
+            "Text": "Doubling = 100% gain",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edathg1": [
+        {
+            "Parent ID": "t1_edam26p",
+            "Comment ID": "edathg1",
+            "Author": "suchwowe",
+            "Date Created": "01-05-2019 09:21:58",
+            "Upvotes": 0,
+            "Text": "Instead of selling why not use it for goods and services. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edar6fp": [
+        {
+            "Parent ID": "t1_edam26p",
+            "Comment ID": "edar6fp",
+            "Author": "Fantom1992",
+            "Date Created": "01-05-2019 08:45:30",
+            "Upvotes": 0,
+            "Text": "Click_again more like look again",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edc55r0": [
+        {
+            "Parent ID": "t1_edbq71b",
+            "Comment ID": "edc55r0",
+            "Author": "CONTROLurKEYS",
+            "Date Created": "01-05-2019 18:16:50",
+            "Upvotes": 1,
+            "Text": "are you asking what happens if some hypothetical future event occurs? HINT: nobody knows what the future holds.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edc1c84": [
+        {
+            "Parent ID": "t1_edbq71b",
+            "Comment ID": "edc1c84",
+            "Author": "Spykwak",
+            "Date Created": "01-05-2019 17:34:30",
+            "Upvotes": 0,
+            "Text": "Took me a bit to understand what you were asking. What would happen if Satoshi Nakamoto (the person/entity/group) would reappear and prove that he still is in control of the coins we know are his. By moving them or signing a message in relashioship with their public address. It would greatly increase the current available supply and should drive the price down.\n\nBut in all seriousness, the person/entity/group behind Satoshi nakamoto is most likely dead or not in control anymore of those adress. How would you HODL so much BTC after such a crazy appreciation is humanely impossible. Everyone has bill to pay, everyone has a price for such a early retirement opportunity.\n\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edc16a3": [
+        {
+            "Parent ID": "t1_edb5d4i",
+            "Comment ID": "edc16a3",
+            "Author": "my2sats",
+            "Date Created": "01-05-2019 17:32:37",
+            "Upvotes": 2,
+            "Text": "!lntip 42",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edd239x": [
+        {
+            "Parent ID": "t1_edb5d4i",
+            "Comment ID": "edd239x",
+            "Author": "AussieBitcoiner",
+            "Date Created": "01-06-2019 00:48:42",
+            "Upvotes": 2,
+            "Text": "you don't need LN to send $200 payments right now. As the capacity continues to grow, ability to find high-capacity routes will increase, not to mention atomic multi-path payments which will allow a payment to be split up and sent through multiple routes.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edcyikb": [
+        {
+            "Parent ID": "t1_edcw3pb",
+            "Comment ID": "edcyikb",
+            "Author": "jammanbo",
+            "Date Created": "01-05-2019 23:58:50",
+            "Upvotes": 2,
+            "Text": "Do you remember that Roger Ver dissed him on twitter for being poor and that triggered many people to donate to Andreas? \nBest way to deal with those clowns is to ignore them.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edbzvnt": [
+        {
+            "Parent ID": "t1_edbzrf7",
+            "Comment ID": "edbzvnt",
+            "Author": "MrRGnome",
+            "Date Created": "01-05-2019 17:18:11",
+            "Upvotes": 1,
+            "Text": "I will check this again but I thought it was working properly. I get incoming and bidirectional channels when operating on testnet and lncli listpeers notes peers are incoming. Not on mainnet though.\n\nEdit: Manually forwarded the ports, I'm seeing incoming connections. Still no incoming channels. I'm going to close my existing channels and see if lnd autopilot does a better job this time. Only  **600 blocks** to get out of these wasted and pointless channels. Any config options I can set to change the default channel clearing period or channel entering fee logic?",
+            "Edited?": "01-05-2019 19:46:36",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edcw1ps": [
+        {
+            "Parent ID": "t1_edcw18f",
+            "Comment ID": "edcw1ps",
+            "Author": "lntipbot",
+            "Date Created": "01-05-2019 23:28:47",
+            "Upvotes": 1,
+            "Text": "Hi u/my2sats, thanks for tipping u/MrRGnome **42** satoshis!\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edacjnv": [
+        {
+            "Parent ID": "t1_edab78d",
+            "Comment ID": "edacjnv",
+            "Author": "SAT0SHl",
+            "Date Created": "01-05-2019 03:04:56",
+            "Upvotes": 2,
+            "Text": "For example instead of Ebay you have **\"SatBay\"** where every item is sold at the exchange rate of 1Sat = 1$.\n\n",
+            "Edited?": "01-05-2019 03:10:46",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edak1yv": [
+        {
+            "Parent ID": "t1_edajuum",
+            "Comment ID": "edak1yv",
+            "Author": "SAT0SHl",
+            "Date Created": "01-05-2019 06:08:47",
+            "Upvotes": 0,
+            "Text": "> granularity\n\nMilliSatoshi",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edbme0v": [
+        {
+            "Parent ID": "t1_edaq7l6",
+            "Comment ID": "edbme0v",
+            "Author": "itsokaytobegullible",
+            "Date Created": "01-05-2019 14:48:05",
+            "Upvotes": 0,
+            "Text": "Implying that it isn't.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edas2sz": [
+        {
+            "Parent ID": "t1_edaq7l6",
+            "Comment ID": "edas2sz",
+            "Author": "SAT0SHl",
+            "Date Created": "01-05-2019 09:00:40",
+            "Upvotes": -1,
+            "Text": "> That's $100 million per bitcoin\n\nCorrectamundo! \n\n> It would take hyper inflation in the US for that to happen.\n\n                                              FTFY\n\nSpecifically in the US **dollar currency** for that to happen or in any other currency from Yuan to the Pound, including the Euro.\n\nMaybe Bitcoin is worth a **$100,000,000** now on **05/01/2019**, why wait 5 years?\n\n    ",
+            "Edited?": "01-05-2019 09:15:50",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edbyikv": [
+        {
+            "Parent ID": "t1_edbs7zt",
+            "Comment ID": "edbyikv",
+            "Author": "taranasus",
+            "Date Created": "01-05-2019 17:02:38",
+            "Upvotes": 2,
+            "Text": "Not everyone is going to be in it for the tech. Imagine is everyone was into the internet for the tech. Most people don't care how DNS, HTTP and Web Servers work, they just want their cat videos and to chat to Grandma over Skype, and that's perfectly fine. Stop before you end up on /r/gatekeeping",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edbmzpk": [
+        {
+            "Parent ID": "t1_edbmp7y",
+            "Comment ID": "edbmzpk",
+            "Author": "BitcoinAlways",
+            "Date Created": "01-05-2019 14:54:48",
+            "Upvotes": 1,
+            "Text": "Can you give me a little idiots explanation of that please and will it result in an increase in the price of Eth?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edcbbyd": [
+        {
+            "Parent ID": "t1_edc1c84",
+            "Comment ID": "edcbbyd",
+            "Author": "jak0o0o",
+            "Date Created": "01-05-2019 19:22:16",
+            "Upvotes": 1,
+            "Text": "Have you looked into SN being an artificial intelligence? It's quite compelling \n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edc8bni": [
+        {
+            "Parent ID": "t1_edc1c84",
+            "Comment ID": "edc8bni",
+            "Author": "tomius",
+            "Date Created": "01-05-2019 18:50:12",
+            "Upvotes": 1,
+            "Text": "I've always figured that Satoshi has/have a lot of coins that we don't know are theirs. Enough to sell a few and be set for life, leaving the ones we know are theirs untouched, as an statement.\n\nMaybe they even destroyed the keys on purpose?\n\nI don't know. Tin hat theories.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edc16u7": [
+        {
+            "Parent ID": "t1_edc16a3",
+            "Comment ID": "edc16u7",
+            "Author": "lntipbot",
+            "Date Created": "01-05-2019 17:32:47",
+            "Upvotes": 2,
+            "Text": "Hi u/my2sats, thanks for tipping u/Gekko48 **42** satoshis!\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eduz0kn": [
+        {
+            "Parent ID": "t1_edd239x",
+            "Comment ID": "eduz0kn",
+            "Author": "Gekko48",
+            "Date Created": "01-11-2019 21:05:06",
+            "Upvotes": 1,
+            "Text": "Great points. When do you project the LN to be fully matured?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edd1y28": [
+        {
+            "Parent ID": "t1_edcyikb",
+            "Comment ID": "edd1y28",
+            "Author": "[deleted]",
+            "Date Created": "01-06-2019 00:46:11",
+            "Upvotes": 0,
+            "Text": "I agree but enough is enough. Andreas could expose him and take away his ability to manipulate the market. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edae4c3": [
+        {
+            "Parent ID": "t1_edacjnv",
+            "Comment ID": "edae4c3",
+            "Author": "[deleted]",
+            "Date Created": "01-05-2019 03:41:35",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edckmge": [
+        {
+            "Parent ID": "t1_edbme0v",
+            "Comment ID": "edckmge",
+            "Author": "GrouchyEmployer",
+            "Date Created": "01-05-2019 21:14:46",
+            "Upvotes": 1,
+            "Text": "Looks like deflation to me right now.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edat334": [
+        {
+            "Parent ID": "t1_edas2sz",
+            "Comment ID": "edat334",
+            "Author": "d3vrandom",
+            "Date Created": "01-05-2019 09:16:14",
+            "Upvotes": 2,
+            "Text": "> Specifically in the US dollar currency for that to happen or in any other currency from Yuan to the Pound, including the Euro.\n> Maybe Bitcoin is worth a $100,000,000 now on 05/01/2019, why wait 5 years?\n\nidgi. can you rephrase? hyper inflation in japan won't cause the US currency to depreciate in value.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edbgull": [
+        {
+            "Parent ID": "t1_edas2sz",
+            "Comment ID": "edbgull",
+            "Author": "AdamJensensCoat",
+            "Date Created": "01-05-2019 13:47:46",
+            "Upvotes": 1,
+            "Text": "Hope you like 2% yoy inflaton, forever.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edc89uk": [
+        {
+            "Parent ID": "t1_edbyikv",
+            "Comment ID": "edc89uk",
+            "Author": "lagwagon211",
+            "Date Created": "01-05-2019 18:49:38",
+            "Upvotes": 1,
+            "Text": "Duh.  It's a commodity and an investment.  I would like to be able to make money with my coin.  The tech is fascinating as well.  I believe it's a viable digital option.  Just saying, shits boring.  It's BORING.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edc1j4z": [
+        {
+            "Parent ID": "t1_edbmzpk",
+            "Comment ID": "edc1j4z",
+            "Author": "Spykwak",
+            "Date Created": "01-05-2019 17:36:36",
+            "Upvotes": 2,
+            "Text": "ETH has already pumped prior to the Constantinople HF. It\u2019ll dump after",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edctpix": [
+        {
+            "Parent ID": "t1_edbmzpk",
+            "Comment ID": "edctpix",
+            "Author": "almkglor",
+            "Date Created": "01-05-2019 23:02:46",
+            "Upvotes": 1,
+            "Text": "Ethereum sharding is basically sidechains.\n\nUnlike in BTC the ETH \"sharding\" solution basically has been vaporware.\n\nThe phrase basically means Bakkt will be vaporware.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edcoe5z": [
+        {
+            "Parent ID": "t1_edc8bni",
+            "Comment ID": "edcoe5z",
+            "Author": "mtnmahogany",
+            "Date Created": "01-05-2019 21:58:29",
+            "Upvotes": 0,
+            "Text": "my hat is aluminum, where did you get a tin one?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edae7x7": [
+        {
+            "Parent ID": "t1_edae4c3",
+            "Comment ID": "edae7x7",
+            "Author": "SAT0SHl",
+            "Date Created": "01-05-2019 03:43:59",
+            "Upvotes": 1,
+            "Text": "So be it.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edatx6d": [
+        {
+            "Parent ID": "t1_edat334",
+            "Comment ID": "edatx6d",
+            "Author": "SAT0SHl",
+            "Date Created": "01-05-2019 09:27:57",
+            "Upvotes": 0,
+            "Text": "Pay attention 007 or fix your bot.: **\"1 Satoshi = 1 Dollar\"** 1 Dollar is the initial  target, whatever the relative exchange rate. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edc4hpk": [
+        {
+            "Parent ID": "t1_edc1j4z",
+            "Comment ID": "edc4hpk",
+            "Author": "BitcoinAlways",
+            "Date Created": "01-05-2019 18:09:28",
+            "Upvotes": 1,
+            "Text": "What is the  Constantinople HF? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edcttk0": [
+        {
+            "Parent ID": "t1_edcoe5z",
+            "Comment ID": "edcttk0",
+            "Author": "[deleted]",
+            "Date Created": "01-05-2019 23:04:14",
+            "Upvotes": 1,
+            "Text": "He/she could flood the supply side of the market which is currently just based on demand. It wouldn\u2019t be pretty to speculators/HODLers but bitcoin needs to be attacked to survive. It\u2019s easy determining demand. Having to deal with influx of coins would create havoc for a while. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edc7bbj": [
+        {
+            "Parent ID": "t1_edc4hpk",
+            "Comment ID": "edc7bbj",
+            "Author": "tofuspider",
+            "Date Created": "01-05-2019 18:39:26",
+            "Upvotes": -1,
+            "Text": "ECB (Ethereum Central Bank) decided to tighten its monetary policy by reducing block rewards from 3 blocks to 2 to save their useless shitcoin.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "edd1vzm": [
+        {
+            "Parent ID": "t1_edc7bbj",
+            "Comment ID": "edd1vzm",
+            "Author": "AussieBitcoiner",
+            "Date Created": "01-06-2019 00:45:12",
+            "Upvotes": 2,
+            "Text": "that is certainly a feature which won't ever be taken advantage of in the future to adjust inflation rates to meet the goals of people controlling it.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ]
+}

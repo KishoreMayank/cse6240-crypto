@@ -1,0 +1,1159 @@
+{
+    "ef086v4": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "ef086v4",
+            "Author": "BashCo",
+            "Date Created": "01-26-2019 05:59:14",
+            "Upvotes": 1,
+            "Text": "#[Graftroot: How Delegating Signatures Allows for Near-Infinite Spending Variations](https://www.reddit.com/r/Bitcoin/comments/ajv4sn/graftroot_how_delegating_signatures_allows_for/)\n\n> If Taproot is deployed on Bitcoin, many smart contract constructions will look just like regular transactions on the blockchain. As long as all participants agree on the outcome of the contract \u2014 a \u201ccooperative close\u201d \u2014 the clever combination of Schnorr and MAST offers both data efficiency and privacy.\n> \n> However, if a Taproot smart contract is complex enough \u2014 that is, if there are many potential outcomes \u2014 the Merkle path that needs to be revealed in case of an uncooperative close would still be data heavy.\n> \n> A follow-up proposal by Bitcoin Core contributor Gregory Maxwell, \u201cGraftroot,\u201d could provide similar benefits as Taproot but without this downside, offering even more smart contract flexibility.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": true
+        }
+    ],
+    "ef0etjm": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "ef0etjm",
+            "Author": "cjohanneson38",
+            "Date Created": "01-26-2019 08:10:19",
+            "Upvotes": 14,
+            "Text": "Proud to have invested $100k USD in bitcoin despite my 40% losses. Call me delusional, but watching all of this manipulation in the stock market likely driven by the big banks and fed has made me appreciate a SOV vehicle that has limited supply and no centralized authority. We hear this all the time, but it\u2019s the simple reality of what bitcoin is and represents that gives me hope for this world\u2019s future. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0csyc": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "ef0csyc",
+            "Author": "dgtlM",
+            "Date Created": "01-26-2019 07:32:19",
+            "Upvotes": 6,
+            "Text": "Out of curiosity...\nAre there any contactless (NFC) mobile wallets yet? Which type of payment terminal would be able to accept these payments?\n\n\nIf it doesn't exist yet - what could be the reasons? such as security issues and how could we solve them?\n\nI'm seeing a boom in contactless payments with mobile phones lately: debit/credit card payments, public transport check-ins, getting drinks at festivals, ...\n\nI love the evolution, as I need to pack less and less cards in my oldskool wallet. However, some coins are making contactless cards - why not skip the cards and go mobile-NFC all the way? \n\nThoughts?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0hjcx": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "ef0hjcx",
+            "Author": "[deleted]",
+            "Date Created": "01-26-2019 08:55:04",
+            "Upvotes": 3,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eezzxat": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "eezzxat",
+            "Author": "RazerPSN",
+            "Date Created": "01-26-2019 03:12:16",
+            "Upvotes": 5,
+            "Text": "Anyone familiar with lightning?\n\n&#x200B;\n\nI keep getting \"No channels have sufficient incoming capacity\" error when trying to create an invoice",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eezxu9p": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "eezxu9p",
+            "Author": "ChapDog",
+            "Date Created": "01-26-2019 02:31:04",
+            "Upvotes": 9,
+            "Text": "On this date, January 26th 2019 I was the first person to post in the daily discussion section of r/bitcoin and I had nothing interesting to say other than FIRST!!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1yry3": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "ef1yry3",
+            "Author": "Rattlesnake_Mullet",
+            "Date Created": "01-26-2019 18:44:38",
+            "Upvotes": 6,
+            "Text": "This might surprise you all but I am a 52 year old housewife from Delaware and I'm bullish on bitcoin.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1pkqo": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "ef1pkqo",
+            "Author": "nerderflerder",
+            "Date Created": "01-26-2019 17:07:55",
+            "Upvotes": 3,
+            "Text": "Trying to find an amazing article for reference and CANNOT find it for the life of me. It has to do with governance and how commits get appended and who has the masterkeys to actually update the git... Anyone. Im thinking it was hackernoon, maybe medium. Thx",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef09rhw": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "ef09rhw",
+            "Author": "BCash_BeTrash",
+            "Date Created": "01-26-2019 06:30:23",
+            "Upvotes": 2,
+            "Text": "Bitcoin is the leopord of Wall Street.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1nnd0": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "ef1nnd0",
+            "Author": "k_artem",
+            "Date Created": "01-26-2019 16:48:02",
+            "Upvotes": 2,
+            "Text": "!lntip 900",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1qcb4": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "ef1qcb4",
+            "Author": "Neo-Deo",
+            "Date Created": "01-26-2019 17:15:40",
+            "Upvotes": 2,
+            "Text": "Hmmm, portable nodes? Why Not? The way technology increases, in 10 years, cellphones might be able to easily run nodes. Wouldn\u2019t that solve the bottleneck? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef2qqjy": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "ef2qqjy",
+            "Author": "ChapDog",
+            "Date Created": "01-27-2019 00:49:40",
+            "Upvotes": 1,
+            "Text": "According to my personal professional Genie in a bubble, I mean bottle, the bull run has begun and will continue for the next 2 years. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef2sewn": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "ef2sewn",
+            "Author": "[deleted]",
+            "Date Created": "01-27-2019 01:14:35",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": "01-27-2019 01:34:03",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "eezzvky": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "eezzvky",
+            "Author": "wesred",
+            "Date Created": "01-26-2019 03:11:20",
+            "Upvotes": -8,
+            "Text": "i believe BTC will never moon again\nthe mainstream FOMO audience that generated the all time high will never return again\n\nnow all you have left is whales pumping it up a little then dumping again... rinse repeat\n\nthe average Joe is getting toyed with in the process",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1ipcp": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "ef1ipcp",
+            "Author": "Botchedcoins",
+            "Date Created": "01-26-2019 15:51:24",
+            "Upvotes": 0,
+            "Text": "I would to give thanks to the whales for keep us broke, but when are we going to the moon? Come on.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef2xvej": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "ef2xvej",
+            "Author": "lululomen",
+            "Date Created": "01-27-2019 02:31:07",
+            "Upvotes": 0,
+            "Text": "Lll",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0pjqb": [
+        {
+            "Parent ID": "t3_ajyqal",
+            "Comment ID": "ef0pjqb",
+            "Author": "[deleted]",
+            "Date Created": "01-26-2019 10:31:35",
+            "Upvotes": -1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1el0o": [
+        {
+            "Parent ID": "t1_ef086v4",
+            "Comment ID": "ef1el0o",
+            "Author": "BCash_BeTrash",
+            "Date Created": "01-26-2019 15:03:54",
+            "Upvotes": 2,
+            "Text": "I ran that past Venables, my librarian, who is rather clever and went to Harvard.  \n\nUnfortunately he didn't understand it either.\n\nSo that's three of us - including my nurse.  \n\n(My God she is fat.  When she walks away from my bed it is like watching the departure of the Scharnhorst from a German port.  But wider.)\n\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef2tqv6": [
+        {
+            "Parent ID": "t1_ef086v4",
+            "Comment ID": "ef2tqv6",
+            "Author": "[deleted]",
+            "Date Created": "01-27-2019 01:31:53",
+            "Upvotes": 1,
+            "Text": "Time. Time, Time. It\u2019s frustrating when the devs know what needs to happen for success before the next generation which we need to sustain this technology, loses interest; and the devs can\u2019t get out their project cause consensus and older holders refuse to help the the technology cause they bought in at $10. \nDevs control and patch this technology. Without the devs, there is no bitcoin. It\u2019s centralized to the smart people who can code and not speculators gambling they don\u2019t get frustrated and keep working. HODLers/speculators hold the potential back. 10 years in. Bitcoin is Looking like what they said 5 years ago. And new talent isn\u2019t entering the development phase cause they don\u2019t want to wait years, if ever, to see their hard work not be used. \nSame debate they had at universities in debate class: Is democracy the best form of government if it slows human progress? \nIt\u2019s always ended that during a war, humans look to a Lincoln who took away rights to win the civil war or FDR who took away right to fight Japan to the pint he locked up all Japanese citizens who were innocent victims of his racism. \nNo one has an answer to these debates but if we believe in bitcoin as the future than it needs the next generation who so far are not interested. We can\u2019t get them. They all say it was the fade of 2017. \nWe believe that coders (who are all centralized anyway) make these decisions implement the technology to scale with privacy no matter what the USA economy says. They will hop on board as always once it is true internet cash. \nLet the future generations deal with 2120 issue of no block rewards. We need to get this upcoming generation involved cause the past 10 years has stalemated so much intellectual coders. Lightning needs to demonstrate its usefulness. Alt coins will die out. It\u2019s 5 years or never everyone. That\u2019s 15 years. We need to keep attracting talent if we are going to create a currency free from central banks. Millennials (81-95) are out the market is showing when we try to hire them. The second generation 95-2011 will be the ones who take the reigns if we stop this stagnation. Current devs, ball is your court for now. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0gw8o": [
+        {
+            "Parent ID": "t1_ef0etjm",
+            "Comment ID": "ef0gw8o",
+            "Author": "lululomen",
+            "Date Created": "01-26-2019 08:45:36",
+            "Upvotes": 5,
+            "Text": "You are even a millionnaire, or a soon divorced man! Haha\n\nWho would be happy to throw 40k out of the window!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0iv2g": [
+        {
+            "Parent ID": "t1_ef0etjm",
+            "Comment ID": "ef0iv2g",
+            "Author": "1561KWP",
+            "Date Created": "01-26-2019 09:13:29",
+            "Upvotes": 5,
+            "Text": "I just rolled over a $135K CD.  It'll give me an extra $300/month.  I'm cool with this.\n\n&#x200B;\n\nIf Btc is how you want to go - then fuck yeah!  Stick with you guns.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0zphm": [
+        {
+            "Parent ID": "t1_ef0etjm",
+            "Comment ID": "ef0zphm",
+            "Author": "Eertgggddsdfg",
+            "Date Created": "01-26-2019 12:28:33",
+            "Upvotes": 7,
+            "Text": "Lol. Because you think there is no manipulation in crypto? It is 100 times more manipulated than the stockmarket. Every big price rise or fall is caused by manipulation by exchanges and cryptocompanies who pump and dump their own coin. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0yxtn": [
+        {
+            "Parent ID": "t1_ef0etjm",
+            "Comment ID": "ef0yxtn",
+            "Author": "Poop_Shame",
+            "Date Created": "01-26-2019 12:20:05",
+            "Upvotes": 6,
+            "Text": "Hahaha you're tired of manipulation in the stock market.... so you invest in Bitcoin instead \ud83e\udd23\ud83e\udd23",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1a38n": [
+        {
+            "Parent ID": "t1_ef0etjm",
+            "Comment ID": "ef1a38n",
+            "Author": "GreenStretch",
+            "Date Created": "01-26-2019 14:14:17",
+            "Upvotes": 1,
+            "Text": "Only 40%, cool.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef18ef5": [
+        {
+            "Parent ID": "t1_ef0csyc",
+            "Comment ID": "ef18ef5",
+            "Author": "boonroop",
+            "Date Created": "01-26-2019 13:58:03",
+            "Upvotes": 2,
+            "Text": "keeping eye on possible answers",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef19x03": [
+        {
+            "Parent ID": "t1_ef0csyc",
+            "Comment ID": "ef19x03",
+            "Author": "tomius",
+            "Date Created": "01-26-2019 14:12:34",
+            "Upvotes": 2,
+            "Text": "I'm not an expert, but I think the technology is there. It's just that there is no real use case yet that justifies diving into that.\n\nAlso, this will make more sense when Lightning Network has a wider adoption.\n\nBut yes, I guess it's something that will happen in the future.\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1ynnj": [
+        {
+            "Parent ID": "t1_ef0csyc",
+            "Comment ID": "ef1ynnj",
+            "Author": "215VEN",
+            "Date Created": "01-26-2019 18:43:13",
+            "Upvotes": 1,
+            "Text": "Chips in our arms is way cooler!!!!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef14neh": [
+        {
+            "Parent ID": "t1_ef0hjcx",
+            "Comment ID": "ef14neh",
+            "Author": "Sumo_Bro",
+            "Date Created": "01-26-2019 13:20:52",
+            "Upvotes": 5,
+            "Text": "That\u2019s more than as many as four tens.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0kg57": [
+        {
+            "Parent ID": "t1_ef0hjcx",
+            "Comment ID": "ef0kg57",
+            "Author": "BitcoinAlways",
+            "Date Created": "01-26-2019 09:32:45",
+            "Upvotes": 1,
+            "Text": "Bit disappointing that it got to around $3620 and then dropped below $3600 again though.....",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef04u29": [
+        {
+            "Parent ID": "t1_eezzxat",
+            "Comment ID": "ef04u29",
+            "Author": "TheGreatMuffin",
+            "Date Created": "01-26-2019 04:54:12",
+            "Upvotes": 8,
+            "Text": "In order to receive money, you'd need at least one channel having some balance on their end. You can achieve it by various ways: make payments over lightning yourself first; open a channel to an exchange, make a ln payment and then withdraw on-chain; ask (or pay) someone to open a channel with you (so the funds are on their side) etc",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0qi15": [
+        {
+            "Parent ID": "t1_eezzxat",
+            "Comment ID": "ef0qi15",
+            "Author": "my2sats",
+            "Date Created": "01-26-2019 10:42:45",
+            "Upvotes": 0,
+            "Text": "!lntip 42",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0mpmn": [
+        {
+            "Parent ID": "t1_eezxu9p",
+            "Comment ID": "ef0mpmn",
+            "Author": "tlaatonmai",
+            "Date Created": "01-26-2019 09:59:34",
+            "Upvotes": 8,
+            "Text": "youre gonna look back at this post in 10 years and say OMG I SHOULD OF BOUGHT MORE BITCOIN! ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef02dhz": [
+        {
+            "Parent ID": "t1_eezxu9p",
+            "Comment ID": "ef02dhz",
+            "Author": "Iluvmotorboating",
+            "Date Created": "01-26-2019 04:02:04",
+            "Upvotes": 2,
+            "Text": "Acknowledged. Now go celebrate!!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef20j9l": [
+        {
+            "Parent ID": "t1_ef1yry3",
+            "Comment ID": "ef20j9l",
+            "Author": "datasquad",
+            "Date Created": "01-26-2019 19:04:17",
+            "Upvotes": 3,
+            "Text": "Old, young, humans or not we're all going to benefit from this evolution",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef2gy8q": [
+        {
+            "Parent ID": "t1_ef1pkqo",
+            "Comment ID": "ef2gy8q",
+            "Author": "GreenStretch",
+            "Date Created": "01-26-2019 22:28:51",
+            "Upvotes": 1,
+            "Text": "? [https://medium.com/@lopp/who-controls-bitcoin-core-c55c0af91b8a](https://medium.com/@lopp/who-controls-bitcoin-core-c55c0af91b8a)\n\n&#x200B;",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1edrs": [
+        {
+            "Parent ID": "t1_ef09rhw",
+            "Comment ID": "ef1edrs",
+            "Author": "BCash_BeTrash",
+            "Date Created": "01-26-2019 15:01:32",
+            "Upvotes": 2,
+            "Text": "(New England spelling.)",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1noak": [
+        {
+            "Parent ID": "t1_ef1nnd0",
+            "Comment ID": "ef1noak",
+            "Author": "lntipbot",
+            "Date Created": "01-26-2019 16:48:17",
+            "Upvotes": 2,
+            "Text": "Hi u/k_artem, thanks for tipping u/rBitcoinMod **900** satoshis!\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef00who": [
+        {
+            "Parent ID": "t1_eezzvky",
+            "Comment ID": "ef00who",
+            "Author": "area51perp",
+            "Date Created": "01-26-2019 03:31:40",
+            "Upvotes": 6,
+            "Text": "BTC and the blockchain technology has just started. It has only really attracted a small percent of people mostly under 40 and the tech savvy. In 10 years there will be many more that will become an adult knowing all about it. Thus, more addresses, demand, and the same 20 million BTC. Mean while crypto ATMs and services that every bank will integrate will progress.\n\nThe average Joe is always getting fucked with. We could all die from a nuclear attack tomorrow. For no reason and no way to stop it... In my opinion, if humanity continues without catastrophic events then this technology will continue to run for hundreds of years.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef02k8h": [
+        {
+            "Parent ID": "t1_eezzvky",
+            "Comment ID": "ef02k8h",
+            "Author": "rauly921",
+            "Date Created": "01-26-2019 04:06:10",
+            "Upvotes": 5,
+            "Text": "Just look at the subscribers, there are hundreds of new people join us everyday, no moon again? I don\u2019t think so!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0deau": [
+        {
+            "Parent ID": "t1_eezzvky",
+            "Comment ID": "ef0deau",
+            "Author": "Leoforic",
+            "Date Created": "01-26-2019 07:43:46",
+            "Upvotes": 7,
+            "Text": "Looks like the trolls are getting started early today!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef041mn": [
+        {
+            "Parent ID": "t1_eezzvky",
+            "Comment ID": "ef041mn",
+            "Author": "Spykwak",
+            "Date Created": "01-26-2019 04:37:34",
+            "Upvotes": 4,
+            "Text": "We don\u2019t need moon, if BTC is stable it\u2019ll be used more as a currency.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1w0um": [
+        {
+            "Parent ID": "t1_ef1ipcp",
+            "Comment ID": "ef1w0um",
+            "Author": "dabears041",
+            "Date Created": "01-26-2019 18:14:45",
+            "Upvotes": 1,
+            "Text": "Patience, my son ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef2h1fb": [
+        {
+            "Parent ID": "t1_ef1ipcp",
+            "Comment ID": "ef2h1fb",
+            "Author": "GreenStretch",
+            "Date Created": "01-26-2019 22:29:57",
+            "Upvotes": 1,
+            "Text": "Fatten up on krill, like a whale even if you're just a slightly bigger shrimp. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1hfp2": [
+        {
+            "Parent ID": "t1_ef0pjqb",
+            "Comment ID": "ef1hfp2",
+            "Author": "aidanlister",
+            "Date Created": "01-26-2019 15:36:23",
+            "Upvotes": 2,
+            "Text": "\u201cUsers safety\u201d is why I pay tax?!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0q5ib": [
+        {
+            "Parent ID": "t1_ef0gw8o",
+            "Comment ID": "ef0q5ib",
+            "Author": "Utoko",
+            "Date Created": "01-26-2019 10:38:34",
+            "Upvotes": 4,
+            "Text": "or he guy on the internet telling a lie.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1251y": [
+        {
+            "Parent ID": "t1_ef0zphm",
+            "Comment ID": "ef1251y",
+            "Author": "cryptogrip",
+            "Date Created": "01-26-2019 12:54:31",
+            "Upvotes": 2,
+            "Text": "100x hey? That's very specific. Now clearly the lower volume of participants in this new crypro market means it is going to be more vulnerable to manipulation until it matures, but please provide the study and facts that you got the 100X information from. I'd love to read that because I haven't seen a source for that in years of following the space.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef19vom": [
+        {
+            "Parent ID": "t1_ef18ef5",
+            "Comment ID": "ef19vom",
+            "Author": "dgtlM",
+            "Date Created": "01-26-2019 14:12:12",
+            "Upvotes": 1,
+            "Text": "It's quite dead in here or nobody cares.\n\nHere's something for your comment.\n\n!lntip 99",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef19j5o": [
+        {
+            "Parent ID": "t1_ef14neh",
+            "Comment ID": "ef19j5o",
+            "Author": "BCash_BeTrash",
+            "Date Created": "01-26-2019 14:08:50",
+            "Upvotes": 3,
+            "Text": "4.1 of them.  ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0ljng": [
+        {
+            "Parent ID": "t1_ef0kg57",
+            "Comment ID": "ef0ljng",
+            "Author": "[deleted]",
+            "Date Created": "01-26-2019 09:45:30",
+            "Upvotes": -1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef05i5l": [
+        {
+            "Parent ID": "t1_ef04u29",
+            "Comment ID": "ef05i5l",
+            "Author": "RazerPSN",
+            "Date Created": "01-26-2019 05:07:02",
+            "Upvotes": 4,
+            "Text": "Thanks this is a really great reply!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0k0xw": [
+        {
+            "Parent ID": "t1_ef04u29",
+            "Comment ID": "ef0k0xw",
+            "Author": "my2sats",
+            "Date Created": "01-26-2019 09:27:42",
+            "Upvotes": 1,
+            "Text": "!lntip 42",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1dwco": [
+        {
+            "Parent ID": "t1_ef04u29",
+            "Comment ID": "ef1dwco",
+            "Author": "tomius",
+            "Date Created": "01-26-2019 14:56:06",
+            "Upvotes": 1,
+            "Text": "!lntip 100",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0qj2b": [
+        {
+            "Parent ID": "t1_ef0qi15",
+            "Comment ID": "ef0qj2b",
+            "Author": "lntipbot",
+            "Date Created": "01-26-2019 10:43:06",
+            "Upvotes": 2,
+            "Text": "Hi u/my2sats, thanks for tipping u/RazerPSN **42** satoshis!\n\nYou didn't have enough balance, you can pay the following invoice instead.\n***\n>!lnbc420n1pwycllspp5ukxxupy2j0fxrwf53dcwvha0yz626tqcvumq2apv9auqjfhg26kqdp5vgmkzep3v4snvcfk8yurgctzxe3rjerrxvmngenrv4jnsdmxxvcscqzysxqrp9s97jcsm24dlnfm3nr0j78jxvhkza0v5xgnyp7a4crdff449ucry0qd8sx54tjcy5zfkvu9ecs6ygetnm0tg4l9te2z0skv2vvutz7ldgp2x3ngw!<\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0rm50": [
+        {
+            "Parent ID": "t1_ef0qi15",
+            "Comment ID": "ef0rm50",
+            "Author": "RazerPSN",
+            "Date Created": "01-26-2019 10:56:11",
+            "Upvotes": 1,
+            "Text": "Thanks! :D",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1ytbq": [
+        {
+            "Parent ID": "t1_ef0mpmn",
+            "Comment ID": "ef1ytbq",
+            "Author": "215VEN",
+            "Date Created": "01-26-2019 18:45:05",
+            "Upvotes": 1,
+            "Text": "I say that every time it goes up $100. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef228fd": [
+        {
+            "Parent ID": "t1_ef20j9l",
+            "Comment ID": "ef228fd",
+            "Author": "Rattlesnake_Mullet",
+            "Date Created": "01-26-2019 19:23:57",
+            "Upvotes": 1,
+            "Text": "Agreed.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef2imb5": [
+        {
+            "Parent ID": "t1_ef2gy8q",
+            "Comment ID": "ef2imb5",
+            "Author": "nerderflerder",
+            "Date Created": "01-26-2019 22:50:42",
+            "Upvotes": 2,
+            "Text": "YESS THANK YOU SO MUCH. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef01irb": [
+        {
+            "Parent ID": "t1_ef00who",
+            "Comment ID": "ef01irb",
+            "Author": "wesred",
+            "Date Created": "01-26-2019 03:43:45",
+            "Upvotes": -4,
+            "Text": "What if BTC is the myspace of crypto?\nWhat If it gets surpassed in 10 years by a better coin?\n\nBeing first doesn't rule out BTC turning into an actual shitcoin one day\nSome genius in his garage could be creating the Facebook equivalent to myspace right this Very moment\n\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0ce6q": [
+        {
+            "Parent ID": "t1_ef041mn",
+            "Comment ID": "ef0ce6q",
+            "Author": "tarzanboyo",
+            "Date Created": "01-26-2019 07:24:03",
+            "Upvotes": -4,
+            "Text": "stop living in a fantasy",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1j3e8": [
+        {
+            "Parent ID": "t1_ef1hfp2",
+            "Comment ID": "ef1j3e8",
+            "Author": "BitcoinAlways",
+            "Date Created": "01-26-2019 15:55:55",
+            "Upvotes": 2,
+            "Text": "He's either a troll or a bot or just very stupid. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef2xv08": [
+        {
+            "Parent ID": "t1_ef0q5ib",
+            "Comment ID": "ef2xv08",
+            "Author": "lululomen",
+            "Date Created": "01-27-2019 02:30:58",
+            "Upvotes": 1,
+            "Text": "Totally agree with you :)",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef19x0d": [
+        {
+            "Parent ID": "t1_ef19vom",
+            "Comment ID": "ef19x0d",
+            "Author": "lntipbot",
+            "Date Created": "01-26-2019 14:12:34",
+            "Upvotes": 2,
+            "Text": "Hi u/dgtlM, thanks for tipping u/boonroop **99** satoshis!\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0n220": [
+        {
+            "Parent ID": "t1_ef0ljng",
+            "Comment ID": "ef0n220",
+            "Author": "BitcoinAlways",
+            "Date Created": "01-26-2019 10:03:39",
+            "Upvotes": 3,
+            "Text": "What's funny about that? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1pjst": [
+        {
+            "Parent ID": "t1_ef0ljng",
+            "Comment ID": "ef1pjst",
+            "Author": "Poop_Shame",
+            "Date Created": "01-26-2019 17:07:39",
+            "Upvotes": 1,
+            "Text": "!lntip 9000000000000000",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef060b0": [
+        {
+            "Parent ID": "t1_ef05i5l",
+            "Comment ID": "ef060b0",
+            "Author": "dgtlM",
+            "Date Created": "01-26-2019 05:17:54",
+            "Upvotes": 2,
+            "Text": "!lntip 69",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0k1vx": [
+        {
+            "Parent ID": "t1_ef0k0xw",
+            "Comment ID": "ef0k1vx",
+            "Author": "lntipbot",
+            "Date Created": "01-26-2019 09:28:03",
+            "Upvotes": 1,
+            "Text": "Hi u/my2sats, thanks for tipping u/TheGreatMuffin **42** satoshis!\n\nYou didn't have enough balance, you can pay the following invoice instead.\n***\n>!lnbc420n1pwycmj6pp530mwy9vyfs0merut9vrv7cdulu0xvewfc93aa63ynxa7ewy6t9jsdp5893xvcf5v4skxepkxejngdtpxsunyc3cxv6kvvpj8q6xvdryvfsscqzysxqrp9sd2qksaht67qknk0mf8h2fq0027gnhmyw50ckn7xc0lyh6v9pa6v58lzadkuhsmm0a6kjujwnyvla45zltsazt7v3cvm9rm99rzl9r3cpgd0qgh!<\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1dx4g": [
+        {
+            "Parent ID": "t1_ef1dwco",
+            "Comment ID": "ef1dx4g",
+            "Author": "lntipbot",
+            "Date Created": "01-26-2019 14:56:19",
+            "Upvotes": 1,
+            "Text": "Hi u/tomius, thanks for tipping u/TheGreatMuffin **100** satoshis!\n\nYou didn't have enough balance, you can pay the following invoice instead.\n***\n>!lnbc1u1pwyew68pp5ra5nkfdlamysxv2uhwdxkcqnmgu6ey7ghs5ur7zyknytm3vmtessdp5vg6rge3evg6nserpvccrgdp4xdskvctr8q6xveryvcekyd3sx4nqcqzysxqrp9sun8nmf22c7ndlhs0upw5t58n8ecdt5xhf2p8hz9muc3ly5yvfp7zzxtc20zneheng6fr5xckrhe3u9uxp20yvu6aqdr4v596ltz5xcqq255ww5!<\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef03g93": [
+        {
+            "Parent ID": "t1_ef01irb",
+            "Comment ID": "ef03g93",
+            "Author": "AussieBitcoiner",
+            "Date Created": "01-26-2019 04:24:38",
+            "Upvotes": 11,
+            "Text": "people always use this Myspace example but it is fundamentally different. Myspace / Facebook are social networks where users have very little at stake, there is no personal wealth held or exchanged on there who's security and utility depends on the network, there is no cost to set up accounts on either platform, bugs/hacks/rule changes don't leave users without their life savings so there is no risk in going to a new platform with potential hidden flaws. How each one operates isn't decided by consensus of users, but is controlled by the companies that run the platforms, so you are at the mercy of what the company thinks a good platform is, if a better company comes up and the old one doesn't change everyone has no choice but to switch if they want the better experience, they cannot collectively improve the experience themselves.\n\nswitching social networks operated by different companies is inconsequential, and the only option if better ones come up. This is not the same for a global currency operating on consensus.",
+            "Edited?": "01-26-2019 04:31:12",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0da5a": [
+        {
+            "Parent ID": "t1_ef01irb",
+            "Comment ID": "ef0da5a",
+            "Author": "cryptogrip",
+            "Date Created": "01-26-2019 07:41:33",
+            "Upvotes": 8,
+            "Text": "Because one was a company running on a network and bitcoin is the network. Bitcoin will be improved not replaced. It's only now that Bitcoin's network finally has 10 years of proven tried and tested use under its belt with a great track record of security and uptime that is worth building on. That provides a foundation. Companies won't be built on bitcoin, economies will be.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1d6dw": [
+        {
+            "Parent ID": "t1_ef01irb",
+            "Comment ID": "ef1d6dw",
+            "Author": "tomius",
+            "Date Created": "01-26-2019 14:48:13",
+            "Upvotes": 7,
+            "Text": "Bitcoin is more like the internet (or TCP/IP) than like MySpace of Facebook.\n\nIt's a protocol and a network, not an application on top of it.\n\nThe internet hasn't been replaced. When there was a major flaw or lack of feature, it evolved.\n\nI think Bitcoin is more inclined to behave like that.\n\nPlus, what other users said.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0dtrt": [
+        {
+            "Parent ID": "t1_ef0ce6q",
+            "Comment ID": "ef0dtrt",
+            "Author": "cryptogrip",
+            "Date Created": "01-26-2019 07:51:46",
+            "Upvotes": 7,
+            "Text": "You should start living in reality. Look around you at the difference in just the past 5 years. Exchanges, ATMs, developments like LN, sidechains, security tokens, proposed ETFs, bakkt, even Samsung is considering including a crypto wallet with the new Galaxy 10 Smartphone. If you deny this reality of the future for crypto, it is YOU who are living in a fantasy.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1oe5p": [
+        {
+            "Parent ID": "t1_ef1j3e8",
+            "Comment ID": "ef1oe5p",
+            "Author": "[deleted]",
+            "Date Created": "01-26-2019 16:55:42",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0nt1n": [
+        {
+            "Parent ID": "t1_ef0n220",
+            "Comment ID": "ef0nt1n",
+            "Author": "[deleted]",
+            "Date Created": "01-26-2019 10:12:10",
+            "Upvotes": 2,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef060j1": [
+        {
+            "Parent ID": "t1_ef060b0",
+            "Comment ID": "ef060j1",
+            "Author": "lntipbot",
+            "Date Created": "01-26-2019 05:18:02",
+            "Upvotes": 2,
+            "Text": "Hi u/dgtlM, thanks for tipping u/RazerPSN **69** satoshis!\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef06925": [
+        {
+            "Parent ID": "t1_ef060b0",
+            "Comment ID": "ef06925",
+            "Author": "RazerPSN",
+            "Date Created": "01-26-2019 05:23:19",
+            "Upvotes": 2,
+            "Text": "Thanks man! :D",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef044in": [
+        {
+            "Parent ID": "t1_ef03g93",
+            "Comment ID": "ef044in",
+            "Author": "Spykwak",
+            "Date Created": "01-26-2019 04:39:23",
+            "Upvotes": 4,
+            "Text": "Excellent point!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef07qxg": [
+        {
+            "Parent ID": "t1_ef03g93",
+            "Comment ID": "ef07qxg",
+            "Author": "BitcoinAlways",
+            "Date Created": "01-26-2019 05:51:35",
+            "Upvotes": 2,
+            "Text": "Very well put. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1bkn5": [
+        {
+            "Parent ID": "t1_ef03g93",
+            "Comment ID": "ef1bkn5",
+            "Author": "GreenStretch",
+            "Date Created": "01-26-2019 14:29:49",
+            "Upvotes": 1,
+            "Text": "But even without monetary costs, the network effects are still strong.  How many facebook friends post that they're going to quit and fail to follow through?  There are probably a lot of fb users who did not use myspace so that it's the first network for them, just as there are probably many 2017 bitcoiners who didn't go heavily into altcoins.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1gytp": [
+        {
+            "Parent ID": "t1_ef1d6dw",
+            "Comment ID": "ef1gytp",
+            "Author": "xtal_00",
+            "Date Created": "01-26-2019 15:30:55",
+            "Upvotes": 5,
+            "Text": "I\u2019m old enough to have seen computers spread, then data communications, then the internet, now Bitcoin. Every time people said the exact same things. We\u2019re just getting started. I thought the internet was coming for education next, but it came for finance. The internet optimizes out censorship, rent seeking, and middlemen. In every single case where those efficiencies exist, the internet has demolished the status quo forever and taken over. \n\nBitcoin is very much like TCP. Buy. Hodl. Patience.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0z7w5": [
+        {
+            "Parent ID": "t1_ef0dtrt",
+            "Comment ID": "ef0z7w5",
+            "Author": "Poop_Shame",
+            "Date Created": "01-26-2019 12:23:08",
+            "Upvotes": -2,
+            "Text": "Also you get to calculate capital gains every time you buy a coffee, truly the future of currency. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1ub1c": [
+        {
+            "Parent ID": "t1_ef1oe5p",
+            "Comment ID": "ef1ub1c",
+            "Author": "BitcoinAlways",
+            "Date Created": "01-26-2019 17:56:33",
+            "Upvotes": 1,
+            "Text": "Feel free to post my friend but try and keep it nice and sensible, I presume English is not your first language? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0pazu": [
+        {
+            "Parent ID": "t1_ef0nt1n",
+            "Comment ID": "ef0pazu",
+            "Author": "cryptogrip",
+            "Date Created": "01-26-2019 10:28:48",
+            "Upvotes": 3,
+            "Text": "The same way you can be disappointed that a stock you own dropped a few dollars. How do you propose he be active? He should come up with a few million to invest and actively move the price?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef24yxa": [
+        {
+            "Parent ID": "t1_ef1bkn5",
+            "Comment ID": "ef24yxa",
+            "Author": "AussieBitcoiner",
+            "Date Created": "01-26-2019 19:55:47",
+            "Upvotes": 2,
+            "Text": "yea fair point, myspace was much smaller than what Facebook is now ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef13ev3": [
+        {
+            "Parent ID": "t1_ef0z7w5",
+            "Comment ID": "ef13ev3",
+            "Author": "cryptogrip",
+            "Date Created": "01-26-2019 13:08:14",
+            "Upvotes": 5,
+            "Text": "That's one of the most stupid things I have ever heard. The future fixes things, that's how advancement works!! Currently, the \nvalue of bitcoin for a transaction must be assigned a dollar amount, and you must use the exchange rate between the virtual currency and the dollar (depending on the country's law) on the day of the transaction. \nThat's because it is so early in development, the system only accepts the dollar for taxes. Your putting forward an issue that would clearly be a NON issue if bitcoin becomes a mainstream currency, and it seems very obvious that one day it will.\n\nLook, I get it - You want to troll and play devil's advocate, yada yada, but if you're going to evaluate the future potential of something, keep the associated processes involved relative to scaling process. Be a credible troll. :)",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0sfn2": [
+        {
+            "Parent ID": "t1_ef0pazu",
+            "Comment ID": "ef0sfn2",
+            "Author": "BitcoinAlways",
+            "Date Created": "01-26-2019 11:06:25",
+            "Upvotes": 2,
+            "Text": "Yep, I don't see what 1642310 is on about to be honest. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0rgs1": [
+        {
+            "Parent ID": "t1_ef0pazu",
+            "Comment ID": "ef0rgs1",
+            "Author": "[deleted]",
+            "Date Created": "01-26-2019 10:54:23",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1apoh": [
+        {
+            "Parent ID": "t1_ef13ev3",
+            "Comment ID": "ef1apoh",
+            "Author": "GreenStretch",
+            "Date Created": "01-26-2019 14:20:40",
+            "Upvotes": 1,
+            "Text": "Even if you're right, u/cryptogrip, which I expect you frequently are, the legislation to adjust this spending problem is years away and the coffee issue is a legitimate concern for at least the intermediate future.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef0va53": [
+        {
+            "Parent ID": "t1_ef0rgs1",
+            "Comment ID": "ef0va53",
+            "Author": "[deleted]",
+            "Date Created": "01-26-2019 11:38:50",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ef1jbgp": [
+        {
+            "Parent ID": "t1_ef1apoh",
+            "Comment ID": "ef1jbgp",
+            "Author": "cryptogrip",
+            "Date Created": "01-26-2019 15:58:38",
+            "Upvotes": 2,
+            "Text": "I agree, but bitcoin as a mainstream currency is also years away!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ]
+}

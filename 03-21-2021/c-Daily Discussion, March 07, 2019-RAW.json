@@ -1,0 +1,1146 @@
+{
+    "ei014ic": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ei014ic",
+            "Author": "diydude2",
+            "Date Created": "03-07-2019 10:53:21",
+            "Upvotes": 11,
+            "Text": "Litecoin has officially doubled since its bottom.  Bitcoin will follow.  \n\nBears fighting hard to keep it under $3900 for some reason.  Somebody gets a big margin call at that level or gets rekt on some fake paper Bitcoin contract.  Bulls patiently chewing up all the cheap dumped coins, digging in for the next pump.  Those coins borrowed for the big dump back in November haven't been paid back yet.  \n\nWho's ready for the ultimate reverse Bartman formation!  It will confirm at $6300.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0usx9": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ei0usx9",
+            "Author": "bitcoinfloridagator",
+            "Date Created": "03-07-2019 16:19:17",
+            "Upvotes": 7,
+            "Text": "Last one for the day:\n\nA few times, I\u2019ve seen Bitcoin crash\n\nBut I know this time ain\u2019t gonna be like that,\n\nCuz I ain\u2019t yo Hodlback girl, no I ain\u2019t yo hodlback girl\n\nLet\u2019s buy some Bitcoin, B-I-T-C-O-I-N!\n\nLet\u2019s buy some Bitcoin, B-I-T-C-O-I-N!\n\nNow I\u2019m going to smoke for 420 and be back tomorrow with Bitcoin in the 4000\u2019s.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei14l0b": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ei14l0b",
+            "Author": "PumperDumperr",
+            "Date Created": "03-07-2019 18:13:15",
+            "Upvotes": 5,
+            "Text": "I have stacked up a lot of alcoins. But from this point on, Im only buying BTC.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1jh6q": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ei1jh6q",
+            "Author": "time_wasted504",
+            "Date Created": "03-07-2019 21:30:10",
+            "Upvotes": 5,
+            "Text": "Jesus, when did the daily discussion become a keystyle rap cypher?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei00osk": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ei00osk",
+            "Author": "PumperDumperr",
+            "Date Created": "03-07-2019 10:48:28",
+            "Upvotes": 7,
+            "Text": "WE DONT FOLD!\n\nWE DONT BREAK!\n\nIT FUCKING HODL-WAY!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzo750": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ehzo750",
+            "Author": "bitcoinfloridagator",
+            "Date Created": "03-07-2019 08:01:38",
+            "Upvotes": 7,
+            "Text": "I\u2019m gonna tell you once, like I told you b-fo.\n\nThe Crypto Bears aint shorting no mo,\n\nThe Crypto Bears aint shorting no mo,\n\nThe Crypto Bears aint shorting no mo,\n\nAre you a Crypto Bear?  HELL NO! \n\nYo! Shaniqua, I love you. Call me!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzo60s": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ehzo60s",
+            "Author": "BitcoinAlways",
+            "Date Created": "03-07-2019 08:01:06",
+            "Upvotes": 5,
+            "Text": "Any thoughts of us getting over $4k today? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzc99h": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ehzc99h",
+            "Author": "uxtoidea",
+            "Date Created": "03-07-2019 03:06:43",
+            "Upvotes": 4,
+            "Text": "Here's an idea I've been thinking about. It's some type of UTXO economic majority voting thing. It would not require a hard fork to work but instead uses voluntary 0 fee transactions with the fees paid to miners in another unique way.\n\nHere's how it would work generally\n\n-every so often a checkpoint is defined as perhaps the first block every week or month\n\n-at the checkpoint the UTXO is hashed along with the block hash\n\n-software that signals UTXO checkpoints would create transactions with no fees but instead have an output to the address with the private key being the hash described earlier, the amount paid would be the same as what the fee would have been (the hash computation would only have to be done periodically)\n\n-because everyone including the miner can calculate this hash they can sweep all the outputs when they create a block, if a miner doesn't, anyone can sweep it\n\n-each block after the checkpoint would then contain many transactions that pay out to the same output and all appear to be 0 fee transactions\n\n-light wallets would then see what percentage of transactions are voting for that UTXO set by getting all blocks after the checkpoint till the next checkpoint\n\n-if a large enough margin of transactions are paid to special outputs the light wallet can be sure they are on the chain that is being used by the majority\n\n-it would seem attacks would be hard since the attacker would have to have more transactions in the blocks than the economic majority for a long period after the checkpoint\n\n-perhaps spam attacks would be easy to spot as there would be two competing UTXO sets being voted on and the software would wait for more certainty\n\n-software that votes erroneously would be ignored as the hash would be unknown so all those votes would be swept by non miners or only certain miners colluding\n\nIf most transactions were done this way, it would appear light clients could measure how true a UTXO set is likely to be based on measuring transactions contained in the blocks.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzlsuz": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ehzlsuz",
+            "Author": "AussieBitcoiner",
+            "Date Created": "03-07-2019 07:18:20",
+            "Upvotes": 2,
+            "Text": "it's great listening to [BitListen](https://www.bitlisten.com/) these days with the amount of transactions ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzota9": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ehzota9",
+            "Author": "otherwisemilk",
+            "Date Created": "03-07-2019 08:11:55",
+            "Upvotes": 2,
+            "Text": "I downloaded the bluewallet like everyone recommend and received 5 Satoshi from this nice guy on here so I can test out LN but I'm having trouble sending it to my \"new HD segwit\" or \"new segwit\" card. Can someone help? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei01tep": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ei01tep",
+            "Author": "nowTHATScomedy",
+            "Date Created": "03-07-2019 11:01:02",
+            "Upvotes": 2,
+            "Text": "Manipulators are trying something new to take advantage of bears. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0f5qn": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ei0f5qn",
+            "Author": "GERPHOENIX",
+            "Date Created": "03-07-2019 13:28:54",
+            "Upvotes": 2,
+            "Text": "I don't think this is the bottom but still a good point to invest in long term. Maybe average in over the following months/year",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehza4f7": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ehza4f7",
+            "Author": "bitcoinfloridagator",
+            "Date Created": "03-07-2019 02:15:19",
+            "Upvotes": 3,
+            "Text": "We\u2019re never gonna Stop. We\u2019re only gonna Pop. We shut Bears down and open up Shop. Buy and Hold. It is the new Gold. That\u2019s how Bitcoiners Roll!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzf7bq": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ehzf7bq",
+            "Author": "Keydo_731",
+            "Date Created": "03-07-2019 04:27:09",
+            "Upvotes": 1,
+            "Text": "Is there any plan to get rid of all the shitposts and memes reaching the frontpage? The quality of this sub is unbearable. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0d3lz": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ei0d3lz",
+            "Author": "Poop_Shame",
+            "Date Created": "03-07-2019 13:06:09",
+            "Upvotes": 1,
+            "Text": "Big dump a few hours from now. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei17ile": [
+        {
+            "Parent ID": "t3_ay9ruf",
+            "Comment ID": "ei17ile",
+            "Author": "bearparts",
+            "Date Created": "03-07-2019 18:50:20",
+            "Upvotes": 1,
+            "Text": "I feel like we\u2019re in for 3-5 years where the price bounces between 3-6K and then we see a rally mid decade onward. After all the ptsd is gone",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei051xp": [
+        {
+            "Parent ID": "t1_ei014ic",
+            "Comment ID": "ei051xp",
+            "Author": "godlypiggy",
+            "Date Created": "03-07-2019 11:37:01",
+            "Upvotes": 4,
+            "Text": "Im always ready for bull. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei046rc": [
+        {
+            "Parent ID": "t1_ei014ic",
+            "Comment ID": "ei046rc",
+            "Author": "bitcoinfloridagator",
+            "Date Created": "03-07-2019 11:27:27",
+            "Upvotes": 4,
+            "Text": "I\u2019m ready! \ud83d\ude4b\u200d\u2642\ufe0f",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei07ld9": [
+        {
+            "Parent ID": "t1_ei014ic",
+            "Comment ID": "ei07ld9",
+            "Author": "Benedict_ARNY",
+            "Date Created": "03-07-2019 12:05:00",
+            "Upvotes": 3,
+            "Text": "Bitcoin looks like it could have an upward bounce, but it\u2019s not getting to $6300 lol. It\u2019s not going much over 4K if it does bounce. \n\nI\u2019m starting to think we will get a short term bounce before the bottom falls out again to the 3400 price range. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1t4sg": [
+        {
+            "Parent ID": "t1_ei014ic",
+            "Comment ID": "ei1t4sg",
+            "Author": "[deleted]",
+            "Date Created": "03-07-2019 23:51:08",
+            "Upvotes": 1,
+            "Text": "!lntip 10",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0ze12": [
+        {
+            "Parent ID": "t1_ei0usx9",
+            "Comment ID": "ei0ze12",
+            "Author": "[deleted]",
+            "Date Created": "03-07-2019 17:11:06",
+            "Upvotes": 5,
+            "Text": "[deleted]",
+            "Edited?": "08-23-2019 13:30:56",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1t3pl": [
+        {
+            "Parent ID": "t1_ei14l0b",
+            "Comment ID": "ei1t3pl",
+            "Author": "[deleted]",
+            "Date Created": "03-07-2019 23:50:38",
+            "Upvotes": 1,
+            "Text": "!lntip 10",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei07ugc": [
+        {
+            "Parent ID": "t1_ei00osk",
+            "Comment ID": "ei07ugc",
+            "Author": "antikama",
+            "Date Created": "03-07-2019 12:07:51",
+            "Upvotes": 7,
+            "Text": "HODL crew member signing up for duty",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei04b6z": [
+        {
+            "Parent ID": "t1_ei00osk",
+            "Comment ID": "ei04b6z",
+            "Author": "bitcoinfloridagator",
+            "Date Created": "03-07-2019 11:28:48",
+            "Upvotes": 5,
+            "Text": "You and me baby ain\u2019t nothing but Mammals,\n\nSo let\u2019s buy some more Bitcoin in the Bullish Channel.\n\nGetting Hodl now!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzpkg4": [
+        {
+            "Parent ID": "t1_ehzo60s",
+            "Comment ID": "ehzpkg4",
+            "Author": "diydude2",
+            "Date Created": "03-07-2019 08:24:07",
+            "Upvotes": 6,
+            "Text": "Maybe, maybe not today.  It's coming though.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei053h6": [
+        {
+            "Parent ID": "t1_ehzo60s",
+            "Comment ID": "ei053h6",
+            "Author": "godlypiggy",
+            "Date Created": "03-07-2019 11:37:28",
+            "Upvotes": 3,
+            "Text": "This weeekend maybe ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzofne": [
+        {
+            "Parent ID": "t1_ehzo60s",
+            "Comment ID": "ehzofne",
+            "Author": "Sumo_Bro",
+            "Date Created": "03-07-2019 08:05:43",
+            "Upvotes": 2,
+            "Text": "good luck!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei00i9x": [
+        {
+            "Parent ID": "t1_ehzo60s",
+            "Comment ID": "ei00i9x",
+            "Author": "Benedict_ARNY",
+            "Date Created": "03-07-2019 10:46:25",
+            "Upvotes": 2,
+            "Text": "Gonna be a no for me dawg. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1t5m6": [
+        {
+            "Parent ID": "t1_ehzo60s",
+            "Comment ID": "ei1t5m6",
+            "Author": "[deleted]",
+            "Date Created": "03-07-2019 23:51:30",
+            "Upvotes": 1,
+            "Text": "!lntip 10",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei01cs3": [
+        {
+            "Parent ID": "t1_ehzlsuz",
+            "Comment ID": "ei01cs3",
+            "Author": "BlankEris",
+            "Date Created": "03-07-2019 10:55:54",
+            "Upvotes": 1,
+            "Text": "that's really cool. reminds me of this visualizer:\nhttps://txstreet.com/",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei08vxc": [
+        {
+            "Parent ID": "t1_ehzota9",
+            "Comment ID": "ei08vxc",
+            "Author": "tomius",
+            "Date Created": "03-07-2019 12:19:30",
+            "Upvotes": 2,
+            "Text": "As far as I know, BlueWallet doesn't allow to take funds from LN to a normal Bitcoin wallet. I guess they'll include that sooner than later. It's due time.\n\nHowever, there are services that do that. It's linked in BW itself:\n\nhttps://zigzag.io/?utm_source=integration&utm_medium=bluewallet&utm_campaign=withdrawLink#/\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0rbbw": [
+        {
+            "Parent ID": "t1_ehzota9",
+            "Comment ID": "ei0rbbw",
+            "Author": "Hanspanzer",
+            "Date Created": "03-07-2019 15:40:48",
+            "Upvotes": 1,
+            "Text": "you have to use an exchange. go into your LN wallet and then go 'manage funds' --> withdraw.  \n\n5sats is not enough though. the fee for.o chain tx is higher.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1t5aa": [
+        {
+            "Parent ID": "t1_ehzota9",
+            "Comment ID": "ei1t5aa",
+            "Author": "[deleted]",
+            "Date Created": "03-07-2019 23:51:21",
+            "Upvotes": 1,
+            "Text": "!lntip 10",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1t4kj": [
+        {
+            "Parent ID": "t1_ei01tep",
+            "Comment ID": "ei1t4kj",
+            "Author": "[deleted]",
+            "Date Created": "03-07-2019 23:51:02",
+            "Upvotes": 2,
+            "Text": "!lntip 10",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1639m": [
+        {
+            "Parent ID": "t1_ei0f5qn",
+            "Comment ID": "ei1639m",
+            "Author": "Carlizawwsum",
+            "Date Created": "03-07-2019 18:32:05",
+            "Upvotes": 4,
+            "Text": "You can always cost average but always worth reminding people to not invest more than they can afford to lose ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1t45h": [
+        {
+            "Parent ID": "t1_ei0f5qn",
+            "Comment ID": "ei1t45h",
+            "Author": "[deleted]",
+            "Date Created": "03-07-2019 23:50:49",
+            "Upvotes": 1,
+            "Text": "!lntip 10",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzd1ls": [
+        {
+            "Parent ID": "t1_ehza4f7",
+            "Comment ID": "ehzd1ls",
+            "Author": "Hanspanzer",
+            "Date Created": "03-07-2019 03:26:54",
+            "Upvotes": 4,
+            "Text": "we never gonna fold  \nour UTXOs get old  \ndrive-in in a lambo  \nscanning QR codes  \n\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzckam": [
+        {
+            "Parent ID": "t1_ehza4f7",
+            "Comment ID": "ehzckam",
+            "Author": "vickar12",
+            "Date Created": "03-07-2019 03:14:22",
+            "Upvotes": -3,
+            "Text": "A year ago BTC was 8400 so what are you even talking about... edit, lol at all you idiots downvoting a fact, not an opinion.",
+            "Edited?": "03-07-2019 10:16:03",
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0gov4": [
+        {
+            "Parent ID": "t1_ei0d3lz",
+            "Comment ID": "ei0gov4",
+            "Author": "SirDipShittington",
+            "Date Created": "03-07-2019 13:45:40",
+            "Upvotes": 3,
+            "Text": "Why do you think this?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0j5ih": [
+        {
+            "Parent ID": "t1_ei0d3lz",
+            "Comment ID": "ei0j5ih",
+            "Author": "[deleted]",
+            "Date Created": "03-07-2019 14:12:38",
+            "Upvotes": 1,
+            "Text": "[deleted]",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1t4fj": [
+        {
+            "Parent ID": "t1_ei0d3lz",
+            "Comment ID": "ei1t4fj",
+            "Author": "[deleted]",
+            "Date Created": "03-07-2019 23:50:57",
+            "Upvotes": 1,
+            "Text": "!lntip 10",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1ac0e": [
+        {
+            "Parent ID": "t1_ei17ile",
+            "Comment ID": "ei1ac0e",
+            "Author": "click_again",
+            "Date Created": "03-07-2019 19:26:22",
+            "Upvotes": 6,
+            "Text": "If all it takes is only 5 years for me to x5 the money today I will take it by all means.\n\nListen up people. Just patiently accumulate in this bear period. You will have a considerable amount of bitcoin stack accumulated over the years. When the next ATH hit, all the small accumulation you made over the year turn  into a lambo.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0wyjm": [
+        {
+            "Parent ID": "t1_ei07ld9",
+            "Comment ID": "ei0wyjm",
+            "Author": "diydude2",
+            "Date Created": "03-07-2019 16:43:15",
+            "Upvotes": 3,
+            "Text": "Bitcoin has doubled in price in a short period of time many, many times, man.  It's about to do it again.  ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1t5e3": [
+        {
+            "Parent ID": "t1_ei1t4sg",
+            "Comment ID": "ei1t5e3",
+            "Author": "lntipbot",
+            "Date Created": "03-07-2019 23:51:23",
+            "Upvotes": 1,
+            "Text": "Hi u/andriyko, thanks for tipping u/diydude2 **10** satoshis!\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei11eaw": [
+        {
+            "Parent ID": "t1_ei0ze12",
+            "Comment ID": "ei11eaw",
+            "Author": "bitcoinfloridagator",
+            "Date Created": "03-07-2019 17:34:37",
+            "Upvotes": 4,
+            "Text": "Said Doge 45 and 2 Bitcoins\n\nBaby that\u2019s all we need.\n\nWe can go to Binance, take the chance\n\nAnd Make all those bears bleed,\n\nAnd when all the fiat burns, we can take our turn\n\nTelling all the shorts they\u2019re wrong. \n\nAt a million bucks, they still say bitcoin sucks, \n\nWhile Holders get rich from staying long",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1t436": [
+        {
+            "Parent ID": "t1_ei1t3pl",
+            "Comment ID": "ei1t436",
+            "Author": "lntipbot",
+            "Date Created": "03-07-2019 23:50:48",
+            "Upvotes": 1,
+            "Text": "Hi u/andriyko, thanks for tipping u/PumperDumperr **10** satoshis!\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0tsqg": [
+        {
+            "Parent ID": "t1_ei04b6z",
+            "Comment ID": "ei0tsqg",
+            "Author": "GreenStretch",
+            "Date Created": "03-07-2019 16:08:08",
+            "Upvotes": 3,
+            "Text": "I thought this song was by Sisqo because the singer says he's Sisqo.  But it was really, \"I'm Siskel and I'm Ebert and I give you two thumbs up.\"",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0db0r": [
+        {
+            "Parent ID": "t1_ei053h6",
+            "Comment ID": "ei0db0r",
+            "Author": "[deleted]",
+            "Date Created": "03-07-2019 13:08:26",
+            "Upvotes": 7,
+            "Text": "I predict this weekend BTC will either go UP, DOWN, or SIDEWAYS. \n\nWho wants to bet me? ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0htcu": [
+        {
+            "Parent ID": "t1_ei00i9x",
+            "Comment ID": "ei0htcu",
+            "Author": "BitcoinAlways",
+            "Date Created": "03-07-2019 13:58:05",
+            "Upvotes": 2,
+            "Text": "I think you maybe right, hopefully soon though.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1t6al": [
+        {
+            "Parent ID": "t1_ei1t5m6",
+            "Comment ID": "ei1t6al",
+            "Author": "lntipbot",
+            "Date Created": "03-07-2019 23:51:48",
+            "Upvotes": 1,
+            "Text": "Hi u/andriyko, thanks for tipping u/BitcoinAlways **10** satoshis!\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei09wbl": [
+        {
+            "Parent ID": "t1_ei01cs3",
+            "Comment ID": "ei09wbl",
+            "Author": "justinjustinian",
+            "Date Created": "03-07-2019 12:30:48",
+            "Upvotes": 1,
+            "Text": ">https://txstreet.com/\n\nWow, that gave me a PTSD. If I was waiting there I would really hate that next bus is not coming :P, joke aside really nice animation. It is also very sad to see the bch side being so empty especially considering busses are twice as big.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0d8xz": [
+        {
+            "Parent ID": "t1_ei08vxc",
+            "Comment ID": "ei0d8xz",
+            "Author": "[deleted]",
+            "Date Created": "03-07-2019 13:07:47",
+            "Upvotes": 1,
+            "Text": "Ooof. Just sayin. We're talkin a centralized 2nd layer solution still with LN. \n\nI want to believe. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1t69g": [
+        {
+            "Parent ID": "t1_ei1t5aa",
+            "Comment ID": "ei1t69g",
+            "Author": "lntipbot",
+            "Date Created": "03-07-2019 23:51:48",
+            "Upvotes": 1,
+            "Text": "Hi u/andriyko, thanks for tipping u/otherwisemilk **10** satoshis!\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1t5ci": [
+        {
+            "Parent ID": "t1_ei1t4kj",
+            "Comment ID": "ei1t5ci",
+            "Author": "lntipbot",
+            "Date Created": "03-07-2019 23:51:22",
+            "Upvotes": 1,
+            "Text": "Hi u/andriyko, thanks for tipping u/nowTHATScomedy **10** satoshis!\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei16in1": [
+        {
+            "Parent ID": "t1_ei1639m",
+            "Comment ID": "ei16in1",
+            "Author": "GERPHOENIX",
+            "Date Created": "03-07-2019 18:37:29",
+            "Upvotes": 3,
+            "Text": "I still go to school and live with my parents so I can theoretically afford to lose everything but still I \"only\" put 1/3 of the money I save in crypto. \nGot in at 6000 first time but I'm hodling for long term.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1oz0w": [
+        {
+            "Parent ID": "t1_ei1639m",
+            "Comment ID": "ei1oz0w",
+            "Author": "[deleted]",
+            "Date Created": "03-07-2019 22:46:44",
+            "Upvotes": 1,
+            "Text": "Buy what makes you happy.  If owning Bitcoin makes you happy, buy Bitcoin.   Not disagreeing with you, just screaming into the void.   ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1t4my": [
+        {
+            "Parent ID": "t1_ei1t45h",
+            "Comment ID": "ei1t4my",
+            "Author": "lntipbot",
+            "Date Created": "03-07-2019 23:51:04",
+            "Upvotes": 1,
+            "Text": "Hi u/andriyko, thanks for tipping u/GERPHOENIX **10** satoshis!\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzg13m": [
+        {
+            "Parent ID": "t1_ehzckam",
+            "Comment ID": "ehzg13m",
+            "Author": "bitcoinfloridagator",
+            "Date Created": "03-07-2019 04:51:10",
+            "Upvotes": 6,
+            "Text": "A year from now we will be over 8400 again meaning anyone that shorted here lost all their money in margin calls.  \ud83d\udcb0\ud83d\udc49 \ud83d\udebd.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei020hq": [
+        {
+            "Parent ID": "t1_ehzckam",
+            "Comment ID": "ei020hq",
+            "Author": "cryptogrip",
+            "Date Created": "03-07-2019 11:03:13",
+            "Upvotes": 3,
+            "Text": "I would look at the last decade to get a much more accurate perspective of where this is headed. At least the last 5 years anyway. Remember there was a hugh spike in price in 2017, so naturally there was an equally huge pull back to correct. The trend is still upwards with many many years to grow.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0qhng": [
+        {
+            "Parent ID": "t1_ehzckam",
+            "Comment ID": "ei0qhng",
+            "Author": "Hanspanzer",
+            "Date Created": "03-07-2019 15:31:42",
+            "Upvotes": 2,
+            "Text": "moon soon ma boi. 20k end of 2020. eas pease lambo time. lol",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzctfb": [
+        {
+            "Parent ID": "t1_ehzckam",
+            "Comment ID": "ehzctfb",
+            "Author": "maxtbag",
+            "Date Created": "03-07-2019 03:20:56",
+            "Upvotes": 0,
+            "Text": "He's a redditor for one week acting like btc's hype man. It's an indication to sell. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0h6r8": [
+        {
+            "Parent ID": "t1_ei0gov4",
+            "Comment ID": "ei0h6r8",
+            "Author": "Poop_Shame",
+            "Date Created": "03-07-2019 13:51:06",
+            "Upvotes": 8,
+            "Text": "I had a really big breakfast. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0kbai": [
+        {
+            "Parent ID": "t1_ei0j5ih",
+            "Comment ID": "ei0kbai",
+            "Author": "Poop_Shame",
+            "Date Created": "03-07-2019 14:25:16",
+            "Upvotes": 0,
+            "Text": "I'll give you a final turd count when the time comes. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1t5bg": [
+        {
+            "Parent ID": "t1_ei1t4fj",
+            "Comment ID": "ei1t5bg",
+            "Author": "lntipbot",
+            "Date Created": "03-07-2019 23:51:22",
+            "Upvotes": 1,
+            "Text": "Hi u/andriyko, thanks for tipping u/Poop_Shame **10** satoshis!\n***\n*[^(More info)](https://www.reddit.com/r/lntipbot/wiki/index) ^| [^(Balance)](https://www.reddit.com/message/compose/?to=lntipbot&subject=balance&message=!balance) ^| [^(Deposit)](https://www.reddit.com/message/compose/?to=lntipbot&subject=deposit&message=!deposit 10000) ^| [^(Withdraw)](https://www.reddit.com/message/compose/?to=lntipbot&subject=withdraw&message=!withdraw put_invoice_here) ^| ^(Something wrong?  Have a question?) [^(Send me a message)](https://www.reddit.com/message/compose/?to=drmoore718)*",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei11eqo": [
+        {
+            "Parent ID": "t1_ei0wyjm",
+            "Comment ID": "ei11eqo",
+            "Author": "Benedict_ARNY",
+            "Date Created": "03-07-2019 17:34:46",
+            "Upvotes": 1,
+            "Text": "It has way too much resistance to jump to 6k right now. We need to see it hold above 4K first. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0u6fp": [
+        {
+            "Parent ID": "t1_ei0tsqg",
+            "Comment ID": "ei0u6fp",
+            "Author": "bitcoinfloridagator",
+            "Date Created": "03-07-2019 16:12:25",
+            "Upvotes": 2,
+            "Text": "My name is Bitcoin Gator and I like to say what\u2019s up \n\nShout out to Dorsey \n\nShout out to Draper\n\nFrom me, you\u2019re getting two thumbs up \ud83d\udc4d!",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1jdnz": [
+        {
+            "Parent ID": "t1_ei0tsqg",
+            "Comment ID": "ei1jdnz",
+            "Author": "time_wasted504",
+            "Date Created": "03-07-2019 21:28:47",
+            "Upvotes": 2,
+            "Text": "Bloodhound Gang - Hooray for Boobies was released in late 99. Same time as Sisqo - Unleash The Dragon. So the timing was right as they were both on high radio rotation, but they sound nothing alike.\n\n\n",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0cisq": [
+        {
+            "Parent ID": "t1_ei09wbl",
+            "Comment ID": "ei0cisq",
+            "Author": "MrRGnome",
+            "Date Created": "03-07-2019 12:59:41",
+            "Upvotes": 2,
+            "Text": "More than twice as big 32 times as big, but the driver is a drunk who can't reliably stay on the road and the bus itself is too big to handle the corners. It's not a secure bus to be taking anywhere.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1sz2d": [
+        {
+            "Parent ID": "t1_ei0d8xz",
+            "Comment ID": "ei1sz2d",
+            "Author": "time_wasted504",
+            "Date Created": "03-07-2019 23:48:36",
+            "Upvotes": 2,
+            "Text": "not centralised, just early days.\n\nYou can run your own node and accept that 5 sats if you already have a channel open, but its not as easy. Closing channels to receive it in a BTC wallet requires an on chain tx, so 5 sats aint gonna cut it.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzgu7q": [
+        {
+            "Parent ID": "t1_ehzg13m",
+            "Comment ID": "ehzgu7q",
+            "Author": "vickar12",
+            "Date Created": "03-07-2019 05:14:25",
+            "Upvotes": 2,
+            "Text": "Yep, point that finger at the toilet because that's how accurate your claim is.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei09wjd": [
+        {
+            "Parent ID": "t1_ei020hq",
+            "Comment ID": "ei09wjd",
+            "Author": "Benedict_ARNY",
+            "Date Created": "03-07-2019 12:30:52",
+            "Upvotes": 2,
+            "Text": "That doesn\u2019t change we are limited to buy fiat. I believe in bitcoin and have already invested more money that I ever thought I would. Hodl is a safe plan for the longterm.  \n\nShorting bitcoin allows me to increase my coin count. My only goal is increasing coin count. Price isn\u2019t relevant in 2019. If anything lower is better. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzfytm": [
+        {
+            "Parent ID": "t1_ehzctfb",
+            "Comment ID": "ehzfytm",
+            "Author": "bitcoinfloridagator",
+            "Date Created": "03-07-2019 04:49:23",
+            "Upvotes": 5,
+            "Text": "I\u2019ll be here for a long time as we hype our way back to 20,000. Me reading Reddit since 12/15/18 has been an indication to buy since most of you don\u2019t believe.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzpzj5": [
+        {
+            "Parent ID": "t1_ehzctfb",
+            "Comment ID": "ehzpzj5",
+            "Author": "diydude2",
+            "Date Created": "03-07-2019 08:30:43",
+            "Upvotes": 2,
+            "Text": "I think he's acting more like an MC than a hype man.  \n\nhttps://www.youtube.com/watch?v=v3yfC_isiYs",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0j3v7": [
+        {
+            "Parent ID": "t1_ei0h6r8",
+            "Comment ID": "ei0j3v7",
+            "Author": "Rattlesnake_Mullet",
+            "Date Created": "03-07-2019 14:12:08",
+            "Upvotes": 2,
+            "Text": "Future seems determined.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0pt4j": [
+        {
+            "Parent ID": "t1_ei0h6r8",
+            "Comment ID": "ei0pt4j",
+            "Author": "SirDipShittington",
+            "Date Created": "03-07-2019 15:24:15",
+            "Upvotes": 2,
+            "Text": "Me too actually. So,.. double plus dump then?\n\n&#x200B;\n\nAlso, there is no shame in pooping, most all people do it. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei1ny6r": [
+        {
+            "Parent ID": "t1_ei1jdnz",
+            "Comment ID": "ei1ny6r",
+            "Author": "GreenStretch",
+            "Date Created": "03-07-2019 22:31:58",
+            "Upvotes": 2,
+            "Text": "Yeah, just that one line was confusing to me.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzgwc6": [
+        {
+            "Parent ID": "t1_ehzgu7q",
+            "Comment ID": "ehzgwc6",
+            "Author": "bitcoinfloridagator",
+            "Date Created": "03-07-2019 05:16:06",
+            "Upvotes": 6,
+            "Text": "I\u2019m screenshotting this so when we\u2019re back to 8400 I will post on Reddit to show this is why I bought the bottom. Enjoy being famous in a year or less.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzq6yt": [
+        {
+            "Parent ID": "t1_ehzfytm",
+            "Comment ID": "ehzq6yt",
+            "Author": "diydude2",
+            "Date Created": "03-07-2019 08:34:00",
+            "Upvotes": 2,
+            "Text": "The proliferation of beartrolls lately is the biggest buy signal I can imagine.  Shows how desperate Shorty's gettin', scraping the bottom of the barrel to try and influence sentiment.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei09yms": [
+        {
+            "Parent ID": "t1_ehzgwc6",
+            "Comment ID": "ei09yms",
+            "Author": "Benedict_ARNY",
+            "Date Created": "03-07-2019 12:31:31",
+            "Upvotes": 2,
+            "Text": "Bitcoin will hit 8400. But this ain\u2019t the bottom. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzha6m": [
+        {
+            "Parent ID": "t1_ehzgwc6",
+            "Comment ID": "ehzha6m",
+            "Author": "vickar12",
+            "Date Created": "03-07-2019 05:26:59",
+            "Upvotes": -5,
+            "Text": "We will see",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0a7w1": [
+        {
+            "Parent ID": "t1_ei09yms",
+            "Comment ID": "ei0a7w1",
+            "Author": "bitcoinfloridagator",
+            "Date Created": "03-07-2019 12:34:24",
+            "Upvotes": 2,
+            "Text": "Well it has been for 2 months and 3 weeks now.  Does it have to hold for 2 years and 3 months before its the bottom?",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ehzpux7": [
+        {
+            "Parent ID": "t1_ehzha6m",
+            "Comment ID": "ehzpux7",
+            "Author": "diydude2",
+            "Date Created": "03-07-2019 08:28:43",
+            "Upvotes": 3,
+            "Text": "I feel sorry for you.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0bwaw": [
+        {
+            "Parent ID": "t1_ei0a7w1",
+            "Comment ID": "ei0bwaw",
+            "Author": "Benedict_ARNY",
+            "Date Created": "03-07-2019 12:52:51",
+            "Upvotes": 3,
+            "Text": "It has to be the actual bottom before it\u2019s the bottom. I\u2019m sure you thought the bottom was 6000 like everyone else also.  The price also had a nice bounce off 6000 2 months later back up to 8500. In sure you thought that was the start of the bull market like everyone else.\n\nI\u2019ll continue to think the opposite of the majority. Last time I check the majority isn\u2019t rich. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0c8nk": [
+        {
+            "Parent ID": "t1_ei0bwaw",
+            "Comment ID": "ei0c8nk",
+            "Author": "bitcoinfloridagator",
+            "Date Created": "03-07-2019 12:56:36",
+            "Upvotes": 2,
+            "Text": "Actually I didn\u2019t. \n\nActually I bought 2 bitcoins at 2k Feb 2017 sold at 12k Nov 2017 and owned zero crypto for 13 months.\n\nActually I bought back in on 12/15/18 with prior profits.\n\nI guess I\u2019m not part of the majority or something? Lol.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0fgdl": [
+        {
+            "Parent ID": "t1_ei0c8nk",
+            "Comment ID": "ei0fgdl",
+            "Author": "Benedict_ARNY",
+            "Date Created": "03-07-2019 13:32:08",
+            "Upvotes": 2,
+            "Text": "You\u2019re part of it now. \n\nLooks like doing the opposite of the majority in November worked out for you. ",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0flse": [
+        {
+            "Parent ID": "t1_ei0fgdl",
+            "Comment ID": "ei0flse",
+            "Author": "bitcoinfloridagator",
+            "Date Created": "03-07-2019 13:33:48",
+            "Upvotes": 2,
+            "Text": "Yeah well when Bitcoin is on the Big Bang Theory and they say it\u2019s only going up, the contrarian in me says sell.\n\nOn 12/15/18 when I read article after article saying we\u2019re only going down, the contrarian in me says buy.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0hb5b": [
+        {
+            "Parent ID": "t1_ei0flse",
+            "Comment ID": "ei0hb5b",
+            "Author": "Benedict_ARNY",
+            "Date Created": "03-07-2019 13:52:28",
+            "Upvotes": 2,
+            "Text": "I agree we are going up. I just see all these scams and don\u2019t see a way bitcoin hold any gains. I think it will get uglier before it gets better.\n\nEither way I\u2019m in the game lol. I say it a lot but my motto is error on the side of down until it shows otherwise.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ],
+    "ei0hitn": [
+        {
+            "Parent ID": "t1_ei0hb5b",
+            "Comment ID": "ei0hitn",
+            "Author": "bitcoinfloridagator",
+            "Date Created": "03-07-2019 13:54:49",
+            "Upvotes": 1,
+            "Text": "I agree there are a lot of scams out there where I did a meme before called the gates of shitcoin hell with craig wrong and BSV, Roger and Btrash and Jamie Dimon with JPM coin, I\u2019m blocking those out and just accumulating more and more Satoshis. I\u2019m only 34 I got a long time to play this game.",
+            "Edited?": false,
+            "Is Submitter?": false,
+            "Stickied?": false
+        }
+    ]
+}
