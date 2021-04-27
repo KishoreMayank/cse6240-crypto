@@ -7,6 +7,13 @@ Getting the Data:
 
 The Reddit Crypto Price Predictor.ipynb contains everything needed to work with the Reddit code and train the SVM model
  - Some cells may be out of order, because code was moved around, so if you don't have a variable search for it and run the cell that creates it
+
+To run the Twitter data:
+ - Download the data
+ - Run twitter.ipynb
+ - Run twitter_vis.ipynb
+ - Run twitter_graph.ipynb
+ - Run twiiter_model.ipynb
  
 The Notebook for the Twitter Data is in twitter.ipynb
  - Some cells may be out of order, because code was moved around, so if you don't have a variable search for it and run the cell that creates it
